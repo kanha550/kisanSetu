@@ -1,0 +1,2 @@
+# KisanSetu Upload Folder
+This folder stores crop listing pictures uploaded by farmers.
