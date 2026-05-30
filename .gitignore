@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Parcel cache (can be very large)
+.parcel-cache/
+**/. parcel-cache/
+FrontEnd/.parcel-cache/
+
+# Build output
+dist/
+build/
+**/dist/
+**/build/
+
+# Environment variables (sensitive)
+.env
+**/.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Uploads (large binary files)
+Backend/uploads/*.jpg
+Backend/uploads/*.jpeg
+Backend/uploads/*.png
+Backend/uploads/*.gif
+Backend/uploads/*.webp
