@@ -27,7 +27,7 @@ function AboutUs() {
             </div>
             <h3 className="text-xl font-bold text-emerald-950 mb-2">Digital Marketplace</h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              We eliminate intermediaries by letting farmers list crops directly, helping buyers purchase authentic, fresh farm harvest with ease.
+             It gives farmers an easy-to-use platform to sell their crops. Buyers can browse through different crops, compare prices, and purchase directly from farmers.
             </p>
           </div>
 
