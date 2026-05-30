@@ -37207,7 +37207,7 @@ function Footer() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            children: "+91 98765 43210"
+                                            children: "+91 9918383130"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.js",
                                             lineNumber: 40,
@@ -37230,7 +37230,7 @@ function Footer() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            children: "support@kisansetu.in"
+                                            children: "kanhaiyamishra2005@gmail.com"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.js",
                                             lineNumber: 44,
@@ -37253,7 +37253,7 @@ function Footer() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            children: "Indian Agricultural Research Institute, Pusa, New Delhi"
+                                            children: "Empowering Indian Agriculture Through Technology"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.js",
                                             lineNumber: 48,
@@ -37283,7 +37283,7 @@ function Footer() {
                         children: [
                             "\xa9 ",
                             new Date().getFullYear(),
-                            " KisanSetu Platform. All Rights Reserved. Empowering Indian Agriculture."
+                            " KisanSetu Platform. All Rights Reserved."
                         ]
                     }, void 0, true, {
                         fileName: "src/components/Footer.js",
@@ -45026,7 +45026,7 @@ function FarmerDashboard() {
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                                     className: "text-xs text-gray-500 font-bold",
-                                                                    children: "PNG, JPG, JPEG, WEBP files up to 5MB"
+                                                                    children: "PNG, JPG, JPEG, WEBP files up to 2MB"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
                                                                     lineNumber: 496,
@@ -47149,87 +47149,46 @@ function AboutUs() {
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                 className: "flex flex-col sm:flex-row justify-center items-center gap-12",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "w-48 text-center bg-white p-5 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "bg-emerald-50 h-28 w-28 rounded-full mx-auto mb-4 flex items-center justify-center text-emerald-700",
-                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.User), {
-                                                    className: "h-12 w-12"
-                                                }, void 0, false, {
-                                                    fileName: "src/pages/AboutUs.js",
-                                                    lineNumber: 61,
-                                                    columnNumber: 17
-                                                }, this)
+                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "w-48 text-center bg-white p-5 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow",
+                                    children: [
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            className: "bg-emerald-50 h-28 w-28 rounded-full mx-auto mb-4 flex items-center justify-center text-emerald-700",
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.User), {
+                                                className: "h-12 w-12"
                                             }, void 0, false, {
                                                 fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 60,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                                                className: "font-bold text-lg text-emerald-950",
-                                                children: "Kanhaiya Mishra"
-                                            }, void 0, false, {
-                                                fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 63,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                className: "text-xs text-amber-600 font-bold uppercase tracking-wider mt-1",
-                                                children: "Lead Architect"
-                                            }, void 0, false, {
-                                                fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 64,
-                                                columnNumber: 15
+                                                lineNumber: 61,
+                                                columnNumber: 17
                                             }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/pages/AboutUs.js",
-                                        lineNumber: 59,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "w-48 text-center bg-white p-5 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "bg-emerald-50 h-28 w-28 rounded-full mx-auto mb-4 flex items-center justify-center text-emerald-700",
-                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.User), {
-                                                    className: "h-12 w-12"
-                                                }, void 0, false, {
-                                                    fileName: "src/pages/AboutUs.js",
-                                                    lineNumber: 68,
-                                                    columnNumber: 17
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 67,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                                                className: "font-bold text-lg text-emerald-950",
-                                                children: "Arjun Singh"
-                                            }, void 0, false, {
-                                                fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 70,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                className: "text-xs text-amber-600 font-bold uppercase tracking-wider mt-1",
-                                                children: "Agritech Operations"
-                                            }, void 0, false, {
-                                                fileName: "src/pages/AboutUs.js",
-                                                lineNumber: 71,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/pages/AboutUs.js",
-                                        lineNumber: 66,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
+                                        }, void 0, false, {
+                                            fileName: "src/pages/AboutUs.js",
+                                            lineNumber: 60,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
+                                            className: "font-bold text-lg text-emerald-950",
+                                            children: "Kanhaiya Mishra"
+                                        }, void 0, false, {
+                                            fileName: "src/pages/AboutUs.js",
+                                            lineNumber: 63,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                            className: "text-xs text-amber-600 font-bold uppercase tracking-wider mt-1",
+                                            children: "Lead Architect"
+                                        }, void 0, false, {
+                                            fileName: "src/pages/AboutUs.js",
+                                            lineNumber: 64,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "src/pages/AboutUs.js",
+                                    lineNumber: 59,
+                                    columnNumber: 13
+                                }, this)
+                            }, void 0, false, {
                                 fileName: "src/pages/AboutUs.js",
                                 lineNumber: 58,
                                 columnNumber: 11

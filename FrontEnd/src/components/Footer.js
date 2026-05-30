@@ -37,21 +37,21 @@ function Footer() {
             <h4 className="text-white font-semibold text-base mb-4 uppercase tracking-wider">Get in Touch</h4>
             <div className="flex items-center space-x-2 text-sm">
               <Phone className="h-4 w-4 text-amber-400" />
-              <span>+91 98765 43210</span>
+              <span>+91 9918383130</span>
             </div>
             <div className="flex items-center space-x-2 text-sm">
               <Mail className="h-4 w-4 text-amber-400" />
-              <span>support@kisansetu.in</span>
+              <span>kanhaiyamishra2005@gmail.com</span>
             </div>
             <div className="flex items-center space-x-2 text-sm">
               <MapPin className="h-4 w-4 text-amber-400" />
-              <span>Indian Agricultural Research Institute, Pusa, New Delhi</span>
+              <span>Empowering Indian Agriculture Through Technology</span>
             </div>
           </div>
         </div>
 
         <div className="border-t border-emerald-900 pt-6 text-center text-xs text-emerald-300/50">
-          <p>© {new Date().getFullYear()} KisanSetu Platform. All Rights Reserved. Empowering Indian Agriculture.</p>
+          <p>© {new Date().getFullYear()} KisanSetu Platform. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

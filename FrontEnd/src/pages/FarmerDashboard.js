@@ -493,7 +493,7 @@ function FarmerDashboard() {
                       ) : (
                         <div className="text-center space-y-2">
                           <Upload className="h-8 w-8 text-gray-400 mx-auto" />
-                          <p className="text-xs text-gray-500 font-bold">PNG, JPG, JPEG, WEBP files up to 5MB</p>
+                          <p className="text-xs text-gray-500 font-bold">PNG, JPG, JPEG, WEBP files up to 2MB</p>
                           <label className="inline-block bg-emerald-700 hover:bg-emerald-600 text-white font-bold text-xs px-4 py-2 rounded-xl cursor-pointer transition-all shadow-sm">
                             Choose File
                             <input

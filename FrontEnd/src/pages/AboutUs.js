@@ -63,13 +63,13 @@ function AboutUs() {
               <h4 className="font-bold text-lg text-emerald-950">Kanhaiya Mishra</h4>
               <p className="text-xs text-amber-600 font-bold uppercase tracking-wider mt-1">Lead Architect</p>
             </div>
-            <div className="w-48 text-center bg-white p-5 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+            {/* <div className="w-48 text-center bg-white p-5 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
               <div className="bg-emerald-50 h-28 w-28 rounded-full mx-auto mb-4 flex items-center justify-center text-emerald-700">
                 <User className="h-12 w-12" />
               </div>
               <h4 className="font-bold text-lg text-emerald-950">Arjun Singh</h4>
               <p className="text-xs text-amber-600 font-bold uppercase tracking-wider mt-1">Agritech Operations</p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
