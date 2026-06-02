@@ -9,7 +9,9 @@ import {
   deleteCropListing,
   fetchFarmerOrders,
   updateOrderStatus,
-  uploadImage
+  uploadImage,
+  getOrCreateConversation,
+  getMe
 } from '../utils/api';
 import { 
   BarChart, 
@@ -20,14 +22,22 @@ import {
   IndianRupee, 
   TrendingUp, 
   Upload, 
-  Loader2 
+  Loader2,
+  MessageCircle
 } from 'lucide-react';
+import ChatWidget from '../components/ChatWidget';
 
 function FarmerDashboard() {
   const [activeTab, setActiveTab] = useState('overview'); // 'overview' | 'listings' | 'add' | 'orders'
   const [crops, setCrops] = useState([]);
   const [orders, setOrders] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [currentUser, setCurrentUser] = useState(null);
+
+  // Chat UI states
+  const [isChatOpen, setIsChatOpen] = useState(false);
+  const [chatPartnerId, setChatPartnerId] = useState(null);
+  const [chatOrderId, setChatOrderId] = useState(null);
 
   // Form states for adding/editing crop
   const [editingCrop, setEditingCrop] = useState(null);
@@ -60,6 +70,30 @@ function FarmerDashboard() {
   useEffect(() => {
     loadData();
   }, []);
+
+  useEffect(() => {
+    const fetchMe = async () => {
+      try {
+        const res = await getMe();
+        if (res.data?.success) setCurrentUser(res.data.user);
+      } catch (err) {
+        console.error('Failed to get current user:', err);
+      }
+    };
+    fetchMe();
+  }, []);
+
+  const openChatWithBuyer = async (buyerId, orderId) => {
+    try {
+      await getOrCreateConversation({ partnerId: buyerId, orderId });
+      setChatPartnerId(buyerId);
+      setChatOrderId(orderId);
+      setIsChatOpen(true);
+    } catch (err) {
+      console.error('Failed to open chat', err);
+      alert('Could not start chat right now.');
+    }
+  };
 
   // Image Upload handler
   const handleImageUpload = async (e) => {
@@ -232,6 +266,13 @@ function FarmerDashboard() {
           >
             <ClipboardList className="h-4 w-4" />
             <span>Received Orders ({pendingOrders} pending)</span>
+          </button>
+          <button
+            onClick={() => setIsChatOpen(true)}
+            className="py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700"
+          >
+            <MessageCircle className="h-4 w-4" />
+            <span>Messages</span>
           </button>
         </div>
 
@@ -572,8 +613,16 @@ function FarmerDashboard() {
                               </span>
                             </td>
                             <td className="p-4 pr-6 text-center">
-                              <div className="flex justify-center gap-1.5">
-                                {order.status === 'Pending' && (
+                              <div className="flex flex-col justify-center gap-1.5 items-center">
+                                <button
+                                  onClick={() => openChatWithBuyer(order.buyer._id, order._id)}
+                                  className="text-xs font-bold text-emerald-700 hover:text-emerald-900 flex items-center space-x-1 mb-1"
+                                >
+                                  <MessageCircle className="h-3.5 w-3.5" />
+                                  <span>Message Buyer</span>
+                                </button>
+                                <div className="flex justify-center gap-1.5">
+                                  {order.status === 'Pending' && (
                                   <>
                                     <button
                                       onClick={() => handleOrderStatusUpdate(order._id, 'Approved')}
@@ -608,6 +657,7 @@ function FarmerDashboard() {
                                 {['Delivered', 'Cancelled'].includes(order.status) && (
                                   <span className="text-xs text-gray-400 font-bold italic">No actions available</span>
                                 )}
+                                </div>
                               </div>
                             </td>
                           </tr>
@@ -628,6 +678,14 @@ function FarmerDashboard() {
       </div>
 
       <Footer />
+
+      <ChatWidget 
+        isOpen={isChatOpen} 
+        onClose={() => { setIsChatOpen(false); setChatPartnerId(null); setChatOrderId(null); }}
+        initialPartnerId={chatPartnerId}
+        initialOrderId={chatOrderId}
+        currentUser={currentUser}
+      />
     </div>
   );
 }

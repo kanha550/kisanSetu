@@ -57,4 +57,11 @@ export const uploadImage = (formData) => {
   });
 };
 
+// Chat endpoints
+export const getOrCreateConversation = (data) => API.post('/chat/conversation', data);
+export const getMyConversations = () => API.get('/chat/conversations');
+export const getMessages = (conversationId) => API.get(`/chat/messages/${conversationId}`);
+export const sendMessage = (conversationId, data) => API.post(`/chat/messages/${conversationId}`, data);
+export const markMessagesRead = (conversationId) => API.put(`/chat/messages/${conversationId}/read`);
+
 export default API;

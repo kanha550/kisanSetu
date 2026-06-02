@@ -5,6 +5,8 @@ const users = [];
 const crops = [];
 const orders = [];
 const reports = [];
+const conversations = [];
+const messages = [];
 
 // Prepopulate only the secure Admin profile for sandbox moderation testing
 const seedMemoryDb = () => {
@@ -40,5 +42,7 @@ module.exports = {
   crops,
   orders,
   reports,
+  conversations,
+  messages,
   seedMemoryDb
 };

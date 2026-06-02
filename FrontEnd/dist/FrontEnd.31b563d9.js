@@ -33310,7 +33310,7 @@ var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJ
 var _iconJs = require("./Icon.js");
 var _iconJsDefault = parcelHelpers.interopDefault(_iconJs);
 
-},{"./icons/index.js":false,"./icons/alarm-clock-minus.js":false,"./icons/alarm-clock-check.js":false,"./icons/alarm-clock-plus.js":false,"./icons/arrow-down-a-z.js":false,"./icons/arrow-down-wide-narrow.js":false,"./icons/arrow-down-z-a.js":false,"./icons/arrow-up-a-z.js":false,"./icons/arrow-up-narrow-wide.js":false,"./icons/arrow-up-z-a.js":false,"./icons/axis-3d.js":false,"./icons/badge-check.js":false,"./icons/badge-question-mark.js":false,"./icons/between-horizontal-end.js":false,"./icons/between-horizontal-start.js":false,"./icons/book-dashed.js":false,"./icons/braces.js":false,"./icons/captions.js":false,"./icons/chart-area.js":false,"./icons/chart-bar-big.js":false,"./icons/chart-bar.js":false,"./icons/chart-candlestick.js":false,"./icons/chart-column-increasing.js":false,"./icons/chart-column-big.js":false,"./icons/chart-column.js":false,"./icons/chart-line.js":false,"./icons/chart-no-axes-column-increasing.js":"cV8Zl","./icons/chart-no-axes-column.js":false,"./icons/chart-pie.js":false,"./icons/chart-no-axes-gantt.js":false,"./icons/chart-scatter.js":false,"./icons/chromium.js":false,"./icons/circle-alert.js":"fBZpl","./icons/circle-arrow-down.js":false,"./icons/circle-arrow-left.js":false,"./icons/circle-arrow-out-down-left.js":false,"./icons/circle-arrow-out-down-right.js":false,"./icons/circle-arrow-out-up-left.js":false,"./icons/circle-arrow-out-up-right.js":false,"./icons/circle-arrow-right.js":false,"./icons/circle-check-big.js":"eIsf3","./icons/circle-arrow-up.js":false,"./icons/circle-check.js":false,"./icons/circle-chevron-left.js":false,"./icons/circle-chevron-right.js":false,"./icons/circle-chevron-down.js":false,"./icons/circle-chevron-up.js":false,"./icons/circle-divide.js":false,"./icons/circle-gauge.js":false,"./icons/circle-minus.js":false,"./icons/circle-parking-off.js":false,"./icons/circle-parking.js":false,"./icons/circle-pause.js":false,"./icons/circle-percent.js":false,"./icons/circle-play.js":false,"./icons/circle-plus.js":"fK07A","./icons/circle-power.js":false,"./icons/circle-question-mark.js":false,"./icons/circle-slash-2.js":false,"./icons/circle-stop.js":false,"./icons/circle-user.js":false,"./icons/circle-x.js":false,"./icons/circle-user-round.js":false,"./icons/clipboard-pen-line.js":false,"./icons/clipboard-pen.js":false,"./icons/cloud-download.js":false,"./icons/cloud-upload.js":false,"./icons/code-xml.js":false,"./icons/columns-2.js":false,"./icons/columns-3-cog.js":false,"./icons/columns-3.js":false,"./icons/contact-round.js":false,"./icons/diamond-percent.js":false,"./icons/earth.js":false,"./icons/ellipsis-vertical.js":false,"./icons/ellipsis.js":false,"./icons/file-axis-3d.js":false,"./icons/file-chart-column-increasing.js":false,"./icons/file-chart-column.js":false,"./icons/file-chart-line.js":false,"./icons/file-chart-pie.js":false,"./icons/file-cog.js":false,"./icons/file-pen-line.js":false,"./icons/file-pen.js":false,"./icons/file-play.js":false,"./icons/file-question-mark.js":false,"./icons/file-video-camera.js":false,"./icons/folder-cog.js":false,"./icons/folder-pen.js":false,"./icons/funnel-x.js":false,"./icons/funnel.js":false,"./icons/git-commit-horizontal.js":false,"./icons/grid-2x2-check.js":false,"./icons/grid-2x2-plus.js":false,"./icons/grid-2x2-x.js":false,"./icons/grid-2x2.js":false,"./icons/grid-3x3.js":false,"./icons/hand-grab.js":false,"./icons/hand-helping.js":false,"./icons/house.js":false,"./icons/ice-cream-bowl.js":false,"./icons/ice-cream-cone.js":false,"./icons/laptop-minimal.js":false,"./icons/layers.js":false,"./icons/list-indent-decrease.js":false,"./icons/list-indent-increase.js":false,"./icons/loader-circle.js":"cCdtr","./icons/lock-keyhole-open.js":false,"./icons/lock-open.js":false,"./icons/mail-question-mark.js":false,"./icons/map-pin-pen.js":false,"./icons/message-circle-question-mark.js":false,"./icons/mic-vocal.js":false,"./icons/move-3d.js":false,"./icons/octagon-alert.js":false,"./icons/octagon-pause.js":false,"./icons/octagon-x.js":false,"./icons/paintbrush-vertical.js":false,"./icons/panel-bottom-dashed.js":false,"./icons/panel-left-close.js":false,"./icons/panel-left-dashed.js":false,"./icons/panel-left-open.js":false,"./icons/panel-left.js":false,"./icons/panel-right-dashed.js":false,"./icons/panel-top-dashed.js":false,"./icons/panels-top-left.js":false,"./icons/pen-line.js":false,"./icons/pen.js":false,"./icons/plug-zap.js":false,"./icons/rectangle-ellipsis.js":false,"./icons/rotate-3d.js":false,"./icons/rows-2.js":false,"./icons/rows-3.js":false,"./icons/scale-3d.js":false,"./icons/send-horizontal.js":false,"./icons/shield-question-mark.js":false,"./icons/shield-x.js":false,"./icons/sliders-vertical.js":false,"./icons/sparkles.js":"1gWee","./icons/square-activity.js":false,"./icons/square-arrow-down-left.js":false,"./icons/square-arrow-down-right.js":false,"./icons/square-arrow-left.js":false,"./icons/square-arrow-down.js":false,"./icons/square-arrow-out-down-left.js":false,"./icons/square-arrow-out-down-right.js":false,"./icons/square-arrow-out-up-left.js":false,"./icons/square-arrow-out-up-right.js":false,"./icons/square-arrow-right.js":false,"./icons/square-arrow-up-left.js":false,"./icons/square-arrow-up-right.js":false,"./icons/square-arrow-up.js":false,"./icons/square-asterisk.js":false,"./icons/square-bottom-dashed-scissors.js":false,"./icons/square-chart-gantt.js":false,"./icons/square-check-big.js":false,"./icons/square-check.js":false,"./icons/square-chevron-down.js":false,"./icons/square-chevron-left.js":false,"./icons/square-chevron-up.js":false,"./icons/square-chevron-right.js":false,"./icons/square-code.js":false,"./icons/square-dashed-kanban.js":false,"./icons/square-dashed-mouse-pointer.js":false,"./icons/square-dashed.js":false,"./icons/square-divide.js":false,"./icons/square-dot.js":false,"./icons/square-equal.js":false,"./icons/square-function.js":false,"./icons/square-kanban.js":false,"./icons/square-library.js":false,"./icons/square-m.js":false,"./icons/square-menu.js":false,"./icons/square-minus.js":false,"./icons/square-mouse-pointer.js":false,"./icons/square-parking-off.js":false,"./icons/square-parking.js":false,"./icons/square-pen.js":"dMG3l","./icons/square-percent.js":false,"./icons/square-pi.js":false,"./icons/square-pilcrow.js":false,"./icons/square-play.js":false,"./icons/square-plus.js":false,"./icons/square-power.js":false,"./icons/square-scissors.js":false,"./icons/square-sigma.js":false,"./icons/square-slash.js":false,"./icons/square-split-horizontal.js":false,"./icons/square-split-vertical.js":false,"./icons/square-terminal.js":false,"./icons/square-user-round.js":false,"./icons/square-user.js":false,"./icons/square-x.js":false,"./icons/test-tube-diagonal.js":false,"./icons/text-align-center.js":false,"./icons/text-align-end.js":false,"./icons/text-align-justify.js":false,"./icons/text-align-start.js":false,"./icons/text-initial.js":false,"./icons/text-select.js":false,"./icons/text-wrap.js":false,"./icons/tram-front.js":false,"./icons/tree-palm.js":false,"./icons/triangle-alert.js":"6pzou","./icons/tv-minimal.js":false,"./icons/university.js":false,"./icons/user-round-check.js":false,"./icons/user-round-cog.js":false,"./icons/user-round-minus.js":false,"./icons/user-round-plus.js":false,"./icons/user-round-x.js":false,"./icons/user-round.js":false,"./icons/users-round.js":false,"./icons/utensils-crossed.js":false,"./icons/utensils.js":false,"./icons/wallet-minimal.js":false,"./icons/wand-sparkles.js":false,"./icons/a-arrow-down.js":false,"./icons/a-arrow-up.js":false,"./icons/a-large-small.js":false,"./icons/accessibility.js":false,"./icons/activity.js":false,"./icons/air-vent.js":false,"./icons/airplay.js":false,"./icons/alarm-clock-off.js":false,"./icons/alarm-clock.js":false,"./icons/album.js":false,"./icons/alarm-smoke.js":false,"./icons/align-center-horizontal.js":false,"./icons/align-center-vertical.js":false,"./icons/align-end-horizontal.js":false,"./icons/align-end-vertical.js":false,"./icons/align-horizontal-distribute-center.js":false,"./icons/align-horizontal-distribute-end.js":false,"./icons/align-horizontal-distribute-start.js":false,"./icons/align-horizontal-justify-center.js":false,"./icons/align-horizontal-justify-end.js":false,"./icons/align-horizontal-justify-start.js":false,"./icons/align-horizontal-space-around.js":false,"./icons/align-horizontal-space-between.js":false,"./icons/align-start-horizontal.js":false,"./icons/align-start-vertical.js":false,"./icons/align-vertical-distribute-center.js":false,"./icons/align-vertical-distribute-end.js":false,"./icons/align-vertical-distribute-start.js":false,"./icons/align-vertical-justify-center.js":false,"./icons/align-vertical-justify-end.js":false,"./icons/align-vertical-justify-start.js":false,"./icons/align-vertical-space-around.js":false,"./icons/align-vertical-space-between.js":false,"./icons/ambulance.js":false,"./icons/ampersand.js":false,"./icons/ampersands.js":false,"./icons/amphora.js":false,"./icons/anchor.js":false,"./icons/angry.js":false,"./icons/annoyed.js":false,"./icons/antenna.js":false,"./icons/anvil.js":false,"./icons/app-window-mac.js":false,"./icons/aperture.js":false,"./icons/app-window.js":false,"./icons/apple.js":false,"./icons/archive-restore.js":false,"./icons/archive-x.js":false,"./icons/archive.js":false,"./icons/armchair.js":false,"./icons/arrow-big-down-dash.js":false,"./icons/arrow-big-down.js":false,"./icons/arrow-big-left-dash.js":false,"./icons/arrow-big-left.js":false,"./icons/arrow-big-right-dash.js":false,"./icons/arrow-big-up-dash.js":false,"./icons/arrow-big-right.js":false,"./icons/arrow-big-up.js":false,"./icons/arrow-down-from-line.js":false,"./icons/arrow-down-left.js":false,"./icons/arrow-down-narrow-wide.js":false,"./icons/arrow-down-right.js":false,"./icons/arrow-down-to-dot.js":false,"./icons/arrow-down-to-line.js":false,"./icons/arrow-down-up.js":false,"./icons/arrow-down.js":false,"./icons/arrow-left-from-line.js":false,"./icons/arrow-left-right.js":false,"./icons/arrow-left-to-line.js":false,"./icons/arrow-left.js":false,"./icons/arrow-right-from-line.js":false,"./icons/arrow-right-left.js":false,"./icons/arrow-right-to-line.js":false,"./icons/arrow-right.js":false,"./icons/arrow-up-down.js":false,"./icons/arrow-up-from-dot.js":false,"./icons/arrow-up-from-line.js":false,"./icons/arrow-up-left.js":false,"./icons/arrow-up-right.js":false,"./icons/arrow-up-to-line.js":false,"./icons/arrow-up-wide-narrow.js":false,"./icons/arrow-up.js":false,"./icons/arrows-up-from-line.js":false,"./icons/asterisk.js":false,"./icons/at-sign.js":false,"./icons/atom.js":false,"./icons/audio-lines.js":false,"./icons/award.js":false,"./icons/audio-waveform.js":false,"./icons/axe.js":false,"./icons/baby.js":false,"./icons/backpack.js":false,"./icons/badge-alert.js":false,"./icons/badge-cent.js":false,"./icons/badge-dollar-sign.js":false,"./icons/badge-euro.js":false,"./icons/badge-indian-rupee.js":false,"./icons/badge-info.js":false,"./icons/badge-japanese-yen.js":false,"./icons/badge-minus.js":false,"./icons/badge-plus.js":false,"./icons/badge-pound-sterling.js":false,"./icons/badge-percent.js":false,"./icons/badge-russian-ruble.js":false,"./icons/badge-swiss-franc.js":false,"./icons/badge-turkish-lira.js":false,"./icons/badge-x.js":false,"./icons/badge.js":false,"./icons/baggage-claim.js":false,"./icons/ban.js":false,"./icons/banana.js":false,"./icons/bandage.js":false,"./icons/banknote-arrow-down.js":false,"./icons/banknote-x.js":false,"./icons/banknote-arrow-up.js":false,"./icons/banknote.js":false,"./icons/barcode.js":false,"./icons/baseline.js":false,"./icons/barrel.js":false,"./icons/bath.js":false,"./icons/battery-charging.js":false,"./icons/battery-full.js":false,"./icons/battery-low.js":false,"./icons/battery-medium.js":false,"./icons/battery-plus.js":false,"./icons/battery-warning.js":false,"./icons/battery.js":false,"./icons/beaker.js":false,"./icons/bean-off.js":false,"./icons/bean.js":false,"./icons/bed-double.js":false,"./icons/bed-single.js":false,"./icons/bed.js":false,"./icons/beef.js":false,"./icons/beer-off.js":false,"./icons/bell-dot.js":false,"./icons/beer.js":false,"./icons/bell-electric.js":false,"./icons/bell-minus.js":false,"./icons/bell-off.js":false,"./icons/bell-plus.js":false,"./icons/bell-ring.js":false,"./icons/bell.js":false,"./icons/between-vertical-end.js":false,"./icons/between-vertical-start.js":false,"./icons/biceps-flexed.js":false,"./icons/bike.js":false,"./icons/binary.js":false,"./icons/binoculars.js":false,"./icons/biohazard.js":false,"./icons/bird.js":false,"./icons/bitcoin.js":false,"./icons/blend.js":false,"./icons/blinds.js":false,"./icons/blocks.js":false,"./icons/bluetooth-connected.js":false,"./icons/bluetooth-off.js":false,"./icons/bluetooth.js":false,"./icons/bluetooth-searching.js":false,"./icons/bold.js":false,"./icons/bolt.js":false,"./icons/bomb.js":false,"./icons/bone.js":false,"./icons/book-a.js":false,"./icons/book-alert.js":false,"./icons/book-audio.js":false,"./icons/book-check.js":false,"./icons/book-copy.js":false,"./icons/book-down.js":false,"./icons/book-headphones.js":false,"./icons/book-heart.js":false,"./icons/book-image.js":false,"./icons/book-key.js":false,"./icons/book-lock.js":false,"./icons/book-marked.js":false,"./icons/book-minus.js":false,"./icons/book-open-check.js":false,"./icons/book-open-text.js":false,"./icons/book-open.js":false,"./icons/book-plus.js":false,"./icons/book-type.js":false,"./icons/book-text.js":false,"./icons/book-up-2.js":false,"./icons/book-up.js":false,"./icons/book-user.js":false,"./icons/book-x.js":false,"./icons/book.js":false,"./icons/bookmark-check.js":false,"./icons/bookmark-plus.js":false,"./icons/bookmark-minus.js":false,"./icons/bookmark-x.js":false,"./icons/bookmark.js":false,"./icons/boom-box.js":false,"./icons/bot-message-square.js":false,"./icons/bot-off.js":false,"./icons/bot.js":false,"./icons/bottle-wine.js":false,"./icons/bow-arrow.js":false,"./icons/box.js":false,"./icons/boxes.js":false,"./icons/brackets.js":false,"./icons/brain-circuit.js":false,"./icons/brain-cog.js":false,"./icons/brain.js":false,"./icons/brick-wall-fire.js":false,"./icons/brick-wall-shield.js":false,"./icons/brick-wall.js":false,"./icons/briefcase-business.js":false,"./icons/briefcase-conveyor-belt.js":false,"./icons/briefcase-medical.js":false,"./icons/briefcase.js":false,"./icons/bring-to-front.js":false,"./icons/brush-cleaning.js":false,"./icons/brush.js":false,"./icons/bubbles.js":false,"./icons/bug-play.js":false,"./icons/bug-off.js":false,"./icons/bug.js":false,"./icons/building-2.js":false,"./icons/building.js":false,"./icons/bus-front.js":false,"./icons/bus.js":false,"./icons/cable-car.js":false,"./icons/cable.js":false,"./icons/cake-slice.js":false,"./icons/cake.js":false,"./icons/calculator.js":false,"./icons/calendar-1.js":false,"./icons/calendar-arrow-down.js":false,"./icons/calendar-arrow-up.js":false,"./icons/calendar-check-2.js":false,"./icons/calendar-clock.js":false,"./icons/calendar-check.js":false,"./icons/calendar-cog.js":false,"./icons/calendar-days.js":false,"./icons/calendar-fold.js":false,"./icons/calendar-heart.js":false,"./icons/calendar-minus.js":false,"./icons/calendar-minus-2.js":false,"./icons/calendar-off.js":false,"./icons/calendar-plus-2.js":false,"./icons/calendar-plus.js":false,"./icons/calendar-range.js":false,"./icons/calendar-search.js":false,"./icons/calendar-sync.js":false,"./icons/calendar-x-2.js":false,"./icons/calendar-x.js":false,"./icons/calendar.js":false,"./icons/camera.js":false,"./icons/camera-off.js":false,"./icons/candy-cane.js":false,"./icons/candy-off.js":false,"./icons/candy.js":false,"./icons/cannabis.js":false,"./icons/captions-off.js":false,"./icons/car-front.js":false,"./icons/car-taxi-front.js":false,"./icons/car.js":false,"./icons/caravan.js":false,"./icons/card-sim.js":false,"./icons/carrot.js":false,"./icons/case-lower.js":false,"./icons/case-sensitive.js":false,"./icons/case-upper.js":false,"./icons/cast.js":false,"./icons/cassette-tape.js":false,"./icons/castle.js":false,"./icons/cat.js":false,"./icons/cctv.js":false,"./icons/chart-bar-decreasing.js":false,"./icons/chart-bar-increasing.js":false,"./icons/chart-bar-stacked.js":false,"./icons/chart-column-decreasing.js":false,"./icons/chart-column-stacked.js":false,"./icons/chart-gantt.js":false,"./icons/chart-network.js":false,"./icons/chart-no-axes-column-decreasing.js":false,"./icons/chart-no-axes-combined.js":false,"./icons/chart-spline.js":false,"./icons/check-check.js":false,"./icons/check-line.js":false,"./icons/chef-hat.js":false,"./icons/check.js":false,"./icons/cherry.js":false,"./icons/chevron-down.js":false,"./icons/chevron-first.js":false,"./icons/chevron-last.js":false,"./icons/chevron-left.js":false,"./icons/chevron-right.js":false,"./icons/chevron-up.js":false,"./icons/chevrons-down-up.js":false,"./icons/chevrons-down.js":false,"./icons/chevrons-left-right-ellipsis.js":false,"./icons/chevrons-left-right.js":false,"./icons/chevrons-left.js":false,"./icons/chevrons-right-left.js":false,"./icons/chevrons-right.js":false,"./icons/chevrons-up-down.js":false,"./icons/chevrons-up.js":false,"./icons/church.js":false,"./icons/cigarette-off.js":false,"./icons/cigarette.js":false,"./icons/circle-dashed.js":false,"./icons/circle-dollar-sign.js":false,"./icons/circle-dot-dashed.js":false,"./icons/circle-dot.js":false,"./icons/circle-ellipsis.js":false,"./icons/circle-equal.js":false,"./icons/circle-fading-arrow-up.js":false,"./icons/circle-fading-plus.js":false,"./icons/circle-off.js":false,"./icons/circle-pound-sterling.js":false,"./icons/circle-slash.js":false,"./icons/circle-small.js":false,"./icons/circle-star.js":false,"./icons/circle.js":false,"./icons/circuit-board.js":false,"./icons/citrus.js":false,"./icons/clapperboard.js":false,"./icons/clipboard-check.js":false,"./icons/clipboard-copy.js":false,"./icons/clipboard-clock.js":false,"./icons/clipboard-list.js":"du017","./icons/clipboard-minus.js":false,"./icons/clipboard-paste.js":false,"./icons/clipboard-plus.js":false,"./icons/clipboard-type.js":false,"./icons/clipboard-x.js":false,"./icons/clipboard.js":false,"./icons/clock-1.js":false,"./icons/clock-10.js":false,"./icons/clock-11.js":false,"./icons/clock-12.js":false,"./icons/clock-2.js":false,"./icons/clock-3.js":false,"./icons/clock-5.js":false,"./icons/clock-4.js":false,"./icons/clock-6.js":false,"./icons/clock-7.js":false,"./icons/clock-8.js":false,"./icons/clock-9.js":false,"./icons/clock-arrow-down.js":false,"./icons/clock-alert.js":false,"./icons/clock-arrow-up.js":false,"./icons/clock-fading.js":false,"./icons/clock-plus.js":false,"./icons/clock.js":false,"./icons/closed-caption.js":false,"./icons/cloud-alert.js":false,"./icons/cloud-check.js":false,"./icons/cloud-cog.js":false,"./icons/cloud-drizzle.js":false,"./icons/cloud-fog.js":false,"./icons/cloud-hail.js":false,"./icons/cloud-lightning.js":false,"./icons/cloud-moon-rain.js":false,"./icons/cloud-off.js":false,"./icons/cloud-moon.js":false,"./icons/cloud-rain-wind.js":false,"./icons/cloud-rain.js":false,"./icons/cloud-snow.js":false,"./icons/cloud-sun-rain.js":false,"./icons/cloud-sun.js":false,"./icons/cloud.js":false,"./icons/cloudy.js":false,"./icons/clover.js":false,"./icons/club.js":false,"./icons/code.js":false,"./icons/codepen.js":false,"./icons/codesandbox.js":false,"./icons/coffee.js":false,"./icons/cog.js":false,"./icons/coins.js":false,"./icons/columns-4.js":false,"./icons/combine.js":false,"./icons/command.js":false,"./icons/compass.js":false,"./icons/component.js":false,"./icons/computer.js":false,"./icons/concierge-bell.js":false,"./icons/construction.js":false,"./icons/cone.js":false,"./icons/contact.js":false,"./icons/container.js":false,"./icons/contrast.js":false,"./icons/cookie.js":false,"./icons/copy-check.js":false,"./icons/cooking-pot.js":false,"./icons/copy-minus.js":false,"./icons/copy-plus.js":false,"./icons/copy-slash.js":false,"./icons/copy-x.js":false,"./icons/copy.js":false,"./icons/copyleft.js":false,"./icons/copyright.js":false,"./icons/corner-down-left.js":false,"./icons/corner-down-right.js":false,"./icons/corner-left-down.js":false,"./icons/corner-left-up.js":false,"./icons/corner-right-down.js":false,"./icons/corner-right-up.js":false,"./icons/corner-up-left.js":false,"./icons/corner-up-right.js":false,"./icons/cpu.js":false,"./icons/creative-commons.js":false,"./icons/credit-card.js":false,"./icons/croissant.js":false,"./icons/crop.js":false,"./icons/cross.js":false,"./icons/crosshair.js":false,"./icons/crown.js":false,"./icons/cuboid.js":false,"./icons/cup-soda.js":false,"./icons/currency.js":false,"./icons/cylinder.js":false,"./icons/dam.js":false,"./icons/database-backup.js":false,"./icons/database-zap.js":false,"./icons/decimals-arrow-left.js":false,"./icons/database.js":false,"./icons/decimals-arrow-right.js":false,"./icons/delete.js":false,"./icons/dessert.js":false,"./icons/diameter.js":false,"./icons/diamond-minus.js":false,"./icons/diamond-plus.js":false,"./icons/diamond.js":false,"./icons/dice-1.js":false,"./icons/dice-2.js":false,"./icons/dice-3.js":false,"./icons/dice-4.js":false,"./icons/dice-5.js":false,"./icons/dice-6.js":false,"./icons/dices.js":false,"./icons/diff.js":false,"./icons/disc-2.js":false,"./icons/disc-3.js":false,"./icons/disc-album.js":false,"./icons/disc.js":false,"./icons/divide.js":false,"./icons/dna-off.js":false,"./icons/dna.js":false,"./icons/dock.js":false,"./icons/dog.js":false,"./icons/dollar-sign.js":false,"./icons/donut.js":false,"./icons/door-closed-locked.js":false,"./icons/door-closed.js":false,"./icons/door-open.js":false,"./icons/dot.js":false,"./icons/download.js":false,"./icons/drafting-compass.js":false,"./icons/drama.js":false,"./icons/dribbble.js":false,"./icons/drill.js":false,"./icons/drone.js":false,"./icons/droplet-off.js":false,"./icons/droplet.js":false,"./icons/droplets.js":false,"./icons/drum.js":false,"./icons/drumstick.js":false,"./icons/dumbbell.js":false,"./icons/ear-off.js":false,"./icons/ear.js":false,"./icons/earth-lock.js":false,"./icons/eclipse.js":false,"./icons/egg-fried.js":false,"./icons/egg-off.js":false,"./icons/egg.js":false,"./icons/equal-approximately.js":false,"./icons/equal-not.js":false,"./icons/equal.js":false,"./icons/eraser.js":false,"./icons/euro.js":false,"./icons/ethernet-port.js":false,"./icons/ev-charger.js":false,"./icons/expand.js":false,"./icons/external-link.js":false,"./icons/eye-off.js":false,"./icons/eye-closed.js":false,"./icons/eye.js":false,"./icons/facebook.js":false,"./icons/factory.js":false,"./icons/fan.js":false,"./icons/fast-forward.js":false,"./icons/feather.js":false,"./icons/fence.js":false,"./icons/ferris-wheel.js":false,"./icons/figma.js":false,"./icons/file-archive.js":false,"./icons/file-audio-2.js":false,"./icons/file-audio.js":false,"./icons/file-badge-2.js":false,"./icons/file-box.js":false,"./icons/file-badge.js":false,"./icons/file-check-2.js":false,"./icons/file-check.js":false,"./icons/file-code-2.js":false,"./icons/file-clock.js":false,"./icons/file-code.js":false,"./icons/file-diff.js":false,"./icons/file-digit.js":false,"./icons/file-down.js":false,"./icons/file-heart.js":false,"./icons/file-image.js":false,"./icons/file-input.js":false,"./icons/file-json-2.js":false,"./icons/file-json.js":false,"./icons/file-key-2.js":false,"./icons/file-key.js":false,"./icons/file-lock-2.js":false,"./icons/file-lock.js":false,"./icons/file-minus-2.js":false,"./icons/file-minus.js":false,"./icons/file-music.js":false,"./icons/file-output.js":false,"./icons/file-plus-2.js":false,"./icons/file-plus.js":false,"./icons/file-scan.js":false,"./icons/file-search-2.js":false,"./icons/file-search.js":false,"./icons/file-sliders.js":false,"./icons/file-spreadsheet.js":false,"./icons/file-stack.js":false,"./icons/file-symlink.js":false,"./icons/file-terminal.js":false,"./icons/file-text.js":false,"./icons/file-type-2.js":false,"./icons/file-type.js":false,"./icons/file-up.js":false,"./icons/file-user.js":false,"./icons/file-volume-2.js":false,"./icons/file-volume.js":false,"./icons/file-warning.js":false,"./icons/file-x-2.js":false,"./icons/file-x.js":false,"./icons/file.js":false,"./icons/film.js":false,"./icons/files.js":false,"./icons/fingerprint.js":false,"./icons/fire-extinguisher.js":false,"./icons/fish-off.js":false,"./icons/fish-symbol.js":false,"./icons/fish.js":false,"./icons/flag-off.js":false,"./icons/flag-triangle-left.js":false,"./icons/flag-triangle-right.js":false,"./icons/flag.js":"dkaO7","./icons/flame-kindling.js":false,"./icons/flame.js":false,"./icons/flashlight-off.js":false,"./icons/flashlight.js":false,"./icons/flask-conical-off.js":false,"./icons/flask-conical.js":false,"./icons/flask-round.js":false,"./icons/flip-horizontal-2.js":false,"./icons/flip-horizontal.js":false,"./icons/flip-vertical-2.js":false,"./icons/flip-vertical.js":false,"./icons/flower-2.js":false,"./icons/flower.js":false,"./icons/focus.js":false,"./icons/fold-horizontal.js":false,"./icons/fold-vertical.js":false,"./icons/folder-archive.js":false,"./icons/folder-check.js":false,"./icons/folder-clock.js":false,"./icons/folder-code.js":false,"./icons/folder-dot.js":false,"./icons/folder-closed.js":false,"./icons/folder-down.js":false,"./icons/folder-git-2.js":false,"./icons/folder-git.js":false,"./icons/folder-heart.js":false,"./icons/folder-input.js":false,"./icons/folder-kanban.js":false,"./icons/folder-key.js":false,"./icons/folder-lock.js":false,"./icons/folder-minus.js":false,"./icons/folder-open-dot.js":false,"./icons/folder-open.js":false,"./icons/folder-output.js":false,"./icons/folder-plus.js":false,"./icons/folder-root.js":false,"./icons/folder-search-2.js":false,"./icons/folder-search.js":false,"./icons/folder-symlink.js":false,"./icons/folder-sync.js":false,"./icons/folder-tree.js":false,"./icons/folder-up.js":false,"./icons/folder-x.js":false,"./icons/folder.js":false,"./icons/folders.js":false,"./icons/footprints.js":false,"./icons/forklift.js":false,"./icons/forward.js":false,"./icons/frame.js":false,"./icons/framer.js":false,"./icons/frown.js":false,"./icons/fuel.js":false,"./icons/fullscreen.js":false,"./icons/funnel-plus.js":false,"./icons/gallery-horizontal-end.js":false,"./icons/gallery-horizontal.js":false,"./icons/gallery-thumbnails.js":false,"./icons/gallery-vertical-end.js":false,"./icons/gallery-vertical.js":false,"./icons/gamepad-2.js":false,"./icons/gamepad.js":false,"./icons/gauge.js":false,"./icons/gavel.js":false,"./icons/gem.js":false,"./icons/georgian-lari.js":false,"./icons/ghost.js":false,"./icons/gift.js":false,"./icons/git-branch-plus.js":false,"./icons/git-branch.js":false,"./icons/git-commit-vertical.js":false,"./icons/git-compare-arrows.js":false,"./icons/git-compare.js":false,"./icons/git-fork.js":false,"./icons/git-graph.js":false,"./icons/git-merge.js":false,"./icons/git-pull-request-arrow.js":false,"./icons/git-pull-request-closed.js":false,"./icons/git-pull-request-create-arrow.js":false,"./icons/git-pull-request-create.js":false,"./icons/git-pull-request-draft.js":false,"./icons/git-pull-request.js":false,"./icons/github.js":false,"./icons/glass-water.js":false,"./icons/gitlab.js":false,"./icons/glasses.js":false,"./icons/globe-lock.js":false,"./icons/globe.js":"4VpyD","./icons/goal.js":false,"./icons/gpu.js":false,"./icons/graduation-cap.js":false,"./icons/grape.js":false,"./icons/grid-3x2.js":false,"./icons/grip-horizontal.js":false,"./icons/grip-vertical.js":false,"./icons/grip.js":false,"./icons/guitar.js":false,"./icons/group.js":false,"./icons/ham.js":false,"./icons/hamburger.js":false,"./icons/hand-coins.js":false,"./icons/hammer.js":false,"./icons/hand-fist.js":false,"./icons/hand-heart.js":false,"./icons/hand-metal.js":false,"./icons/hand-platter.js":false,"./icons/hand.js":false,"./icons/handbag.js":false,"./icons/handshake.js":false,"./icons/hard-drive-download.js":false,"./icons/hard-drive-upload.js":false,"./icons/hard-drive.js":false,"./icons/hard-hat.js":false,"./icons/hash.js":false,"./icons/hat-glasses.js":false,"./icons/haze.js":false,"./icons/heading-1.js":false,"./icons/hdmi-port.js":false,"./icons/heading-2.js":false,"./icons/heading-3.js":false,"./icons/heading-5.js":false,"./icons/heading-4.js":false,"./icons/heading-6.js":false,"./icons/heading.js":false,"./icons/headphone-off.js":false,"./icons/headphones.js":false,"./icons/headset.js":false,"./icons/heart-crack.js":false,"./icons/heart-handshake.js":false,"./icons/heart-minus.js":false,"./icons/heart-off.js":false,"./icons/heart-plus.js":false,"./icons/heart-pulse.js":false,"./icons/heart.js":false,"./icons/heater.js":false,"./icons/hexagon.js":false,"./icons/highlighter.js":false,"./icons/history.js":"4c8Dt","./icons/hop-off.js":false,"./icons/hop.js":false,"./icons/hotel.js":false,"./icons/hospital.js":false,"./icons/hourglass.js":false,"./icons/house-heart.js":false,"./icons/house-plug.js":false,"./icons/house-plus.js":false,"./icons/house-wifi.js":false,"./icons/id-card-lanyard.js":false,"./icons/id-card.js":false,"./icons/image-down.js":false,"./icons/image-minus.js":false,"./icons/image-off.js":false,"./icons/image-play.js":false,"./icons/image-plus.js":false,"./icons/image-upscale.js":false,"./icons/image-up.js":false,"./icons/image.js":false,"./icons/images.js":false,"./icons/import.js":false,"./icons/inbox.js":false,"./icons/indian-rupee.js":"9dkx8","./icons/infinity.js":false,"./icons/info.js":false,"./icons/inspection-panel.js":false,"./icons/instagram.js":false,"./icons/italic.js":false,"./icons/iteration-ccw.js":false,"./icons/iteration-cw.js":false,"./icons/japanese-yen.js":false,"./icons/joystick.js":false,"./icons/kanban.js":false,"./icons/kayak.js":false,"./icons/key-square.js":false,"./icons/key-round.js":false,"./icons/key.js":false,"./icons/keyboard-music.js":false,"./icons/keyboard-off.js":false,"./icons/keyboard.js":false,"./icons/lamp-ceiling.js":false,"./icons/lamp-desk.js":false,"./icons/lamp-wall-down.js":false,"./icons/lamp-floor.js":false,"./icons/lamp-wall-up.js":false,"./icons/lamp.js":false,"./icons/land-plot.js":false,"./icons/landmark.js":false,"./icons/laptop-minimal-check.js":false,"./icons/languages.js":false,"./icons/laptop.js":false,"./icons/lasso-select.js":false,"./icons/lasso.js":false,"./icons/laugh.js":false,"./icons/layers-2.js":false,"./icons/layout-dashboard.js":"jaiYE","./icons/layout-grid.js":false,"./icons/layout-panel-left.js":false,"./icons/layout-list.js":false,"./icons/layout-panel-top.js":false,"./icons/layout-template.js":false,"./icons/leaf.js":"516SU","./icons/lectern.js":false,"./icons/library-big.js":false,"./icons/leafy-green.js":false,"./icons/library.js":false,"./icons/life-buoy.js":false,"./icons/ligature.js":false,"./icons/lightbulb-off.js":false,"./icons/lightbulb.js":false,"./icons/line-squiggle.js":false,"./icons/link-2-off.js":false,"./icons/link-2.js":false,"./icons/linkedin.js":false,"./icons/list-check.js":false,"./icons/link.js":false,"./icons/list-checks.js":false,"./icons/list-chevrons-down-up.js":false,"./icons/list-chevrons-up-down.js":false,"./icons/list-collapse.js":false,"./icons/list-end.js":false,"./icons/list-filter-plus.js":false,"./icons/list-filter.js":false,"./icons/list-minus.js":false,"./icons/list-music.js":false,"./icons/list-ordered.js":false,"./icons/list-plus.js":false,"./icons/list-restart.js":false,"./icons/list-start.js":false,"./icons/list-todo.js":false,"./icons/list-tree.js":false,"./icons/list-video.js":false,"./icons/list-x.js":false,"./icons/list.js":false,"./icons/loader-pinwheel.js":false,"./icons/loader.js":false,"./icons/locate-fixed.js":false,"./icons/locate-off.js":false,"./icons/locate.js":false,"./icons/lock-keyhole.js":false,"./icons/lock.js":"hKg2n","./icons/log-in.js":false,"./icons/log-out.js":"5NSxp","./icons/logs.js":false,"./icons/lollipop.js":false,"./icons/luggage.js":false,"./icons/magnet.js":false,"./icons/mail-check.js":false,"./icons/mail-open.js":false,"./icons/mail-minus.js":false,"./icons/mail-plus.js":false,"./icons/mail-search.js":false,"./icons/mail-warning.js":false,"./icons/mail-x.js":false,"./icons/mail.js":"lxD5A","./icons/mailbox.js":false,"./icons/mails.js":false,"./icons/map-minus.js":false,"./icons/map-pin-check.js":false,"./icons/map-pin-check-inside.js":false,"./icons/map-pin-house.js":false,"./icons/map-pin-minus-inside.js":false,"./icons/map-pin-minus.js":false,"./icons/map-pin-off.js":false,"./icons/map-pin-plus-inside.js":false,"./icons/map-pin-plus.js":false,"./icons/map-pin-x-inside.js":false,"./icons/map-pin.js":"lY4q8","./icons/map-pin-x.js":false,"./icons/map-pinned.js":false,"./icons/map-plus.js":false,"./icons/map.js":false,"./icons/mars-stroke.js":false,"./icons/mars.js":false,"./icons/maximize-2.js":false,"./icons/martini.js":false,"./icons/maximize.js":false,"./icons/medal.js":false,"./icons/megaphone-off.js":false,"./icons/megaphone.js":false,"./icons/meh.js":false,"./icons/memory-stick.js":false,"./icons/menu.js":false,"./icons/message-circle-code.js":false,"./icons/merge.js":false,"./icons/message-circle-heart.js":false,"./icons/message-circle-dashed.js":false,"./icons/message-circle-more.js":false,"./icons/message-circle-off.js":false,"./icons/message-circle-plus.js":false,"./icons/message-circle-reply.js":false,"./icons/message-circle-warning.js":false,"./icons/message-circle-x.js":false,"./icons/message-circle.js":false,"./icons/message-square-code.js":false,"./icons/message-square-dashed.js":false,"./icons/message-square-dot.js":false,"./icons/message-square-diff.js":false,"./icons/message-square-heart.js":false,"./icons/message-square-lock.js":false,"./icons/message-square-more.js":false,"./icons/message-square-off.js":false,"./icons/message-square-plus.js":false,"./icons/message-square-reply.js":false,"./icons/message-square-quote.js":false,"./icons/message-square-text.js":false,"./icons/message-square-share.js":false,"./icons/message-square-warning.js":false,"./icons/message-square-x.js":false,"./icons/message-square.js":false,"./icons/messages-square.js":false,"./icons/mic-off.js":false,"./icons/mic.js":false,"./icons/microchip.js":false,"./icons/microscope.js":false,"./icons/microwave.js":false,"./icons/milestone.js":false,"./icons/milk-off.js":false,"./icons/milk.js":false,"./icons/minimize-2.js":false,"./icons/minimize.js":false,"./icons/minus.js":false,"./icons/monitor-check.js":false,"./icons/monitor-cog.js":false,"./icons/monitor-down.js":false,"./icons/monitor-dot.js":false,"./icons/monitor-off.js":false,"./icons/monitor-play.js":false,"./icons/monitor-pause.js":false,"./icons/monitor-smartphone.js":false,"./icons/monitor-stop.js":false,"./icons/monitor-speaker.js":false,"./icons/monitor-up.js":false,"./icons/monitor-x.js":false,"./icons/monitor.js":false,"./icons/moon-star.js":false,"./icons/moon.js":false,"./icons/mountain-snow.js":false,"./icons/mountain.js":false,"./icons/mouse-off.js":false,"./icons/mouse-pointer-2.js":false,"./icons/mouse-pointer-ban.js":false,"./icons/mouse-pointer-click.js":false,"./icons/mouse-pointer.js":false,"./icons/mouse.js":false,"./icons/move-diagonal.js":false,"./icons/move-diagonal-2.js":false,"./icons/move-down-left.js":false,"./icons/move-down-right.js":false,"./icons/move-down.js":false,"./icons/move-horizontal.js":false,"./icons/move-left.js":false,"./icons/move-right.js":false,"./icons/move-up-left.js":false,"./icons/move-up-right.js":false,"./icons/move-up.js":false,"./icons/move-vertical.js":false,"./icons/move.js":false,"./icons/music-2.js":false,"./icons/music-3.js":false,"./icons/music-4.js":false,"./icons/music.js":false,"./icons/navigation-2-off.js":false,"./icons/navigation-2.js":false,"./icons/navigation-off.js":false,"./icons/navigation.js":false,"./icons/network.js":false,"./icons/newspaper.js":false,"./icons/nfc.js":false,"./icons/non-binary.js":false,"./icons/notebook-pen.js":false,"./icons/notebook-text.js":false,"./icons/notebook-tabs.js":false,"./icons/notebook.js":false,"./icons/notepad-text.js":false,"./icons/notepad-text-dashed.js":false,"./icons/nut-off.js":false,"./icons/nut.js":false,"./icons/octagon-minus.js":false,"./icons/octagon.js":false,"./icons/omega.js":false,"./icons/option.js":false,"./icons/orbit.js":false,"./icons/origami.js":false,"./icons/package-check.js":false,"./icons/package-2.js":false,"./icons/package-minus.js":false,"./icons/package-open.js":false,"./icons/package-plus.js":false,"./icons/package-search.js":false,"./icons/package-x.js":false,"./icons/package.js":"7JqoS","./icons/paint-bucket.js":false,"./icons/paint-roller.js":false,"./icons/paintbrush.js":false,"./icons/palette.js":false,"./icons/panda.js":false,"./icons/panel-bottom-close.js":false,"./icons/panel-bottom.js":false,"./icons/panel-bottom-open.js":false,"./icons/panel-left-right-dashed.js":false,"./icons/panel-right-close.js":false,"./icons/panel-right-open.js":false,"./icons/panel-right.js":false,"./icons/panel-top-bottom-dashed.js":false,"./icons/panel-top-close.js":false,"./icons/panel-top-open.js":false,"./icons/panel-top.js":false,"./icons/panels-left-bottom.js":false,"./icons/panels-right-bottom.js":false,"./icons/paperclip.js":false,"./icons/parentheses.js":false,"./icons/parking-meter.js":false,"./icons/party-popper.js":false,"./icons/pause.js":false,"./icons/paw-print.js":false,"./icons/pc-case.js":false,"./icons/pen-off.js":false,"./icons/pen-tool.js":false,"./icons/pencil-line.js":false,"./icons/pencil-off.js":false,"./icons/pencil-ruler.js":false,"./icons/pencil.js":false,"./icons/pentagon.js":false,"./icons/percent.js":false,"./icons/person-standing.js":false,"./icons/philippine-peso.js":false,"./icons/phone-call.js":false,"./icons/phone-forwarded.js":false,"./icons/phone-incoming.js":false,"./icons/phone-missed.js":false,"./icons/phone-off.js":false,"./icons/phone-outgoing.js":false,"./icons/phone.js":"9bulm","./icons/pi.js":false,"./icons/pickaxe.js":false,"./icons/piano.js":false,"./icons/picture-in-picture-2.js":false,"./icons/picture-in-picture.js":false,"./icons/pilcrow-left.js":false,"./icons/piggy-bank.js":false,"./icons/pilcrow-right.js":false,"./icons/pilcrow.js":false,"./icons/pill-bottle.js":false,"./icons/pill.js":false,"./icons/pin-off.js":false,"./icons/pin.js":false,"./icons/pipette.js":false,"./icons/pizza.js":false,"./icons/plane-landing.js":false,"./icons/plane-takeoff.js":false,"./icons/plane.js":false,"./icons/play.js":false,"./icons/plug-2.js":false,"./icons/plug.js":false,"./icons/plus.js":false,"./icons/pocket-knife.js":false,"./icons/pocket.js":false,"./icons/podcast.js":false,"./icons/pointer-off.js":false,"./icons/pointer.js":false,"./icons/popcorn.js":false,"./icons/popsicle.js":false,"./icons/pound-sterling.js":false,"./icons/power.js":false,"./icons/power-off.js":false,"./icons/presentation.js":false,"./icons/printer-check.js":false,"./icons/printer.js":false,"./icons/projector.js":false,"./icons/proportions.js":false,"./icons/puzzle.js":false,"./icons/pyramid.js":false,"./icons/qr-code.js":false,"./icons/quote.js":false,"./icons/rabbit.js":false,"./icons/radar.js":false,"./icons/radiation.js":false,"./icons/radical.js":false,"./icons/radio-receiver.js":false,"./icons/radio-tower.js":false,"./icons/radio.js":false,"./icons/radius.js":false,"./icons/rail-symbol.js":false,"./icons/rainbow.js":false,"./icons/rat.js":false,"./icons/ratio.js":false,"./icons/receipt-cent.js":false,"./icons/receipt-indian-rupee.js":false,"./icons/receipt-euro.js":false,"./icons/receipt-japanese-yen.js":false,"./icons/receipt-pound-sterling.js":false,"./icons/receipt-russian-ruble.js":false,"./icons/receipt-swiss-franc.js":false,"./icons/receipt-text.js":false,"./icons/receipt-turkish-lira.js":false,"./icons/receipt.js":false,"./icons/rectangle-circle.js":false,"./icons/rectangle-goggles.js":false,"./icons/rectangle-horizontal.js":false,"./icons/rectangle-vertical.js":false,"./icons/recycle.js":false,"./icons/redo-2.js":false,"./icons/redo-dot.js":false,"./icons/refresh-ccw-dot.js":false,"./icons/redo.js":false,"./icons/refresh-ccw.js":false,"./icons/refresh-cw-off.js":false,"./icons/refresh-cw.js":false,"./icons/refrigerator.js":false,"./icons/regex.js":false,"./icons/remove-formatting.js":false,"./icons/repeat-1.js":false,"./icons/repeat-2.js":false,"./icons/repeat.js":false,"./icons/replace-all.js":false,"./icons/replace.js":false,"./icons/reply-all.js":false,"./icons/reply.js":false,"./icons/rewind.js":false,"./icons/ribbon.js":false,"./icons/rocket.js":false,"./icons/rocking-chair.js":false,"./icons/rose.js":false,"./icons/roller-coaster.js":false,"./icons/rotate-ccw-key.js":false,"./icons/rotate-ccw-square.js":false,"./icons/rotate-ccw.js":false,"./icons/rotate-cw-square.js":false,"./icons/rotate-cw.js":false,"./icons/route-off.js":false,"./icons/route.js":false,"./icons/router.js":false,"./icons/rows-4.js":false,"./icons/rss.js":false,"./icons/ruler-dimension-line.js":false,"./icons/ruler.js":false,"./icons/russian-ruble.js":false,"./icons/sailboat.js":false,"./icons/salad.js":false,"./icons/sandwich.js":false,"./icons/satellite-dish.js":false,"./icons/satellite.js":false,"./icons/saudi-riyal.js":false,"./icons/save-all.js":false,"./icons/save-off.js":false,"./icons/save.js":false,"./icons/scale.js":"4QVvU","./icons/scaling.js":false,"./icons/scan-barcode.js":false,"./icons/scan-eye.js":false,"./icons/scan-face.js":false,"./icons/scan-heart.js":false,"./icons/scan-line.js":false,"./icons/scan-qr-code.js":false,"./icons/scan-search.js":false,"./icons/scan-text.js":false,"./icons/scan.js":false,"./icons/school.js":false,"./icons/scissors-line-dashed.js":false,"./icons/scissors.js":false,"./icons/screen-share.js":false,"./icons/screen-share-off.js":false,"./icons/scroll-text.js":false,"./icons/scroll.js":false,"./icons/search-check.js":false,"./icons/search-x.js":false,"./icons/search-code.js":false,"./icons/search-slash.js":false,"./icons/search.js":"fZL10","./icons/section.js":false,"./icons/send.js":false,"./icons/send-to-back.js":false,"./icons/separator-horizontal.js":false,"./icons/separator-vertical.js":false,"./icons/server-cog.js":false,"./icons/server-crash.js":false,"./icons/server-off.js":false,"./icons/server.js":false,"./icons/settings.js":false,"./icons/settings-2.js":false,"./icons/shapes.js":false,"./icons/share-2.js":false,"./icons/share.js":false,"./icons/sheet.js":false,"./icons/shell.js":false,"./icons/shield-alert.js":"fUmBU","./icons/shield-ban.js":false,"./icons/shield-check.js":"ki7w7","./icons/shield-ellipsis.js":false,"./icons/shield-half.js":false,"./icons/shield-minus.js":false,"./icons/shield-off.js":false,"./icons/shield-plus.js":false,"./icons/shield-user.js":false,"./icons/shield.js":"9A9tR","./icons/ship-wheel.js":false,"./icons/ship.js":false,"./icons/shirt.js":false,"./icons/shopping-bag.js":"4j5Rz","./icons/shopping-basket.js":false,"./icons/shopping-cart.js":"ftZj5","./icons/shovel.js":false,"./icons/shower-head.js":false,"./icons/shredder.js":false,"./icons/shrimp.js":false,"./icons/shrink.js":false,"./icons/shrub.js":false,"./icons/shuffle.js":false,"./icons/sigma.js":false,"./icons/signal-high.js":false,"./icons/signal-low.js":false,"./icons/signal-medium.js":false,"./icons/signal-zero.js":false,"./icons/signal.js":false,"./icons/signature.js":false,"./icons/signpost-big.js":false,"./icons/signpost.js":false,"./icons/siren.js":false,"./icons/skip-back.js":false,"./icons/skip-forward.js":false,"./icons/skull.js":false,"./icons/slack.js":false,"./icons/slash.js":false,"./icons/slice.js":false,"./icons/sliders-horizontal.js":false,"./icons/smartphone-charging.js":false,"./icons/smartphone-nfc.js":false,"./icons/smartphone.js":false,"./icons/smile-plus.js":false,"./icons/smile.js":false,"./icons/snail.js":false,"./icons/snowflake.js":false,"./icons/soap-dispenser-droplet.js":false,"./icons/sofa.js":false,"./icons/soup.js":false,"./icons/spade.js":false,"./icons/space.js":false,"./icons/sparkle.js":false,"./icons/speaker.js":false,"./icons/speech.js":false,"./icons/spell-check-2.js":false,"./icons/spell-check.js":false,"./icons/spline.js":false,"./icons/spline-pointer.js":false,"./icons/split.js":false,"./icons/spotlight.js":false,"./icons/spool.js":false,"./icons/spray-can.js":false,"./icons/sprout.js":"11RcF","./icons/square-dashed-bottom-code.js":false,"./icons/square-dashed-bottom.js":false,"./icons/square-dashed-top-solid.js":false,"./icons/square-pause.js":false,"./icons/square-radical.js":false,"./icons/square-round-corner.js":false,"./icons/square-square.js":false,"./icons/square-stack.js":false,"./icons/square-star.js":false,"./icons/square-stop.js":false,"./icons/square.js":false,"./icons/squares-exclude.js":false,"./icons/squares-intersect.js":false,"./icons/squares-subtract.js":false,"./icons/squares-unite.js":false,"./icons/squircle-dashed.js":false,"./icons/squircle.js":false,"./icons/squirrel.js":false,"./icons/stamp.js":false,"./icons/star-half.js":false,"./icons/star.js":false,"./icons/star-off.js":false,"./icons/step-back.js":false,"./icons/step-forward.js":false,"./icons/stethoscope.js":false,"./icons/sticker.js":false,"./icons/sticky-note.js":false,"./icons/store.js":false,"./icons/stretch-horizontal.js":false,"./icons/stretch-vertical.js":false,"./icons/strikethrough.js":false,"./icons/subscript.js":false,"./icons/sun-dim.js":false,"./icons/sun-medium.js":false,"./icons/sun-moon.js":false,"./icons/sun-snow.js":false,"./icons/sun.js":false,"./icons/sunrise.js":false,"./icons/sunset.js":false,"./icons/superscript.js":false,"./icons/swatch-book.js":false,"./icons/swiss-franc.js":false,"./icons/switch-camera.js":false,"./icons/sword.js":false,"./icons/swords.js":false,"./icons/syringe.js":false,"./icons/table-2.js":false,"./icons/table-cells-merge.js":false,"./icons/table-cells-split.js":false,"./icons/table-columns-split.js":false,"./icons/table-properties.js":false,"./icons/table-of-contents.js":false,"./icons/table-rows-split.js":false,"./icons/table.js":false,"./icons/tablet-smartphone.js":false,"./icons/tablet.js":false,"./icons/tablets.js":false,"./icons/tags.js":false,"./icons/tag.js":false,"./icons/tally-1.js":false,"./icons/tally-2.js":false,"./icons/tally-3.js":false,"./icons/tally-4.js":false,"./icons/tangent.js":false,"./icons/tally-5.js":false,"./icons/target.js":false,"./icons/telescope.js":false,"./icons/tent-tree.js":false,"./icons/tent.js":false,"./icons/terminal.js":false,"./icons/test-tube.js":false,"./icons/test-tubes.js":false,"./icons/text-cursor-input.js":false,"./icons/text-cursor.js":false,"./icons/text-quote.js":false,"./icons/text-search.js":false,"./icons/theater.js":false,"./icons/thermometer-snowflake.js":false,"./icons/thermometer-sun.js":false,"./icons/thermometer.js":false,"./icons/thumbs-down.js":false,"./icons/thumbs-up.js":false,"./icons/ticket-check.js":false,"./icons/ticket-minus.js":false,"./icons/ticket-percent.js":false,"./icons/ticket-slash.js":false,"./icons/ticket-plus.js":false,"./icons/ticket-x.js":false,"./icons/ticket.js":false,"./icons/tickets-plane.js":false,"./icons/tickets.js":false,"./icons/timer-off.js":false,"./icons/timer-reset.js":false,"./icons/timer.js":false,"./icons/toggle-left.js":false,"./icons/toggle-right.js":false,"./icons/toilet.js":false,"./icons/tornado.js":false,"./icons/tool-case.js":false,"./icons/torus.js":false,"./icons/touchpad-off.js":false,"./icons/touchpad.js":false,"./icons/tower-control.js":false,"./icons/toy-brick.js":false,"./icons/tractor.js":false,"./icons/traffic-cone.js":false,"./icons/train-front-tunnel.js":false,"./icons/train-front.js":false,"./icons/train-track.js":false,"./icons/transgender.js":false,"./icons/trash-2.js":"e3cIN","./icons/trash.js":false,"./icons/tree-deciduous.js":false,"./icons/tree-pine.js":false,"./icons/trees.js":false,"./icons/trello.js":false,"./icons/trending-down.js":false,"./icons/trending-up-down.js":false,"./icons/trending-up.js":"1t7px","./icons/triangle-dashed.js":false,"./icons/triangle-right.js":false,"./icons/triangle.js":false,"./icons/trophy.js":false,"./icons/truck-electric.js":false,"./icons/truck.js":"bTJej","./icons/turntable.js":false,"./icons/turkish-lira.js":false,"./icons/turtle.js":false,"./icons/tv-minimal-play.js":false,"./icons/twitch.js":false,"./icons/tv.js":false,"./icons/twitter.js":false,"./icons/type-outline.js":false,"./icons/type.js":false,"./icons/umbrella-off.js":false,"./icons/umbrella.js":false,"./icons/underline.js":false,"./icons/undo-2.js":false,"./icons/undo-dot.js":false,"./icons/undo.js":false,"./icons/unfold-horizontal.js":false,"./icons/unfold-vertical.js":false,"./icons/ungroup.js":false,"./icons/unlink.js":false,"./icons/unlink-2.js":false,"./icons/unplug.js":false,"./icons/upload.js":"eM0mw","./icons/usb.js":false,"./icons/user-check.js":false,"./icons/user-cog.js":false,"./icons/user-lock.js":false,"./icons/user-pen.js":false,"./icons/user-minus.js":false,"./icons/user-plus.js":false,"./icons/user-round-pen.js":false,"./icons/user-round-search.js":false,"./icons/user-search.js":false,"./icons/user-star.js":false,"./icons/user-x.js":false,"./icons/user.js":"atYgq","./icons/users.js":"ipAe9","./icons/utility-pole.js":false,"./icons/variable.js":false,"./icons/vault.js":false,"./icons/vector-square.js":false,"./icons/vegan.js":false,"./icons/venetian-mask.js":false,"./icons/venus-and-mars.js":false,"./icons/venus.js":false,"./icons/vibrate-off.js":false,"./icons/vibrate.js":false,"./icons/video-off.js":false,"./icons/video.js":false,"./icons/videotape.js":false,"./icons/view.js":false,"./icons/voicemail.js":false,"./icons/volleyball.js":false,"./icons/volume-1.js":false,"./icons/volume-2.js":false,"./icons/volume-off.js":false,"./icons/volume-x.js":false,"./icons/volume.js":false,"./icons/vote.js":false,"./icons/wallet-cards.js":false,"./icons/wallet.js":false,"./icons/wallpaper.js":false,"./icons/wand.js":false,"./icons/warehouse.js":false,"./icons/washing-machine.js":false,"./icons/watch.js":false,"./icons/waves-ladder.js":false,"./icons/waves.js":false,"./icons/webcam.js":false,"./icons/waypoints.js":false,"./icons/webhook.js":false,"./icons/webhook-off.js":false,"./icons/weight.js":false,"./icons/wheat-off.js":false,"./icons/wheat.js":false,"./icons/wifi-cog.js":false,"./icons/whole-word.js":false,"./icons/wifi-high.js":false,"./icons/wifi-low.js":false,"./icons/wifi-off.js":false,"./icons/wifi-pen.js":false,"./icons/wifi-sync.js":false,"./icons/wifi-zero.js":false,"./icons/wifi.js":false,"./icons/wind-arrow-down.js":false,"./icons/wind.js":false,"./icons/wine-off.js":false,"./icons/wine.js":false,"./icons/workflow.js":false,"./icons/worm.js":false,"./icons/wrench.js":false,"./icons/x.js":false,"./icons/youtube.js":false,"./icons/zap-off.js":false,"./icons/zap.js":"iMEtN","./icons/zoom-in.js":false,"./icons/zoom-out.js":false,"./icons/arrow-down-1-0.js":false,"./icons/arrow-down-0-1.js":false,"./icons/arrow-up-0-1.js":false,"./icons/arrow-up-1-0.js":false,"./createLucideIcon.js":false,"./Icon.js":false,"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"cV8Zl":[function(require,module,exports,__globalThis) {
+},{"./icons/index.js":false,"./icons/alarm-clock-minus.js":false,"./icons/alarm-clock-check.js":false,"./icons/alarm-clock-plus.js":false,"./icons/arrow-down-a-z.js":false,"./icons/arrow-down-wide-narrow.js":false,"./icons/arrow-down-z-a.js":false,"./icons/arrow-up-a-z.js":false,"./icons/arrow-up-narrow-wide.js":false,"./icons/arrow-up-z-a.js":false,"./icons/axis-3d.js":false,"./icons/badge-check.js":false,"./icons/badge-question-mark.js":false,"./icons/between-horizontal-end.js":false,"./icons/between-horizontal-start.js":false,"./icons/book-dashed.js":false,"./icons/braces.js":false,"./icons/captions.js":false,"./icons/chart-area.js":false,"./icons/chart-bar-big.js":false,"./icons/chart-bar.js":false,"./icons/chart-candlestick.js":false,"./icons/chart-column-increasing.js":false,"./icons/chart-column-big.js":false,"./icons/chart-column.js":false,"./icons/chart-line.js":false,"./icons/chart-no-axes-column-increasing.js":"cV8Zl","./icons/chart-no-axes-column.js":false,"./icons/chart-pie.js":false,"./icons/chart-no-axes-gantt.js":false,"./icons/chart-scatter.js":false,"./icons/chromium.js":false,"./icons/circle-alert.js":"fBZpl","./icons/circle-arrow-down.js":false,"./icons/circle-arrow-left.js":false,"./icons/circle-arrow-out-down-left.js":false,"./icons/circle-arrow-out-down-right.js":false,"./icons/circle-arrow-out-up-left.js":false,"./icons/circle-arrow-out-up-right.js":false,"./icons/circle-arrow-right.js":false,"./icons/circle-check-big.js":"eIsf3","./icons/circle-arrow-up.js":false,"./icons/circle-check.js":false,"./icons/circle-chevron-left.js":false,"./icons/circle-chevron-right.js":false,"./icons/circle-chevron-down.js":false,"./icons/circle-chevron-up.js":false,"./icons/circle-divide.js":false,"./icons/circle-gauge.js":false,"./icons/circle-minus.js":false,"./icons/circle-parking-off.js":false,"./icons/circle-parking.js":false,"./icons/circle-pause.js":false,"./icons/circle-percent.js":false,"./icons/circle-play.js":false,"./icons/circle-plus.js":"fK07A","./icons/circle-power.js":false,"./icons/circle-question-mark.js":false,"./icons/circle-slash-2.js":false,"./icons/circle-stop.js":false,"./icons/circle-user.js":false,"./icons/circle-x.js":false,"./icons/circle-user-round.js":false,"./icons/clipboard-pen-line.js":false,"./icons/clipboard-pen.js":false,"./icons/cloud-download.js":false,"./icons/cloud-upload.js":false,"./icons/code-xml.js":false,"./icons/columns-2.js":false,"./icons/columns-3-cog.js":false,"./icons/columns-3.js":false,"./icons/contact-round.js":false,"./icons/diamond-percent.js":false,"./icons/earth.js":false,"./icons/ellipsis-vertical.js":false,"./icons/ellipsis.js":false,"./icons/file-axis-3d.js":false,"./icons/file-chart-column-increasing.js":false,"./icons/file-chart-column.js":false,"./icons/file-chart-line.js":false,"./icons/file-chart-pie.js":false,"./icons/file-cog.js":false,"./icons/file-pen-line.js":false,"./icons/file-pen.js":false,"./icons/file-play.js":false,"./icons/file-question-mark.js":false,"./icons/file-video-camera.js":false,"./icons/folder-cog.js":false,"./icons/folder-pen.js":false,"./icons/funnel-x.js":false,"./icons/funnel.js":false,"./icons/git-commit-horizontal.js":false,"./icons/grid-2x2-check.js":false,"./icons/grid-2x2-plus.js":false,"./icons/grid-2x2-x.js":false,"./icons/grid-2x2.js":false,"./icons/grid-3x3.js":false,"./icons/hand-grab.js":false,"./icons/hand-helping.js":false,"./icons/house.js":false,"./icons/ice-cream-bowl.js":false,"./icons/ice-cream-cone.js":false,"./icons/laptop-minimal.js":false,"./icons/layers.js":false,"./icons/list-indent-decrease.js":false,"./icons/list-indent-increase.js":false,"./icons/loader-circle.js":"cCdtr","./icons/lock-keyhole-open.js":false,"./icons/lock-open.js":false,"./icons/mail-question-mark.js":false,"./icons/map-pin-pen.js":false,"./icons/message-circle-question-mark.js":false,"./icons/mic-vocal.js":false,"./icons/move-3d.js":false,"./icons/octagon-alert.js":false,"./icons/octagon-pause.js":false,"./icons/octagon-x.js":false,"./icons/paintbrush-vertical.js":false,"./icons/panel-bottom-dashed.js":false,"./icons/panel-left-close.js":false,"./icons/panel-left-dashed.js":false,"./icons/panel-left-open.js":false,"./icons/panel-left.js":false,"./icons/panel-right-dashed.js":false,"./icons/panel-top-dashed.js":false,"./icons/panels-top-left.js":false,"./icons/pen-line.js":false,"./icons/pen.js":false,"./icons/plug-zap.js":false,"./icons/rectangle-ellipsis.js":false,"./icons/rotate-3d.js":false,"./icons/rows-2.js":false,"./icons/rows-3.js":false,"./icons/scale-3d.js":false,"./icons/send-horizontal.js":false,"./icons/shield-question-mark.js":false,"./icons/shield-x.js":false,"./icons/sliders-vertical.js":false,"./icons/sparkles.js":"1gWee","./icons/square-activity.js":false,"./icons/square-arrow-down-left.js":false,"./icons/square-arrow-down-right.js":false,"./icons/square-arrow-left.js":false,"./icons/square-arrow-down.js":false,"./icons/square-arrow-out-down-left.js":false,"./icons/square-arrow-out-down-right.js":false,"./icons/square-arrow-out-up-left.js":false,"./icons/square-arrow-out-up-right.js":false,"./icons/square-arrow-right.js":false,"./icons/square-arrow-up-left.js":false,"./icons/square-arrow-up-right.js":false,"./icons/square-arrow-up.js":false,"./icons/square-asterisk.js":false,"./icons/square-bottom-dashed-scissors.js":false,"./icons/square-chart-gantt.js":false,"./icons/square-check-big.js":false,"./icons/square-check.js":false,"./icons/square-chevron-down.js":false,"./icons/square-chevron-left.js":false,"./icons/square-chevron-up.js":false,"./icons/square-chevron-right.js":false,"./icons/square-code.js":false,"./icons/square-dashed-kanban.js":false,"./icons/square-dashed-mouse-pointer.js":false,"./icons/square-dashed.js":false,"./icons/square-divide.js":false,"./icons/square-dot.js":false,"./icons/square-equal.js":false,"./icons/square-function.js":false,"./icons/square-kanban.js":false,"./icons/square-library.js":false,"./icons/square-m.js":false,"./icons/square-menu.js":false,"./icons/square-minus.js":false,"./icons/square-mouse-pointer.js":false,"./icons/square-parking-off.js":false,"./icons/square-parking.js":false,"./icons/square-pen.js":"dMG3l","./icons/square-percent.js":false,"./icons/square-pi.js":false,"./icons/square-pilcrow.js":false,"./icons/square-play.js":false,"./icons/square-plus.js":false,"./icons/square-power.js":false,"./icons/square-scissors.js":false,"./icons/square-sigma.js":false,"./icons/square-slash.js":false,"./icons/square-split-horizontal.js":false,"./icons/square-split-vertical.js":false,"./icons/square-terminal.js":false,"./icons/square-user-round.js":false,"./icons/square-user.js":false,"./icons/square-x.js":false,"./icons/test-tube-diagonal.js":false,"./icons/text-align-center.js":false,"./icons/text-align-end.js":false,"./icons/text-align-justify.js":false,"./icons/text-align-start.js":false,"./icons/text-initial.js":false,"./icons/text-select.js":false,"./icons/text-wrap.js":false,"./icons/tram-front.js":false,"./icons/tree-palm.js":false,"./icons/triangle-alert.js":"6pzou","./icons/tv-minimal.js":false,"./icons/university.js":false,"./icons/user-round-check.js":false,"./icons/user-round-cog.js":false,"./icons/user-round-minus.js":false,"./icons/user-round-plus.js":false,"./icons/user-round-x.js":false,"./icons/user-round.js":false,"./icons/users-round.js":false,"./icons/utensils-crossed.js":false,"./icons/utensils.js":false,"./icons/wallet-minimal.js":false,"./icons/wand-sparkles.js":false,"./icons/a-arrow-down.js":false,"./icons/a-arrow-up.js":false,"./icons/a-large-small.js":false,"./icons/accessibility.js":false,"./icons/activity.js":false,"./icons/air-vent.js":false,"./icons/airplay.js":false,"./icons/alarm-clock-off.js":false,"./icons/alarm-clock.js":false,"./icons/album.js":false,"./icons/alarm-smoke.js":false,"./icons/align-center-horizontal.js":false,"./icons/align-center-vertical.js":false,"./icons/align-end-horizontal.js":false,"./icons/align-end-vertical.js":false,"./icons/align-horizontal-distribute-center.js":false,"./icons/align-horizontal-distribute-end.js":false,"./icons/align-horizontal-distribute-start.js":false,"./icons/align-horizontal-justify-center.js":false,"./icons/align-horizontal-justify-end.js":false,"./icons/align-horizontal-justify-start.js":false,"./icons/align-horizontal-space-around.js":false,"./icons/align-horizontal-space-between.js":false,"./icons/align-start-horizontal.js":false,"./icons/align-start-vertical.js":false,"./icons/align-vertical-distribute-center.js":false,"./icons/align-vertical-distribute-end.js":false,"./icons/align-vertical-distribute-start.js":false,"./icons/align-vertical-justify-center.js":false,"./icons/align-vertical-justify-end.js":false,"./icons/align-vertical-justify-start.js":false,"./icons/align-vertical-space-around.js":false,"./icons/align-vertical-space-between.js":false,"./icons/ambulance.js":false,"./icons/ampersand.js":false,"./icons/ampersands.js":false,"./icons/amphora.js":false,"./icons/anchor.js":false,"./icons/angry.js":false,"./icons/annoyed.js":false,"./icons/antenna.js":false,"./icons/anvil.js":false,"./icons/app-window-mac.js":false,"./icons/aperture.js":false,"./icons/app-window.js":false,"./icons/apple.js":false,"./icons/archive-restore.js":false,"./icons/archive-x.js":false,"./icons/archive.js":false,"./icons/armchair.js":false,"./icons/arrow-big-down-dash.js":false,"./icons/arrow-big-down.js":false,"./icons/arrow-big-left-dash.js":false,"./icons/arrow-big-left.js":false,"./icons/arrow-big-right-dash.js":false,"./icons/arrow-big-up-dash.js":false,"./icons/arrow-big-right.js":false,"./icons/arrow-big-up.js":false,"./icons/arrow-down-from-line.js":false,"./icons/arrow-down-left.js":false,"./icons/arrow-down-narrow-wide.js":false,"./icons/arrow-down-right.js":false,"./icons/arrow-down-to-dot.js":false,"./icons/arrow-down-to-line.js":false,"./icons/arrow-down-up.js":false,"./icons/arrow-down.js":false,"./icons/arrow-left-from-line.js":false,"./icons/arrow-left-right.js":false,"./icons/arrow-left-to-line.js":false,"./icons/arrow-left.js":false,"./icons/arrow-right-from-line.js":false,"./icons/arrow-right-left.js":false,"./icons/arrow-right-to-line.js":false,"./icons/arrow-right.js":false,"./icons/arrow-up-down.js":false,"./icons/arrow-up-from-dot.js":false,"./icons/arrow-up-from-line.js":false,"./icons/arrow-up-left.js":false,"./icons/arrow-up-right.js":false,"./icons/arrow-up-to-line.js":false,"./icons/arrow-up-wide-narrow.js":false,"./icons/arrow-up.js":false,"./icons/arrows-up-from-line.js":false,"./icons/asterisk.js":false,"./icons/at-sign.js":false,"./icons/atom.js":false,"./icons/audio-lines.js":false,"./icons/award.js":false,"./icons/audio-waveform.js":false,"./icons/axe.js":false,"./icons/baby.js":false,"./icons/backpack.js":false,"./icons/badge-alert.js":false,"./icons/badge-cent.js":false,"./icons/badge-dollar-sign.js":false,"./icons/badge-euro.js":false,"./icons/badge-indian-rupee.js":false,"./icons/badge-info.js":false,"./icons/badge-japanese-yen.js":false,"./icons/badge-minus.js":false,"./icons/badge-plus.js":false,"./icons/badge-pound-sterling.js":false,"./icons/badge-percent.js":false,"./icons/badge-russian-ruble.js":false,"./icons/badge-swiss-franc.js":false,"./icons/badge-turkish-lira.js":false,"./icons/badge-x.js":false,"./icons/badge.js":false,"./icons/baggage-claim.js":false,"./icons/ban.js":false,"./icons/banana.js":false,"./icons/bandage.js":false,"./icons/banknote-arrow-down.js":false,"./icons/banknote-x.js":false,"./icons/banknote-arrow-up.js":false,"./icons/banknote.js":false,"./icons/barcode.js":false,"./icons/baseline.js":false,"./icons/barrel.js":false,"./icons/bath.js":false,"./icons/battery-charging.js":false,"./icons/battery-full.js":false,"./icons/battery-low.js":false,"./icons/battery-medium.js":false,"./icons/battery-plus.js":false,"./icons/battery-warning.js":false,"./icons/battery.js":false,"./icons/beaker.js":false,"./icons/bean-off.js":false,"./icons/bean.js":false,"./icons/bed-double.js":false,"./icons/bed-single.js":false,"./icons/bed.js":false,"./icons/beef.js":false,"./icons/beer-off.js":false,"./icons/bell-dot.js":false,"./icons/beer.js":false,"./icons/bell-electric.js":false,"./icons/bell-minus.js":false,"./icons/bell-off.js":false,"./icons/bell-plus.js":false,"./icons/bell-ring.js":false,"./icons/bell.js":false,"./icons/between-vertical-end.js":false,"./icons/between-vertical-start.js":false,"./icons/biceps-flexed.js":false,"./icons/bike.js":false,"./icons/binary.js":false,"./icons/binoculars.js":false,"./icons/biohazard.js":false,"./icons/bird.js":false,"./icons/bitcoin.js":false,"./icons/blend.js":false,"./icons/blinds.js":false,"./icons/blocks.js":false,"./icons/bluetooth-connected.js":false,"./icons/bluetooth-off.js":false,"./icons/bluetooth.js":false,"./icons/bluetooth-searching.js":false,"./icons/bold.js":false,"./icons/bolt.js":false,"./icons/bomb.js":false,"./icons/bone.js":false,"./icons/book-a.js":false,"./icons/book-alert.js":false,"./icons/book-audio.js":false,"./icons/book-check.js":false,"./icons/book-copy.js":false,"./icons/book-down.js":false,"./icons/book-headphones.js":false,"./icons/book-heart.js":false,"./icons/book-image.js":false,"./icons/book-key.js":false,"./icons/book-lock.js":false,"./icons/book-marked.js":false,"./icons/book-minus.js":false,"./icons/book-open-check.js":false,"./icons/book-open-text.js":false,"./icons/book-open.js":false,"./icons/book-plus.js":false,"./icons/book-type.js":false,"./icons/book-text.js":false,"./icons/book-up-2.js":false,"./icons/book-up.js":false,"./icons/book-user.js":false,"./icons/book-x.js":false,"./icons/book.js":false,"./icons/bookmark-check.js":false,"./icons/bookmark-plus.js":false,"./icons/bookmark-minus.js":false,"./icons/bookmark-x.js":false,"./icons/bookmark.js":false,"./icons/boom-box.js":false,"./icons/bot-message-square.js":false,"./icons/bot-off.js":false,"./icons/bot.js":false,"./icons/bottle-wine.js":false,"./icons/bow-arrow.js":false,"./icons/box.js":false,"./icons/boxes.js":false,"./icons/brackets.js":false,"./icons/brain-circuit.js":false,"./icons/brain-cog.js":false,"./icons/brain.js":false,"./icons/brick-wall-fire.js":false,"./icons/brick-wall-shield.js":false,"./icons/brick-wall.js":false,"./icons/briefcase-business.js":false,"./icons/briefcase-conveyor-belt.js":false,"./icons/briefcase-medical.js":false,"./icons/briefcase.js":false,"./icons/bring-to-front.js":false,"./icons/brush-cleaning.js":false,"./icons/brush.js":false,"./icons/bubbles.js":false,"./icons/bug-play.js":false,"./icons/bug-off.js":false,"./icons/bug.js":false,"./icons/building-2.js":false,"./icons/building.js":false,"./icons/bus-front.js":false,"./icons/bus.js":false,"./icons/cable-car.js":false,"./icons/cable.js":false,"./icons/cake-slice.js":false,"./icons/cake.js":false,"./icons/calculator.js":false,"./icons/calendar-1.js":false,"./icons/calendar-arrow-down.js":false,"./icons/calendar-arrow-up.js":false,"./icons/calendar-check-2.js":false,"./icons/calendar-clock.js":false,"./icons/calendar-check.js":false,"./icons/calendar-cog.js":false,"./icons/calendar-days.js":false,"./icons/calendar-fold.js":false,"./icons/calendar-heart.js":false,"./icons/calendar-minus.js":false,"./icons/calendar-minus-2.js":false,"./icons/calendar-off.js":false,"./icons/calendar-plus-2.js":false,"./icons/calendar-plus.js":false,"./icons/calendar-range.js":false,"./icons/calendar-search.js":false,"./icons/calendar-sync.js":false,"./icons/calendar-x-2.js":false,"./icons/calendar-x.js":false,"./icons/calendar.js":false,"./icons/camera.js":false,"./icons/camera-off.js":false,"./icons/candy-cane.js":false,"./icons/candy-off.js":false,"./icons/candy.js":false,"./icons/cannabis.js":false,"./icons/captions-off.js":false,"./icons/car-front.js":false,"./icons/car-taxi-front.js":false,"./icons/car.js":false,"./icons/caravan.js":false,"./icons/card-sim.js":false,"./icons/carrot.js":false,"./icons/case-lower.js":false,"./icons/case-sensitive.js":false,"./icons/case-upper.js":false,"./icons/cast.js":false,"./icons/cassette-tape.js":false,"./icons/castle.js":false,"./icons/cat.js":false,"./icons/cctv.js":false,"./icons/chart-bar-decreasing.js":false,"./icons/chart-bar-increasing.js":false,"./icons/chart-bar-stacked.js":false,"./icons/chart-column-decreasing.js":false,"./icons/chart-column-stacked.js":false,"./icons/chart-gantt.js":false,"./icons/chart-network.js":false,"./icons/chart-no-axes-column-decreasing.js":false,"./icons/chart-no-axes-combined.js":false,"./icons/chart-spline.js":false,"./icons/check-check.js":"hZGf1","./icons/check-line.js":false,"./icons/chef-hat.js":false,"./icons/check.js":"irEtD","./icons/cherry.js":false,"./icons/chevron-down.js":false,"./icons/chevron-first.js":false,"./icons/chevron-last.js":false,"./icons/chevron-left.js":false,"./icons/chevron-right.js":false,"./icons/chevron-up.js":false,"./icons/chevrons-down-up.js":false,"./icons/chevrons-down.js":false,"./icons/chevrons-left-right-ellipsis.js":false,"./icons/chevrons-left-right.js":false,"./icons/chevrons-left.js":false,"./icons/chevrons-right-left.js":false,"./icons/chevrons-right.js":false,"./icons/chevrons-up-down.js":false,"./icons/chevrons-up.js":false,"./icons/church.js":false,"./icons/cigarette-off.js":false,"./icons/cigarette.js":false,"./icons/circle-dashed.js":false,"./icons/circle-dollar-sign.js":false,"./icons/circle-dot-dashed.js":false,"./icons/circle-dot.js":false,"./icons/circle-ellipsis.js":false,"./icons/circle-equal.js":false,"./icons/circle-fading-arrow-up.js":false,"./icons/circle-fading-plus.js":false,"./icons/circle-off.js":false,"./icons/circle-pound-sterling.js":false,"./icons/circle-slash.js":false,"./icons/circle-small.js":false,"./icons/circle-star.js":false,"./icons/circle.js":false,"./icons/circuit-board.js":false,"./icons/citrus.js":false,"./icons/clapperboard.js":false,"./icons/clipboard-check.js":false,"./icons/clipboard-copy.js":false,"./icons/clipboard-clock.js":false,"./icons/clipboard-list.js":"du017","./icons/clipboard-minus.js":false,"./icons/clipboard-paste.js":false,"./icons/clipboard-plus.js":false,"./icons/clipboard-type.js":false,"./icons/clipboard-x.js":false,"./icons/clipboard.js":false,"./icons/clock-1.js":false,"./icons/clock-10.js":false,"./icons/clock-11.js":false,"./icons/clock-12.js":false,"./icons/clock-2.js":false,"./icons/clock-3.js":false,"./icons/clock-5.js":false,"./icons/clock-4.js":false,"./icons/clock-6.js":false,"./icons/clock-7.js":false,"./icons/clock-8.js":false,"./icons/clock-9.js":false,"./icons/clock-arrow-down.js":false,"./icons/clock-alert.js":false,"./icons/clock-arrow-up.js":false,"./icons/clock-fading.js":false,"./icons/clock-plus.js":false,"./icons/clock.js":false,"./icons/closed-caption.js":false,"./icons/cloud-alert.js":false,"./icons/cloud-check.js":false,"./icons/cloud-cog.js":false,"./icons/cloud-drizzle.js":false,"./icons/cloud-fog.js":false,"./icons/cloud-hail.js":false,"./icons/cloud-lightning.js":false,"./icons/cloud-moon-rain.js":false,"./icons/cloud-off.js":false,"./icons/cloud-moon.js":false,"./icons/cloud-rain-wind.js":false,"./icons/cloud-rain.js":false,"./icons/cloud-snow.js":false,"./icons/cloud-sun-rain.js":false,"./icons/cloud-sun.js":false,"./icons/cloud.js":false,"./icons/cloudy.js":false,"./icons/clover.js":false,"./icons/club.js":false,"./icons/code.js":false,"./icons/codepen.js":false,"./icons/codesandbox.js":false,"./icons/coffee.js":false,"./icons/cog.js":false,"./icons/coins.js":false,"./icons/columns-4.js":false,"./icons/combine.js":false,"./icons/command.js":false,"./icons/compass.js":false,"./icons/component.js":false,"./icons/computer.js":false,"./icons/concierge-bell.js":false,"./icons/construction.js":false,"./icons/cone.js":false,"./icons/contact.js":false,"./icons/container.js":false,"./icons/contrast.js":false,"./icons/cookie.js":false,"./icons/copy-check.js":false,"./icons/cooking-pot.js":false,"./icons/copy-minus.js":false,"./icons/copy-plus.js":false,"./icons/copy-slash.js":false,"./icons/copy-x.js":false,"./icons/copy.js":false,"./icons/copyleft.js":false,"./icons/copyright.js":false,"./icons/corner-down-left.js":false,"./icons/corner-down-right.js":false,"./icons/corner-left-down.js":false,"./icons/corner-left-up.js":false,"./icons/corner-right-down.js":false,"./icons/corner-right-up.js":false,"./icons/corner-up-left.js":false,"./icons/corner-up-right.js":false,"./icons/cpu.js":false,"./icons/creative-commons.js":false,"./icons/credit-card.js":false,"./icons/croissant.js":false,"./icons/crop.js":false,"./icons/cross.js":false,"./icons/crosshair.js":false,"./icons/crown.js":false,"./icons/cuboid.js":false,"./icons/cup-soda.js":false,"./icons/currency.js":false,"./icons/cylinder.js":false,"./icons/dam.js":false,"./icons/database-backup.js":false,"./icons/database-zap.js":false,"./icons/decimals-arrow-left.js":false,"./icons/database.js":false,"./icons/decimals-arrow-right.js":false,"./icons/delete.js":false,"./icons/dessert.js":false,"./icons/diameter.js":false,"./icons/diamond-minus.js":false,"./icons/diamond-plus.js":false,"./icons/diamond.js":false,"./icons/dice-1.js":false,"./icons/dice-2.js":false,"./icons/dice-3.js":false,"./icons/dice-4.js":false,"./icons/dice-5.js":false,"./icons/dice-6.js":false,"./icons/dices.js":false,"./icons/diff.js":false,"./icons/disc-2.js":false,"./icons/disc-3.js":false,"./icons/disc-album.js":false,"./icons/disc.js":false,"./icons/divide.js":false,"./icons/dna-off.js":false,"./icons/dna.js":false,"./icons/dock.js":false,"./icons/dog.js":false,"./icons/dollar-sign.js":false,"./icons/donut.js":false,"./icons/door-closed-locked.js":false,"./icons/door-closed.js":false,"./icons/door-open.js":false,"./icons/dot.js":false,"./icons/download.js":false,"./icons/drafting-compass.js":false,"./icons/drama.js":false,"./icons/dribbble.js":false,"./icons/drill.js":false,"./icons/drone.js":false,"./icons/droplet-off.js":false,"./icons/droplet.js":false,"./icons/droplets.js":false,"./icons/drum.js":false,"./icons/drumstick.js":false,"./icons/dumbbell.js":false,"./icons/ear-off.js":false,"./icons/ear.js":false,"./icons/earth-lock.js":false,"./icons/eclipse.js":false,"./icons/egg-fried.js":false,"./icons/egg-off.js":false,"./icons/egg.js":false,"./icons/equal-approximately.js":false,"./icons/equal-not.js":false,"./icons/equal.js":false,"./icons/eraser.js":false,"./icons/euro.js":false,"./icons/ethernet-port.js":false,"./icons/ev-charger.js":false,"./icons/expand.js":false,"./icons/external-link.js":false,"./icons/eye-off.js":false,"./icons/eye-closed.js":false,"./icons/eye.js":false,"./icons/facebook.js":false,"./icons/factory.js":false,"./icons/fan.js":false,"./icons/fast-forward.js":false,"./icons/feather.js":false,"./icons/fence.js":false,"./icons/ferris-wheel.js":false,"./icons/figma.js":false,"./icons/file-archive.js":false,"./icons/file-audio-2.js":false,"./icons/file-audio.js":false,"./icons/file-badge-2.js":false,"./icons/file-box.js":false,"./icons/file-badge.js":false,"./icons/file-check-2.js":false,"./icons/file-check.js":false,"./icons/file-code-2.js":false,"./icons/file-clock.js":false,"./icons/file-code.js":false,"./icons/file-diff.js":false,"./icons/file-digit.js":false,"./icons/file-down.js":false,"./icons/file-heart.js":false,"./icons/file-image.js":false,"./icons/file-input.js":false,"./icons/file-json-2.js":false,"./icons/file-json.js":false,"./icons/file-key-2.js":false,"./icons/file-key.js":false,"./icons/file-lock-2.js":false,"./icons/file-lock.js":false,"./icons/file-minus-2.js":false,"./icons/file-minus.js":false,"./icons/file-music.js":false,"./icons/file-output.js":false,"./icons/file-plus-2.js":false,"./icons/file-plus.js":false,"./icons/file-scan.js":false,"./icons/file-search-2.js":false,"./icons/file-search.js":false,"./icons/file-sliders.js":false,"./icons/file-spreadsheet.js":false,"./icons/file-stack.js":false,"./icons/file-symlink.js":false,"./icons/file-terminal.js":false,"./icons/file-text.js":false,"./icons/file-type-2.js":false,"./icons/file-type.js":false,"./icons/file-up.js":false,"./icons/file-user.js":false,"./icons/file-volume-2.js":false,"./icons/file-volume.js":false,"./icons/file-warning.js":false,"./icons/file-x-2.js":false,"./icons/file-x.js":false,"./icons/file.js":false,"./icons/film.js":false,"./icons/files.js":false,"./icons/fingerprint.js":false,"./icons/fire-extinguisher.js":false,"./icons/fish-off.js":false,"./icons/fish-symbol.js":false,"./icons/fish.js":false,"./icons/flag-off.js":false,"./icons/flag-triangle-left.js":false,"./icons/flag-triangle-right.js":false,"./icons/flag.js":"dkaO7","./icons/flame-kindling.js":false,"./icons/flame.js":false,"./icons/flashlight-off.js":false,"./icons/flashlight.js":false,"./icons/flask-conical-off.js":false,"./icons/flask-conical.js":false,"./icons/flask-round.js":false,"./icons/flip-horizontal-2.js":false,"./icons/flip-horizontal.js":false,"./icons/flip-vertical-2.js":false,"./icons/flip-vertical.js":false,"./icons/flower-2.js":false,"./icons/flower.js":false,"./icons/focus.js":false,"./icons/fold-horizontal.js":false,"./icons/fold-vertical.js":false,"./icons/folder-archive.js":false,"./icons/folder-check.js":false,"./icons/folder-clock.js":false,"./icons/folder-code.js":false,"./icons/folder-dot.js":false,"./icons/folder-closed.js":false,"./icons/folder-down.js":false,"./icons/folder-git-2.js":false,"./icons/folder-git.js":false,"./icons/folder-heart.js":false,"./icons/folder-input.js":false,"./icons/folder-kanban.js":false,"./icons/folder-key.js":false,"./icons/folder-lock.js":false,"./icons/folder-minus.js":false,"./icons/folder-open-dot.js":false,"./icons/folder-open.js":false,"./icons/folder-output.js":false,"./icons/folder-plus.js":false,"./icons/folder-root.js":false,"./icons/folder-search-2.js":false,"./icons/folder-search.js":false,"./icons/folder-symlink.js":false,"./icons/folder-sync.js":false,"./icons/folder-tree.js":false,"./icons/folder-up.js":false,"./icons/folder-x.js":false,"./icons/folder.js":false,"./icons/folders.js":false,"./icons/footprints.js":false,"./icons/forklift.js":false,"./icons/forward.js":false,"./icons/frame.js":false,"./icons/framer.js":false,"./icons/frown.js":false,"./icons/fuel.js":false,"./icons/fullscreen.js":false,"./icons/funnel-plus.js":false,"./icons/gallery-horizontal-end.js":false,"./icons/gallery-horizontal.js":false,"./icons/gallery-thumbnails.js":false,"./icons/gallery-vertical-end.js":false,"./icons/gallery-vertical.js":false,"./icons/gamepad-2.js":false,"./icons/gamepad.js":false,"./icons/gauge.js":false,"./icons/gavel.js":false,"./icons/gem.js":false,"./icons/georgian-lari.js":false,"./icons/ghost.js":false,"./icons/gift.js":false,"./icons/git-branch-plus.js":false,"./icons/git-branch.js":false,"./icons/git-commit-vertical.js":false,"./icons/git-compare-arrows.js":false,"./icons/git-compare.js":false,"./icons/git-fork.js":false,"./icons/git-graph.js":false,"./icons/git-merge.js":false,"./icons/git-pull-request-arrow.js":false,"./icons/git-pull-request-closed.js":false,"./icons/git-pull-request-create-arrow.js":false,"./icons/git-pull-request-create.js":false,"./icons/git-pull-request-draft.js":false,"./icons/git-pull-request.js":false,"./icons/github.js":false,"./icons/glass-water.js":false,"./icons/gitlab.js":false,"./icons/glasses.js":false,"./icons/globe-lock.js":false,"./icons/globe.js":"4VpyD","./icons/goal.js":false,"./icons/gpu.js":false,"./icons/graduation-cap.js":false,"./icons/grape.js":false,"./icons/grid-3x2.js":false,"./icons/grip-horizontal.js":false,"./icons/grip-vertical.js":false,"./icons/grip.js":false,"./icons/guitar.js":false,"./icons/group.js":false,"./icons/ham.js":false,"./icons/hamburger.js":false,"./icons/hand-coins.js":false,"./icons/hammer.js":false,"./icons/hand-fist.js":false,"./icons/hand-heart.js":false,"./icons/hand-metal.js":false,"./icons/hand-platter.js":false,"./icons/hand.js":false,"./icons/handbag.js":false,"./icons/handshake.js":false,"./icons/hard-drive-download.js":false,"./icons/hard-drive-upload.js":false,"./icons/hard-drive.js":false,"./icons/hard-hat.js":false,"./icons/hash.js":false,"./icons/hat-glasses.js":false,"./icons/haze.js":false,"./icons/heading-1.js":false,"./icons/hdmi-port.js":false,"./icons/heading-2.js":false,"./icons/heading-3.js":false,"./icons/heading-5.js":false,"./icons/heading-4.js":false,"./icons/heading-6.js":false,"./icons/heading.js":false,"./icons/headphone-off.js":false,"./icons/headphones.js":false,"./icons/headset.js":false,"./icons/heart-crack.js":false,"./icons/heart-handshake.js":false,"./icons/heart-minus.js":false,"./icons/heart-off.js":false,"./icons/heart-plus.js":false,"./icons/heart-pulse.js":false,"./icons/heart.js":false,"./icons/heater.js":false,"./icons/hexagon.js":false,"./icons/highlighter.js":false,"./icons/history.js":"4c8Dt","./icons/hop-off.js":false,"./icons/hop.js":false,"./icons/hotel.js":false,"./icons/hospital.js":false,"./icons/hourglass.js":false,"./icons/house-heart.js":false,"./icons/house-plug.js":false,"./icons/house-plus.js":false,"./icons/house-wifi.js":false,"./icons/id-card-lanyard.js":false,"./icons/id-card.js":false,"./icons/image-down.js":false,"./icons/image-minus.js":false,"./icons/image-off.js":false,"./icons/image-play.js":false,"./icons/image-plus.js":false,"./icons/image-upscale.js":false,"./icons/image-up.js":false,"./icons/image.js":false,"./icons/images.js":false,"./icons/import.js":false,"./icons/inbox.js":false,"./icons/indian-rupee.js":"9dkx8","./icons/infinity.js":false,"./icons/info.js":false,"./icons/inspection-panel.js":false,"./icons/instagram.js":false,"./icons/italic.js":false,"./icons/iteration-ccw.js":false,"./icons/iteration-cw.js":false,"./icons/japanese-yen.js":false,"./icons/joystick.js":false,"./icons/kanban.js":false,"./icons/kayak.js":false,"./icons/key-square.js":false,"./icons/key-round.js":false,"./icons/key.js":false,"./icons/keyboard-music.js":false,"./icons/keyboard-off.js":false,"./icons/keyboard.js":false,"./icons/lamp-ceiling.js":false,"./icons/lamp-desk.js":false,"./icons/lamp-wall-down.js":false,"./icons/lamp-floor.js":false,"./icons/lamp-wall-up.js":false,"./icons/lamp.js":false,"./icons/land-plot.js":false,"./icons/landmark.js":false,"./icons/laptop-minimal-check.js":false,"./icons/languages.js":false,"./icons/laptop.js":false,"./icons/lasso-select.js":false,"./icons/lasso.js":false,"./icons/laugh.js":false,"./icons/layers-2.js":false,"./icons/layout-dashboard.js":"jaiYE","./icons/layout-grid.js":false,"./icons/layout-panel-left.js":false,"./icons/layout-list.js":false,"./icons/layout-panel-top.js":false,"./icons/layout-template.js":false,"./icons/leaf.js":"516SU","./icons/lectern.js":false,"./icons/library-big.js":false,"./icons/leafy-green.js":false,"./icons/library.js":false,"./icons/life-buoy.js":false,"./icons/ligature.js":false,"./icons/lightbulb-off.js":false,"./icons/lightbulb.js":false,"./icons/line-squiggle.js":false,"./icons/link-2-off.js":false,"./icons/link-2.js":false,"./icons/linkedin.js":false,"./icons/list-check.js":false,"./icons/link.js":false,"./icons/list-checks.js":false,"./icons/list-chevrons-down-up.js":false,"./icons/list-chevrons-up-down.js":false,"./icons/list-collapse.js":false,"./icons/list-end.js":false,"./icons/list-filter-plus.js":false,"./icons/list-filter.js":false,"./icons/list-minus.js":false,"./icons/list-music.js":false,"./icons/list-ordered.js":false,"./icons/list-plus.js":false,"./icons/list-restart.js":false,"./icons/list-start.js":false,"./icons/list-todo.js":false,"./icons/list-tree.js":false,"./icons/list-video.js":false,"./icons/list-x.js":false,"./icons/list.js":false,"./icons/loader-pinwheel.js":false,"./icons/loader.js":false,"./icons/locate-fixed.js":false,"./icons/locate-off.js":false,"./icons/locate.js":false,"./icons/lock-keyhole.js":false,"./icons/lock.js":"hKg2n","./icons/log-in.js":false,"./icons/log-out.js":"5NSxp","./icons/logs.js":false,"./icons/lollipop.js":false,"./icons/luggage.js":false,"./icons/magnet.js":false,"./icons/mail-check.js":false,"./icons/mail-open.js":false,"./icons/mail-minus.js":false,"./icons/mail-plus.js":false,"./icons/mail-search.js":false,"./icons/mail-warning.js":false,"./icons/mail-x.js":false,"./icons/mail.js":"lxD5A","./icons/mailbox.js":false,"./icons/mails.js":false,"./icons/map-minus.js":false,"./icons/map-pin-check.js":false,"./icons/map-pin-check-inside.js":false,"./icons/map-pin-house.js":false,"./icons/map-pin-minus-inside.js":false,"./icons/map-pin-minus.js":false,"./icons/map-pin-off.js":false,"./icons/map-pin-plus-inside.js":false,"./icons/map-pin-plus.js":false,"./icons/map-pin-x-inside.js":false,"./icons/map-pin.js":"lY4q8","./icons/map-pin-x.js":false,"./icons/map-pinned.js":false,"./icons/map-plus.js":false,"./icons/map.js":false,"./icons/mars-stroke.js":false,"./icons/mars.js":false,"./icons/maximize-2.js":false,"./icons/martini.js":false,"./icons/maximize.js":false,"./icons/medal.js":false,"./icons/megaphone-off.js":false,"./icons/megaphone.js":false,"./icons/meh.js":false,"./icons/memory-stick.js":false,"./icons/menu.js":false,"./icons/message-circle-code.js":false,"./icons/merge.js":false,"./icons/message-circle-heart.js":false,"./icons/message-circle-dashed.js":false,"./icons/message-circle-more.js":false,"./icons/message-circle-off.js":false,"./icons/message-circle-plus.js":false,"./icons/message-circle-reply.js":false,"./icons/message-circle-warning.js":false,"./icons/message-circle-x.js":false,"./icons/message-circle.js":"hKiAj","./icons/message-square-code.js":false,"./icons/message-square-dashed.js":false,"./icons/message-square-dot.js":false,"./icons/message-square-diff.js":false,"./icons/message-square-heart.js":false,"./icons/message-square-lock.js":false,"./icons/message-square-more.js":false,"./icons/message-square-off.js":false,"./icons/message-square-plus.js":false,"./icons/message-square-reply.js":false,"./icons/message-square-quote.js":false,"./icons/message-square-text.js":false,"./icons/message-square-share.js":false,"./icons/message-square-warning.js":false,"./icons/message-square-x.js":false,"./icons/message-square.js":false,"./icons/messages-square.js":false,"./icons/mic-off.js":false,"./icons/mic.js":false,"./icons/microchip.js":false,"./icons/microscope.js":false,"./icons/microwave.js":false,"./icons/milestone.js":false,"./icons/milk-off.js":false,"./icons/milk.js":false,"./icons/minimize-2.js":false,"./icons/minimize.js":false,"./icons/minus.js":false,"./icons/monitor-check.js":false,"./icons/monitor-cog.js":false,"./icons/monitor-down.js":false,"./icons/monitor-dot.js":false,"./icons/monitor-off.js":false,"./icons/monitor-play.js":false,"./icons/monitor-pause.js":false,"./icons/monitor-smartphone.js":false,"./icons/monitor-stop.js":false,"./icons/monitor-speaker.js":false,"./icons/monitor-up.js":false,"./icons/monitor-x.js":false,"./icons/monitor.js":false,"./icons/moon-star.js":false,"./icons/moon.js":false,"./icons/mountain-snow.js":false,"./icons/mountain.js":false,"./icons/mouse-off.js":false,"./icons/mouse-pointer-2.js":false,"./icons/mouse-pointer-ban.js":false,"./icons/mouse-pointer-click.js":false,"./icons/mouse-pointer.js":false,"./icons/mouse.js":false,"./icons/move-diagonal.js":false,"./icons/move-diagonal-2.js":false,"./icons/move-down-left.js":false,"./icons/move-down-right.js":false,"./icons/move-down.js":false,"./icons/move-horizontal.js":false,"./icons/move-left.js":false,"./icons/move-right.js":false,"./icons/move-up-left.js":false,"./icons/move-up-right.js":false,"./icons/move-up.js":false,"./icons/move-vertical.js":false,"./icons/move.js":false,"./icons/music-2.js":false,"./icons/music-3.js":false,"./icons/music-4.js":false,"./icons/music.js":false,"./icons/navigation-2-off.js":false,"./icons/navigation-2.js":false,"./icons/navigation-off.js":false,"./icons/navigation.js":false,"./icons/network.js":false,"./icons/newspaper.js":false,"./icons/nfc.js":false,"./icons/non-binary.js":false,"./icons/notebook-pen.js":false,"./icons/notebook-text.js":false,"./icons/notebook-tabs.js":false,"./icons/notebook.js":false,"./icons/notepad-text.js":false,"./icons/notepad-text-dashed.js":false,"./icons/nut-off.js":false,"./icons/nut.js":false,"./icons/octagon-minus.js":false,"./icons/octagon.js":false,"./icons/omega.js":false,"./icons/option.js":false,"./icons/orbit.js":false,"./icons/origami.js":false,"./icons/package-check.js":false,"./icons/package-2.js":false,"./icons/package-minus.js":false,"./icons/package-open.js":false,"./icons/package-plus.js":false,"./icons/package-search.js":false,"./icons/package-x.js":false,"./icons/package.js":"7JqoS","./icons/paint-bucket.js":false,"./icons/paint-roller.js":false,"./icons/paintbrush.js":false,"./icons/palette.js":false,"./icons/panda.js":false,"./icons/panel-bottom-close.js":false,"./icons/panel-bottom.js":false,"./icons/panel-bottom-open.js":false,"./icons/panel-left-right-dashed.js":false,"./icons/panel-right-close.js":false,"./icons/panel-right-open.js":false,"./icons/panel-right.js":false,"./icons/panel-top-bottom-dashed.js":false,"./icons/panel-top-close.js":false,"./icons/panel-top-open.js":false,"./icons/panel-top.js":false,"./icons/panels-left-bottom.js":false,"./icons/panels-right-bottom.js":false,"./icons/paperclip.js":false,"./icons/parentheses.js":false,"./icons/parking-meter.js":false,"./icons/party-popper.js":false,"./icons/pause.js":false,"./icons/paw-print.js":false,"./icons/pc-case.js":false,"./icons/pen-off.js":false,"./icons/pen-tool.js":false,"./icons/pencil-line.js":false,"./icons/pencil-off.js":false,"./icons/pencil-ruler.js":false,"./icons/pencil.js":false,"./icons/pentagon.js":false,"./icons/percent.js":false,"./icons/person-standing.js":false,"./icons/philippine-peso.js":false,"./icons/phone-call.js":false,"./icons/phone-forwarded.js":false,"./icons/phone-incoming.js":false,"./icons/phone-missed.js":false,"./icons/phone-off.js":false,"./icons/phone-outgoing.js":false,"./icons/phone.js":"9bulm","./icons/pi.js":false,"./icons/pickaxe.js":false,"./icons/piano.js":false,"./icons/picture-in-picture-2.js":false,"./icons/picture-in-picture.js":false,"./icons/pilcrow-left.js":false,"./icons/piggy-bank.js":false,"./icons/pilcrow-right.js":false,"./icons/pilcrow.js":false,"./icons/pill-bottle.js":false,"./icons/pill.js":false,"./icons/pin-off.js":false,"./icons/pin.js":false,"./icons/pipette.js":false,"./icons/pizza.js":false,"./icons/plane-landing.js":false,"./icons/plane-takeoff.js":false,"./icons/plane.js":false,"./icons/play.js":false,"./icons/plug-2.js":false,"./icons/plug.js":false,"./icons/plus.js":false,"./icons/pocket-knife.js":false,"./icons/pocket.js":false,"./icons/podcast.js":false,"./icons/pointer-off.js":false,"./icons/pointer.js":false,"./icons/popcorn.js":false,"./icons/popsicle.js":false,"./icons/pound-sterling.js":false,"./icons/power.js":false,"./icons/power-off.js":false,"./icons/presentation.js":false,"./icons/printer-check.js":false,"./icons/printer.js":false,"./icons/projector.js":false,"./icons/proportions.js":false,"./icons/puzzle.js":false,"./icons/pyramid.js":false,"./icons/qr-code.js":false,"./icons/quote.js":false,"./icons/rabbit.js":false,"./icons/radar.js":false,"./icons/radiation.js":false,"./icons/radical.js":false,"./icons/radio-receiver.js":false,"./icons/radio-tower.js":false,"./icons/radio.js":false,"./icons/radius.js":false,"./icons/rail-symbol.js":false,"./icons/rainbow.js":false,"./icons/rat.js":false,"./icons/ratio.js":false,"./icons/receipt-cent.js":false,"./icons/receipt-indian-rupee.js":false,"./icons/receipt-euro.js":false,"./icons/receipt-japanese-yen.js":false,"./icons/receipt-pound-sterling.js":false,"./icons/receipt-russian-ruble.js":false,"./icons/receipt-swiss-franc.js":false,"./icons/receipt-text.js":false,"./icons/receipt-turkish-lira.js":false,"./icons/receipt.js":false,"./icons/rectangle-circle.js":false,"./icons/rectangle-goggles.js":false,"./icons/rectangle-horizontal.js":false,"./icons/rectangle-vertical.js":false,"./icons/recycle.js":false,"./icons/redo-2.js":false,"./icons/redo-dot.js":false,"./icons/refresh-ccw-dot.js":false,"./icons/redo.js":false,"./icons/refresh-ccw.js":false,"./icons/refresh-cw-off.js":false,"./icons/refresh-cw.js":false,"./icons/refrigerator.js":false,"./icons/regex.js":false,"./icons/remove-formatting.js":false,"./icons/repeat-1.js":false,"./icons/repeat-2.js":false,"./icons/repeat.js":false,"./icons/replace-all.js":false,"./icons/replace.js":false,"./icons/reply-all.js":false,"./icons/reply.js":false,"./icons/rewind.js":false,"./icons/ribbon.js":false,"./icons/rocket.js":false,"./icons/rocking-chair.js":false,"./icons/rose.js":false,"./icons/roller-coaster.js":false,"./icons/rotate-ccw-key.js":false,"./icons/rotate-ccw-square.js":false,"./icons/rotate-ccw.js":false,"./icons/rotate-cw-square.js":false,"./icons/rotate-cw.js":false,"./icons/route-off.js":false,"./icons/route.js":false,"./icons/router.js":false,"./icons/rows-4.js":false,"./icons/rss.js":false,"./icons/ruler-dimension-line.js":false,"./icons/ruler.js":false,"./icons/russian-ruble.js":false,"./icons/sailboat.js":false,"./icons/salad.js":false,"./icons/sandwich.js":false,"./icons/satellite-dish.js":false,"./icons/satellite.js":false,"./icons/saudi-riyal.js":false,"./icons/save-all.js":false,"./icons/save-off.js":false,"./icons/save.js":false,"./icons/scale.js":"4QVvU","./icons/scaling.js":false,"./icons/scan-barcode.js":false,"./icons/scan-eye.js":false,"./icons/scan-face.js":false,"./icons/scan-heart.js":false,"./icons/scan-line.js":false,"./icons/scan-qr-code.js":false,"./icons/scan-search.js":false,"./icons/scan-text.js":false,"./icons/scan.js":false,"./icons/school.js":false,"./icons/scissors-line-dashed.js":false,"./icons/scissors.js":false,"./icons/screen-share.js":false,"./icons/screen-share-off.js":false,"./icons/scroll-text.js":false,"./icons/scroll.js":false,"./icons/search-check.js":false,"./icons/search-x.js":false,"./icons/search-code.js":false,"./icons/search-slash.js":false,"./icons/search.js":"fZL10","./icons/section.js":false,"./icons/send.js":"fQUXo","./icons/send-to-back.js":false,"./icons/separator-horizontal.js":false,"./icons/separator-vertical.js":false,"./icons/server-cog.js":false,"./icons/server-crash.js":false,"./icons/server-off.js":false,"./icons/server.js":false,"./icons/settings.js":false,"./icons/settings-2.js":false,"./icons/shapes.js":false,"./icons/share-2.js":false,"./icons/share.js":false,"./icons/sheet.js":false,"./icons/shell.js":false,"./icons/shield-alert.js":"fUmBU","./icons/shield-ban.js":false,"./icons/shield-check.js":"ki7w7","./icons/shield-ellipsis.js":false,"./icons/shield-half.js":false,"./icons/shield-minus.js":false,"./icons/shield-off.js":false,"./icons/shield-plus.js":false,"./icons/shield-user.js":false,"./icons/shield.js":"9A9tR","./icons/ship-wheel.js":false,"./icons/ship.js":false,"./icons/shirt.js":false,"./icons/shopping-bag.js":"4j5Rz","./icons/shopping-basket.js":false,"./icons/shopping-cart.js":"ftZj5","./icons/shovel.js":false,"./icons/shower-head.js":false,"./icons/shredder.js":false,"./icons/shrimp.js":false,"./icons/shrink.js":false,"./icons/shrub.js":false,"./icons/shuffle.js":false,"./icons/sigma.js":false,"./icons/signal-high.js":false,"./icons/signal-low.js":false,"./icons/signal-medium.js":false,"./icons/signal-zero.js":false,"./icons/signal.js":false,"./icons/signature.js":false,"./icons/signpost-big.js":false,"./icons/signpost.js":false,"./icons/siren.js":false,"./icons/skip-back.js":false,"./icons/skip-forward.js":false,"./icons/skull.js":false,"./icons/slack.js":false,"./icons/slash.js":false,"./icons/slice.js":false,"./icons/sliders-horizontal.js":false,"./icons/smartphone-charging.js":false,"./icons/smartphone-nfc.js":false,"./icons/smartphone.js":false,"./icons/smile-plus.js":false,"./icons/smile.js":false,"./icons/snail.js":false,"./icons/snowflake.js":false,"./icons/soap-dispenser-droplet.js":false,"./icons/sofa.js":false,"./icons/soup.js":false,"./icons/spade.js":false,"./icons/space.js":false,"./icons/sparkle.js":false,"./icons/speaker.js":false,"./icons/speech.js":false,"./icons/spell-check-2.js":false,"./icons/spell-check.js":false,"./icons/spline.js":false,"./icons/spline-pointer.js":false,"./icons/split.js":false,"./icons/spotlight.js":false,"./icons/spool.js":false,"./icons/spray-can.js":false,"./icons/sprout.js":"11RcF","./icons/square-dashed-bottom-code.js":false,"./icons/square-dashed-bottom.js":false,"./icons/square-dashed-top-solid.js":false,"./icons/square-pause.js":false,"./icons/square-radical.js":false,"./icons/square-round-corner.js":false,"./icons/square-square.js":false,"./icons/square-stack.js":false,"./icons/square-star.js":false,"./icons/square-stop.js":false,"./icons/square.js":false,"./icons/squares-exclude.js":false,"./icons/squares-intersect.js":false,"./icons/squares-subtract.js":false,"./icons/squares-unite.js":false,"./icons/squircle-dashed.js":false,"./icons/squircle.js":false,"./icons/squirrel.js":false,"./icons/stamp.js":false,"./icons/star-half.js":false,"./icons/star.js":false,"./icons/star-off.js":false,"./icons/step-back.js":false,"./icons/step-forward.js":false,"./icons/stethoscope.js":false,"./icons/sticker.js":false,"./icons/sticky-note.js":false,"./icons/store.js":false,"./icons/stretch-horizontal.js":false,"./icons/stretch-vertical.js":false,"./icons/strikethrough.js":false,"./icons/subscript.js":false,"./icons/sun-dim.js":false,"./icons/sun-medium.js":false,"./icons/sun-moon.js":false,"./icons/sun-snow.js":false,"./icons/sun.js":false,"./icons/sunrise.js":false,"./icons/sunset.js":false,"./icons/superscript.js":false,"./icons/swatch-book.js":false,"./icons/swiss-franc.js":false,"./icons/switch-camera.js":false,"./icons/sword.js":false,"./icons/swords.js":false,"./icons/syringe.js":false,"./icons/table-2.js":false,"./icons/table-cells-merge.js":false,"./icons/table-cells-split.js":false,"./icons/table-columns-split.js":false,"./icons/table-properties.js":false,"./icons/table-of-contents.js":false,"./icons/table-rows-split.js":false,"./icons/table.js":false,"./icons/tablet-smartphone.js":false,"./icons/tablet.js":false,"./icons/tablets.js":false,"./icons/tags.js":false,"./icons/tag.js":false,"./icons/tally-1.js":false,"./icons/tally-2.js":false,"./icons/tally-3.js":false,"./icons/tally-4.js":false,"./icons/tangent.js":false,"./icons/tally-5.js":false,"./icons/target.js":false,"./icons/telescope.js":false,"./icons/tent-tree.js":false,"./icons/tent.js":false,"./icons/terminal.js":false,"./icons/test-tube.js":false,"./icons/test-tubes.js":false,"./icons/text-cursor-input.js":false,"./icons/text-cursor.js":false,"./icons/text-quote.js":false,"./icons/text-search.js":false,"./icons/theater.js":false,"./icons/thermometer-snowflake.js":false,"./icons/thermometer-sun.js":false,"./icons/thermometer.js":false,"./icons/thumbs-down.js":false,"./icons/thumbs-up.js":false,"./icons/ticket-check.js":false,"./icons/ticket-minus.js":false,"./icons/ticket-percent.js":false,"./icons/ticket-slash.js":false,"./icons/ticket-plus.js":false,"./icons/ticket-x.js":false,"./icons/ticket.js":false,"./icons/tickets-plane.js":false,"./icons/tickets.js":false,"./icons/timer-off.js":false,"./icons/timer-reset.js":false,"./icons/timer.js":false,"./icons/toggle-left.js":false,"./icons/toggle-right.js":false,"./icons/toilet.js":false,"./icons/tornado.js":false,"./icons/tool-case.js":false,"./icons/torus.js":false,"./icons/touchpad-off.js":false,"./icons/touchpad.js":false,"./icons/tower-control.js":false,"./icons/toy-brick.js":false,"./icons/tractor.js":false,"./icons/traffic-cone.js":false,"./icons/train-front-tunnel.js":false,"./icons/train-front.js":false,"./icons/train-track.js":false,"./icons/transgender.js":false,"./icons/trash-2.js":"e3cIN","./icons/trash.js":false,"./icons/tree-deciduous.js":false,"./icons/tree-pine.js":false,"./icons/trees.js":false,"./icons/trello.js":false,"./icons/trending-down.js":false,"./icons/trending-up-down.js":false,"./icons/trending-up.js":"1t7px","./icons/triangle-dashed.js":false,"./icons/triangle-right.js":false,"./icons/triangle.js":false,"./icons/trophy.js":false,"./icons/truck-electric.js":false,"./icons/truck.js":"bTJej","./icons/turntable.js":false,"./icons/turkish-lira.js":false,"./icons/turtle.js":false,"./icons/tv-minimal-play.js":false,"./icons/twitch.js":false,"./icons/tv.js":false,"./icons/twitter.js":false,"./icons/type-outline.js":false,"./icons/type.js":false,"./icons/umbrella-off.js":false,"./icons/umbrella.js":false,"./icons/underline.js":false,"./icons/undo-2.js":false,"./icons/undo-dot.js":false,"./icons/undo.js":false,"./icons/unfold-horizontal.js":false,"./icons/unfold-vertical.js":false,"./icons/ungroup.js":false,"./icons/unlink.js":false,"./icons/unlink-2.js":false,"./icons/unplug.js":false,"./icons/upload.js":"eM0mw","./icons/usb.js":false,"./icons/user-check.js":false,"./icons/user-cog.js":false,"./icons/user-lock.js":false,"./icons/user-pen.js":false,"./icons/user-minus.js":false,"./icons/user-plus.js":false,"./icons/user-round-pen.js":false,"./icons/user-round-search.js":false,"./icons/user-search.js":false,"./icons/user-star.js":false,"./icons/user-x.js":false,"./icons/user.js":"atYgq","./icons/users.js":"ipAe9","./icons/utility-pole.js":false,"./icons/variable.js":false,"./icons/vault.js":false,"./icons/vector-square.js":false,"./icons/vegan.js":false,"./icons/venetian-mask.js":false,"./icons/venus-and-mars.js":false,"./icons/venus.js":false,"./icons/vibrate-off.js":false,"./icons/vibrate.js":false,"./icons/video-off.js":false,"./icons/video.js":false,"./icons/videotape.js":false,"./icons/view.js":false,"./icons/voicemail.js":false,"./icons/volleyball.js":false,"./icons/volume-1.js":false,"./icons/volume-2.js":false,"./icons/volume-off.js":false,"./icons/volume-x.js":false,"./icons/volume.js":false,"./icons/vote.js":false,"./icons/wallet-cards.js":false,"./icons/wallet.js":false,"./icons/wallpaper.js":false,"./icons/wand.js":false,"./icons/warehouse.js":false,"./icons/washing-machine.js":false,"./icons/watch.js":false,"./icons/waves-ladder.js":false,"./icons/waves.js":false,"./icons/webcam.js":false,"./icons/waypoints.js":false,"./icons/webhook.js":false,"./icons/webhook-off.js":false,"./icons/weight.js":false,"./icons/wheat-off.js":false,"./icons/wheat.js":false,"./icons/wifi-cog.js":false,"./icons/whole-word.js":false,"./icons/wifi-high.js":false,"./icons/wifi-low.js":false,"./icons/wifi-off.js":false,"./icons/wifi-pen.js":false,"./icons/wifi-sync.js":false,"./icons/wifi-zero.js":false,"./icons/wifi.js":false,"./icons/wind-arrow-down.js":false,"./icons/wind.js":false,"./icons/wine-off.js":false,"./icons/wine.js":false,"./icons/workflow.js":false,"./icons/worm.js":false,"./icons/wrench.js":false,"./icons/x.js":"aJBqa","./icons/youtube.js":false,"./icons/zap-off.js":false,"./icons/zap.js":"iMEtN","./icons/zoom-in.js":false,"./icons/zoom-out.js":false,"./icons/arrow-down-1-0.js":false,"./icons/arrow-down-0-1.js":false,"./icons/arrow-up-0-1.js":false,"./icons/arrow-up-1-0.js":false,"./createLucideIcon.js":false,"./Icon.js":false,"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"cV8Zl":[function(require,module,exports,__globalThis) {
 /**
  * @license lucide-react v0.544.0 - ISC
  *
@@ -33701,6 +33701,59 @@ const __iconNode = [
     ]
 ];
 const TriangleAlert = (0, _createLucideIconJsDefault.default)("triangle-alert", __iconNode);
+
+},{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"hZGf1":[function(require,module,exports,__globalThis) {
+/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "__iconNode", ()=>__iconNode);
+parcelHelpers.export(exports, "default", ()=>CheckCheck);
+var _createLucideIconJs = require("../createLucideIcon.js");
+var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJs);
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M18 6 7 17l-5-5",
+            key: "116fxf"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "m22 10-7.5 7.5L13 16",
+            key: "ke71qq"
+        }
+    ]
+];
+const CheckCheck = (0, _createLucideIconJsDefault.default)("check-check", __iconNode);
+
+},{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"irEtD":[function(require,module,exports,__globalThis) {
+/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "__iconNode", ()=>__iconNode);
+parcelHelpers.export(exports, "default", ()=>Check);
+var _createLucideIconJs = require("../createLucideIcon.js");
+var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJs);
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M20 6 9 17l-5-5",
+            key: "1gmf2c"
+        }
+    ]
+];
+const Check = (0, _createLucideIconJsDefault.default)("check", __iconNode);
 
 },{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"du017":[function(require,module,exports,__globalThis) {
 /**
@@ -34143,6 +34196,29 @@ const __iconNode = [
 ];
 const MapPin = (0, _createLucideIconJsDefault.default)("map-pin", __iconNode);
 
+},{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"hKiAj":[function(require,module,exports,__globalThis) {
+/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "__iconNode", ()=>__iconNode);
+parcelHelpers.export(exports, "default", ()=>MessageCircle);
+var _createLucideIconJs = require("../createLucideIcon.js");
+var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJs);
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719",
+            key: "1sd12s"
+        }
+    ]
+];
+const MessageCircle = (0, _createLucideIconJsDefault.default)("message-circle", __iconNode);
+
 },{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"7JqoS":[function(require,module,exports,__globalThis) {
 /**
  * @license lucide-react v0.544.0 - ISC
@@ -34292,6 +34368,36 @@ const __iconNode = [
     ]
 ];
 const Search = (0, _createLucideIconJsDefault.default)("search", __iconNode);
+
+},{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"fQUXo":[function(require,module,exports,__globalThis) {
+/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "__iconNode", ()=>__iconNode);
+parcelHelpers.export(exports, "default", ()=>Send);
+var _createLucideIconJs = require("../createLucideIcon.js");
+var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJs);
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z",
+            key: "1ffxy3"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "m21.854 2.147-10.94 10.939",
+            key: "12cjpa"
+        }
+    ]
+];
+const Send = (0, _createLucideIconJsDefault.default)("send", __iconNode);
 
 },{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"fUmBU":[function(require,module,exports,__globalThis) {
 /**
@@ -34748,6 +34854,36 @@ const __iconNode = [
     ]
 ];
 const Users = (0, _createLucideIconJsDefault.default)("users", __iconNode);
+
+},{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"aJBqa":[function(require,module,exports,__globalThis) {
+/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "__iconNode", ()=>__iconNode);
+parcelHelpers.export(exports, "default", ()=>X);
+var _createLucideIconJs = require("../createLucideIcon.js");
+var _createLucideIconJsDefault = parcelHelpers.interopDefault(_createLucideIconJs);
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M18 6 6 18",
+            key: "1bl5f8"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "m6 6 12 12",
+            key: "d8bk6v"
+        }
+    ]
+];
+const X = (0, _createLucideIconJsDefault.default)("x", __iconNode);
 
 },{"../createLucideIcon.js":"c2nE9","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"iMEtN":[function(require,module,exports,__globalThis) {
 /**
@@ -37332,7 +37468,7 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _lucideReact = require("lucide-react");
 var _s = $RefreshSig$();
-function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
+function CropCard({ crop, onAddToCart, onEdit, onDelete, onChatWithFarmer, viewMode = 'buyer' }) {
     _s();
     const [qty, setQty] = (0, _react.useState)(1);
     const getImageUrl = (imagePath)=>{
@@ -37441,7 +37577,7 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "text-xs",
+                                className: "text-xs flex-grow",
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                         className: "font-semibold text-emerald-900",
@@ -37464,6 +37600,31 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                 fileName: "src/components/CropCard.js",
                                 lineNumber: 60,
                                 columnNumber: 13
+                            }, this),
+                            viewMode === 'buyer' && onChatWithFarmer && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                onClick: ()=>onChatWithFarmer(crop.farmer._id, null),
+                                className: "text-[10px] text-emerald-700 font-bold hover:bg-emerald-50 px-2 py-1.5 rounded-lg flex items-center space-x-1 border border-emerald-200 transition-colors shadow-sm ml-auto",
+                                title: "Message Farmer",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                        className: "h-3.5 w-3.5"
+                                    }, void 0, false, {
+                                        fileName: "src/components/CropCard.js",
+                                        lineNumber: 70,
+                                        columnNumber: 17
+                                    }, this),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        children: "Chat"
+                                    }, void 0, false, {
+                                        fileName: "src/components/CropCard.js",
+                                        lineNumber: 71,
+                                        columnNumber: 17
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/components/CropCard.js",
+                                lineNumber: 65,
+                                columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
@@ -37481,7 +37642,7 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                         children: "Price"
                                     }, void 0, false, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 70,
+                                        lineNumber: 80,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -37494,19 +37655,19 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                                 children: " / kg"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 72,
+                                                lineNumber: 82,
                                                 columnNumber: 28
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 71,
+                                        lineNumber: 81,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/CropCard.js",
-                                lineNumber: 69,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, this),
                             viewMode === 'buyer' && crop.quantity > 0 && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37520,7 +37681,7 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                                 children: "Qty:"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 79,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -37532,7 +37693,7 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                                 className: "w-12 text-center text-sm font-bold bg-transparent focus:outline-none"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 80,
+                                                lineNumber: 90,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -37540,13 +37701,13 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                                 children: "kg"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 88,
+                                                lineNumber: 98,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 78,
+                                        lineNumber: 88,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -37557,26 +37718,26 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                                 className: "h-3.5 w-3.5"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 94,
+                                                lineNumber: 104,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                                 children: "Add to Cart"
                                             }, void 0, false, {
                                                 fileName: "src/components/CropCard.js",
-                                                lineNumber: 95,
+                                                lineNumber: 105,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 90,
+                                        lineNumber: 100,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/CropCard.js",
-                                lineNumber: 77,
+                                lineNumber: 87,
                                 columnNumber: 13
                             }, this),
                             viewMode === 'farmer' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37590,12 +37751,12 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                             className: "h-4 w-4"
                                         }, void 0, false, {
                                             fileName: "src/components/CropCard.js",
-                                            lineNumber: 107,
+                                            lineNumber: 117,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 102,
+                                        lineNumber: 112,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -37606,18 +37767,18 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                             className: "h-4 w-4"
                                         }, void 0, false, {
                                             fileName: "src/components/CropCard.js",
-                                            lineNumber: 114,
+                                            lineNumber: 124,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 109,
+                                        lineNumber: 119,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/CropCard.js",
-                                lineNumber: 101,
+                                lineNumber: 111,
                                 columnNumber: 13
                             }, this),
                             viewMode === 'admin' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -37628,26 +37789,26 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
                                         className: "h-3.5 w-3.5"
                                     }, void 0, false, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 124,
+                                        lineNumber: 134,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: "Flag & Remove"
                                     }, void 0, false, {
                                         fileName: "src/components/CropCard.js",
-                                        lineNumber: 125,
+                                        lineNumber: 135,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/CropCard.js",
-                                lineNumber: 120,
+                                lineNumber: 130,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/components/CropCard.js",
-                        lineNumber: 68,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, this)
                 ]
@@ -37697,6 +37858,11 @@ parcelHelpers.export(exports, "fetchAllReports", ()=>fetchAllReports);
 parcelHelpers.export(exports, "submitReportDispute", ()=>submitReportDispute);
 parcelHelpers.export(exports, "resolveReportDispute", ()=>resolveReportDispute);
 parcelHelpers.export(exports, "uploadImage", ()=>uploadImage);
+parcelHelpers.export(exports, "getOrCreateConversation", ()=>getOrCreateConversation);
+parcelHelpers.export(exports, "getMyConversations", ()=>getMyConversations);
+parcelHelpers.export(exports, "getMessages", ()=>getMessages);
+parcelHelpers.export(exports, "sendMessage", ()=>sendMessage);
+parcelHelpers.export(exports, "markMessagesRead", ()=>markMessagesRead);
 var _axios = require("axios");
 var _axiosDefault = parcelHelpers.interopDefault(_axios);
 const API = (0, _axiosDefault.default).create({
@@ -37745,6 +37911,11 @@ const uploadImage = (formData)=>{
         }
     });
 };
+const getOrCreateConversation = (data)=>API.post('/chat/conversation', data);
+const getMyConversations = ()=>API.get('/chat/conversations');
+const getMessages = (conversationId)=>API.get(`/chat/messages/${conversationId}`);
+const sendMessage = (conversationId, data)=>API.post(`/chat/messages/${conversationId}`, data);
+const markMessagesRead = (conversationId)=>API.put(`/chat/messages/${conversationId}/read`);
 exports.default = API;
 
 },{"axios":"kooH4","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"kooH4":[function(require,module,exports,__globalThis) {
@@ -43964,6 +44135,8 @@ var _cropCard = require("../components/CropCard");
 var _cropCardDefault = parcelHelpers.interopDefault(_cropCard);
 var _api = require("../utils/api");
 var _lucideReact = require("lucide-react");
+var _chatWidget = require("../components/ChatWidget");
+var _chatWidgetDefault = parcelHelpers.interopDefault(_chatWidget);
 var _s = $RefreshSig$();
 function FarmerDashboard() {
     _s();
@@ -43971,6 +44144,11 @@ function FarmerDashboard() {
     const [crops, setCrops] = (0, _react.useState)([]);
     const [orders, setOrders] = (0, _react.useState)([]);
     const [loading, setLoading] = (0, _react.useState)(true);
+    const [currentUser, setCurrentUser] = (0, _react.useState)(null);
+    // Chat UI states
+    const [isChatOpen, setIsChatOpen] = (0, _react.useState)(false);
+    const [chatPartnerId, setChatPartnerId] = (0, _react.useState)(null);
+    const [chatOrderId, setChatOrderId] = (0, _react.useState)(null);
     // Form states for adding/editing crop
     const [editingCrop, setEditingCrop] = (0, _react.useState)(null);
     const [name, setName] = (0, _react.useState)('');
@@ -44000,6 +44178,31 @@ function FarmerDashboard() {
     (0, _react.useEffect)(()=>{
         loadData();
     }, []);
+    (0, _react.useEffect)(()=>{
+        const fetchMe = async ()=>{
+            try {
+                const res = await (0, _api.getMe)();
+                if (res.data?.success) setCurrentUser(res.data.user);
+            } catch (err) {
+                console.error('Failed to get current user:', err);
+            }
+        };
+        fetchMe();
+    }, []);
+    const openChatWithBuyer = async (buyerId, orderId)=>{
+        try {
+            await (0, _api.getOrCreateConversation)({
+                partnerId: buyerId,
+                orderId
+            });
+            setChatPartnerId(buyerId);
+            setChatOrderId(orderId);
+            setIsChatOpen(true);
+        } catch (err) {
+            console.error('Failed to open chat', err);
+            alert('Could not start chat right now.');
+        }
+    };
     // Image Upload handler
     const handleImageUpload = async (e)=>{
         const file = e.target.files[0];
@@ -44118,7 +44321,7 @@ function FarmerDashboard() {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navbarDefault.default), {}, void 0, false, {
                 fileName: "src/pages/FarmerDashboard.js",
-                lineNumber: 194,
+                lineNumber: 228,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44134,14 +44337,14 @@ function FarmerDashboard() {
                                         className: "h-8 w-8 text-amber-500 mr-2"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 200,
+                                        lineNumber: 234,
                                         columnNumber: 13
                                     }, this),
                                     "Farmer Business Portal"
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 199,
+                                lineNumber: 233,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44149,13 +44352,13 @@ function FarmerDashboard() {
                                 children: "Manage inventories, view direct orders, and analyze crop sales"
                             }, void 0, false, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 203,
+                                lineNumber: 237,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/FarmerDashboard.js",
-                        lineNumber: 198,
+                        lineNumber: 232,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44173,20 +44376,20 @@ function FarmerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 212,
+                                        lineNumber: 246,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: "Overview"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 213,
+                                        lineNumber: 247,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 208,
+                                lineNumber: 242,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44201,20 +44404,20 @@ function FarmerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 219,
+                                        lineNumber: 253,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: "My Inventory"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 220,
+                                        lineNumber: 254,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 215,
+                                lineNumber: 249,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44225,20 +44428,20 @@ function FarmerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 226,
+                                        lineNumber: 260,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: editingCrop ? 'Edit Crop' : 'List New Crop'
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 227,
+                                        lineNumber: 261,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 222,
+                                lineNumber: 256,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44253,7 +44456,7 @@ function FarmerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 233,
+                                        lineNumber: 267,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -44264,19 +44467,43 @@ function FarmerDashboard() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 234,
+                                        lineNumber: 268,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 229,
+                                lineNumber: 263,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                onClick: ()=>setIsChatOpen(true),
+                                className: "py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                        className: "h-4 w-4"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/FarmerDashboard.js",
+                                        lineNumber: 274,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        children: "Messages"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/FarmerDashboard.js",
+                                        lineNumber: 275,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/pages/FarmerDashboard.js",
+                                lineNumber: 270,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/FarmerDashboard.js",
-                        lineNumber: 207,
+                        lineNumber: 241,
                         columnNumber: 9
                     }, this),
                     loading ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44286,7 +44513,7 @@ function FarmerDashboard() {
                                 className: "animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-emerald-800 mx-auto"
                             }, void 0, false, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 241,
+                                lineNumber: 282,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44294,13 +44521,13 @@ function FarmerDashboard() {
                                 children: "Updating server records..."
                             }, void 0, false, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 242,
+                                lineNumber: 283,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/FarmerDashboard.js",
-                        lineNumber: 240,
+                        lineNumber: 281,
                         columnNumber: 11
                     }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
                         children: [
@@ -44319,12 +44546,12 @@ function FarmerDashboard() {
                                                             className: "h-6 w-6"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 252,
+                                                            lineNumber: 293,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 251,
+                                                        lineNumber: 292,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44334,7 +44561,7 @@ function FarmerDashboard() {
                                                                 children: "Gross Sales"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 255,
+                                                                lineNumber: 296,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -44345,19 +44572,19 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 256,
+                                                                lineNumber: 297,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 254,
+                                                        lineNumber: 295,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 250,
+                                                lineNumber: 291,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44369,12 +44596,12 @@ function FarmerDashboard() {
                                                             className: "h-6 w-6"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 262,
+                                                            lineNumber: 303,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 261,
+                                                        lineNumber: 302,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44384,7 +44611,7 @@ function FarmerDashboard() {
                                                                 children: "Active Crops"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 265,
+                                                                lineNumber: 306,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -44395,19 +44622,19 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 266,
+                                                                lineNumber: 307,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 264,
+                                                        lineNumber: 305,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 260,
+                                                lineNumber: 301,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44419,12 +44646,12 @@ function FarmerDashboard() {
                                                             className: "h-6 w-6"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 272,
+                                                            lineNumber: 313,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 271,
+                                                        lineNumber: 312,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44434,7 +44661,7 @@ function FarmerDashboard() {
                                                                 children: "Total Orders"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 275,
+                                                                lineNumber: 316,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -44445,19 +44672,19 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 276,
+                                                                lineNumber: 317,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 274,
+                                                        lineNumber: 315,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 270,
+                                                lineNumber: 311,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44469,12 +44696,12 @@ function FarmerDashboard() {
                                                             className: "h-6 w-6"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 282,
+                                                            lineNumber: 323,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 281,
+                                                        lineNumber: 322,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44484,7 +44711,7 @@ function FarmerDashboard() {
                                                                 children: "Completed Payouts"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 285,
+                                                                lineNumber: 326,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -44495,25 +44722,25 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 286,
+                                                                lineNumber: 327,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 284,
+                                                        lineNumber: 325,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 280,
+                                                lineNumber: 321,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 249,
+                                        lineNumber: 290,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44526,14 +44753,14 @@ function FarmerDashboard() {
                                                         className: "h-5 w-5 mr-1.5 text-emerald-700"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 294,
+                                                        lineNumber: 335,
                                                         columnNumber: 21
                                                     }, this),
                                                     "Sales Analytics by Harvest Listing"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 293,
+                                                lineNumber: 334,
                                                 columnNumber: 19
                                             }, this),
                                             crops.length > 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44555,7 +44782,7 @@ function FarmerDashboard() {
                                                                         children: crop.name
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 320,
+                                                                        lineNumber: 361,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -44566,13 +44793,13 @@ function FarmerDashboard() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 321,
+                                                                        lineNumber: 362,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 319,
+                                                                lineNumber: 360,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44584,43 +44811,43 @@ function FarmerDashboard() {
                                                                     }
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 324,
+                                                                    lineNumber: 365,
                                                                     columnNumber: 31
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 323,
+                                                                lineNumber: 364,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, crop._id, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 318,
+                                                        lineNumber: 359,
                                                         columnNumber: 27
                                                     }, this);
                                                 })
                                             }, void 0, false, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 299,
+                                                lineNumber: 340,
                                                 columnNumber: 21
                                             }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 className: "text-sm text-gray-500 text-center py-6",
                                                 children: "List crops in the portal to display revenue bar graphs."
                                             }, void 0, false, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 334,
+                                                lineNumber: 375,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 292,
+                                        lineNumber: 333,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 247,
+                                lineNumber: 288,
                                 columnNumber: 15
                             }, this),
                             activeTab === 'listings' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44633,12 +44860,12 @@ function FarmerDashboard() {
                                             onDelete: handleDelete
                                         }, crop._id, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 345,
+                                            lineNumber: 386,
                                             columnNumber: 23
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "src/pages/FarmerDashboard.js",
-                                    lineNumber: 343,
+                                    lineNumber: 384,
                                     columnNumber: 19
                                 }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "bg-white p-12 text-center rounded-3xl border border-gray-150 max-w-md mx-auto",
@@ -44648,7 +44875,7 @@ function FarmerDashboard() {
                                             children: "Your inventory is empty"
                                         }, void 0, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 356,
+                                            lineNumber: 397,
                                             columnNumber: 21
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44656,7 +44883,7 @@ function FarmerDashboard() {
                                             children: "Create crop listings to publish them live to Pan-India buyers."
                                         }, void 0, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 357,
+                                            lineNumber: 398,
                                             columnNumber: 21
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44665,18 +44892,18 @@ function FarmerDashboard() {
                                             children: "Add First Crop Listing"
                                         }, void 0, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 358,
+                                            lineNumber: 399,
                                             columnNumber: 21
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/FarmerDashboard.js",
-                                    lineNumber: 355,
+                                    lineNumber: 396,
                                     columnNumber: 19
                                 }, this)
                             }, void 0, false, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 341,
+                                lineNumber: 382,
                                 columnNumber: 15
                             }, this),
                             activeTab === 'add' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44687,7 +44914,7 @@ function FarmerDashboard() {
                                         children: editingCrop ? `Edit Listing: ${editingCrop.name}` : 'List New Crop Harvest'
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 371,
+                                        lineNumber: 412,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44695,7 +44922,7 @@ function FarmerDashboard() {
                                         children: "Enter specifications and upload real photos for buyers to review."
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 374,
+                                        lineNumber: 415,
                                         columnNumber: 17
                                     }, this),
                                     formError && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44703,7 +44930,7 @@ function FarmerDashboard() {
                                         children: formError
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 377,
+                                        lineNumber: 418,
                                         columnNumber: 19
                                     }, this),
                                     formSuccess && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44711,7 +44938,7 @@ function FarmerDashboard() {
                                         children: formSuccess
                                     }, void 0, false, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 382,
+                                        lineNumber: 423,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
@@ -44728,7 +44955,7 @@ function FarmerDashboard() {
                                                                 children: "Crop Name *"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 390,
+                                                                lineNumber: 431,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -44740,13 +44967,13 @@ function FarmerDashboard() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 391,
+                                                                lineNumber: 432,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 389,
+                                                        lineNumber: 430,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44756,7 +44983,7 @@ function FarmerDashboard() {
                                                                 children: "Category *"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 402,
+                                                                lineNumber: 443,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("select", {
@@ -44769,7 +44996,7 @@ function FarmerDashboard() {
                                                                         children: "Grains"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 408,
+                                                                        lineNumber: 449,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("option", {
@@ -44777,7 +45004,7 @@ function FarmerDashboard() {
                                                                         children: "Vegetables"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 409,
+                                                                        lineNumber: 450,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("option", {
@@ -44785,7 +45012,7 @@ function FarmerDashboard() {
                                                                         children: "Fruits"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 410,
+                                                                        lineNumber: 451,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("option", {
@@ -44793,7 +45020,7 @@ function FarmerDashboard() {
                                                                         children: "Pulses"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 411,
+                                                                        lineNumber: 452,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("option", {
@@ -44801,25 +45028,25 @@ function FarmerDashboard() {
                                                                         children: "Oilseeds"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 412,
+                                                                        lineNumber: 453,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 403,
+                                                                lineNumber: 444,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 401,
+                                                        lineNumber: 442,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 388,
+                                                lineNumber: 429,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44832,7 +45059,7 @@ function FarmerDashboard() {
                                                                 children: "Available Stock (in kg) *"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 419,
+                                                                lineNumber: 460,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -44845,13 +45072,13 @@ function FarmerDashboard() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 420,
+                                                                lineNumber: 461,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 418,
+                                                        lineNumber: 459,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44861,7 +45088,7 @@ function FarmerDashboard() {
                                                                 children: "Price per kg (\u20B9) *"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 432,
+                                                                lineNumber: 473,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -44874,19 +45101,19 @@ function FarmerDashboard() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 433,
+                                                                lineNumber: 474,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 431,
+                                                        lineNumber: 472,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 417,
+                                                lineNumber: 458,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44896,7 +45123,7 @@ function FarmerDashboard() {
                                                         children: "Sourcing Location *"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 446,
+                                                        lineNumber: 487,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -44908,13 +45135,13 @@ function FarmerDashboard() {
                                                         required: true
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 447,
+                                                        lineNumber: 488,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 445,
+                                                lineNumber: 486,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44924,7 +45151,7 @@ function FarmerDashboard() {
                                                         children: "Harvest Description / Quality Notes"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 458,
+                                                        lineNumber: 499,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("textarea", {
@@ -44935,13 +45162,13 @@ function FarmerDashboard() {
                                                         className: "w-full p-3 border border-gray-250 rounded-xl bg-gray-50/50 outline-none text-sm font-semibold focus:ring-2 focus:ring-emerald-500 resize-none"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 459,
+                                                        lineNumber: 500,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 457,
+                                                lineNumber: 498,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44951,7 +45178,7 @@ function FarmerDashboard() {
                                                         children: "Harvest Photo"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 470,
+                                                        lineNumber: 511,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44963,7 +45190,7 @@ function FarmerDashboard() {
                                                                     className: "h-8 w-8 text-emerald-600 animate-spin mx-auto mb-2"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 474,
+                                                                    lineNumber: 515,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44971,13 +45198,13 @@ function FarmerDashboard() {
                                                                     children: "Uploading file asset..."
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 475,
+                                                                    lineNumber: 516,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 473,
+                                                            lineNumber: 514,
                                                             columnNumber: 25
                                                         }, this) : image ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                             className: "text-center space-y-2",
@@ -44988,7 +45215,7 @@ function FarmerDashboard() {
                                                                     className: "h-32 object-cover rounded-xl border border-gray-200 mx-auto"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 479,
+                                                                    lineNumber: 520,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44996,7 +45223,7 @@ function FarmerDashboard() {
                                                                     children: "Image loaded successfully!"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 484,
+                                                                    lineNumber: 525,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45006,13 +45233,13 @@ function FarmerDashboard() {
                                                                     children: "Remove Photo"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 485,
+                                                                    lineNumber: 526,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 478,
+                                                            lineNumber: 519,
                                                             columnNumber: 25
                                                         }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                             className: "text-center space-y-2",
@@ -45021,7 +45248,7 @@ function FarmerDashboard() {
                                                                     className: "h-8 w-8 text-gray-400 mx-auto"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 495,
+                                                                    lineNumber: 536,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45029,7 +45256,7 @@ function FarmerDashboard() {
                                                                     children: "PNG, JPG, JPEG, WEBP files up to 2MB"
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 496,
+                                                                    lineNumber: 537,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
@@ -45043,30 +45270,30 @@ function FarmerDashboard() {
                                                                             className: "hidden"
                                                                         }, void 0, false, {
                                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                                            lineNumber: 499,
+                                                                            lineNumber: 540,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 497,
+                                                                    lineNumber: 538,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 494,
+                                                            lineNumber: 535,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 471,
+                                                        lineNumber: 512,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 469,
+                                                lineNumber: 510,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45078,7 +45305,7 @@ function FarmerDashboard() {
                                                         children: editingCrop ? 'Save Update' : 'Publish Listing'
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 512,
+                                                        lineNumber: 553,
                                                         columnNumber: 21
                                                     }, this),
                                                     editingCrop && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45092,25 +45319,25 @@ function FarmerDashboard() {
                                                         children: "Cancel"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 519,
+                                                        lineNumber: 560,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 511,
+                                                lineNumber: 552,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 387,
+                                        lineNumber: 428,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 370,
+                                lineNumber: 411,
                                 columnNumber: 15
                             }, this),
                             activeTab === 'orders' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45129,7 +45356,7 @@ function FarmerDashboard() {
                                                             children: "Crop Listing"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 539,
+                                                            lineNumber: 580,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("th", {
@@ -45137,7 +45364,7 @@ function FarmerDashboard() {
                                                             children: "Buyer Sourced"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 540,
+                                                            lineNumber: 581,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("th", {
@@ -45145,7 +45372,7 @@ function FarmerDashboard() {
                                                             children: "Volume Ordered"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 541,
+                                                            lineNumber: 582,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("th", {
@@ -45153,7 +45380,7 @@ function FarmerDashboard() {
                                                             children: "Invoice Sum"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 542,
+                                                            lineNumber: 583,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("th", {
@@ -45161,7 +45388,7 @@ function FarmerDashboard() {
                                                             children: "Status"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 543,
+                                                            lineNumber: 584,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("th", {
@@ -45169,18 +45396,18 @@ function FarmerDashboard() {
                                                             children: "Actions"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                            lineNumber: 544,
+                                                            lineNumber: 585,
                                                             columnNumber: 27
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                    lineNumber: 538,
+                                                    lineNumber: 579,
                                                     columnNumber: 25
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 537,
+                                                lineNumber: 578,
                                                 columnNumber: 23
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("tbody", {
@@ -45195,7 +45422,7 @@ function FarmerDashboard() {
                                                                         children: order.crop?.name || 'Deleted Harvest'
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 551,
+                                                                        lineNumber: 592,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45203,13 +45430,13 @@ function FarmerDashboard() {
                                                                         children: order.crop?.category || 'General'
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 552,
+                                                                        lineNumber: 593,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 550,
+                                                                lineNumber: 591,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("td", {
@@ -45220,7 +45447,7 @@ function FarmerDashboard() {
                                                                         children: order.buyer?.name
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 555,
+                                                                        lineNumber: 596,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45231,7 +45458,7 @@ function FarmerDashboard() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 556,
+                                                                        lineNumber: 597,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45243,13 +45470,13 @@ function FarmerDashboard() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                                        lineNumber: 557,
+                                                                        lineNumber: 598,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 554,
+                                                                lineNumber: 595,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("td", {
@@ -45260,7 +45487,7 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 561,
+                                                                lineNumber: 602,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("td", {
@@ -45271,7 +45498,7 @@ function FarmerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 562,
+                                                                lineNumber: 603,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("td", {
@@ -45281,101 +45508,134 @@ function FarmerDashboard() {
                                                                     children: order.status
                                                                 }, void 0, false, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 564,
+                                                                    lineNumber: 605,
                                                                     columnNumber: 31
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 563,
+                                                                lineNumber: 604,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("td", {
                                                                 className: "p-4 pr-6 text-center",
                                                                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                                    className: "flex justify-center gap-1.5",
+                                                                    className: "flex flex-col justify-center gap-1.5 items-center",
                                                                     children: [
-                                                                        order.status === 'Pending' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
+                                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                            onClick: ()=>openChatWithBuyer(order.buyer._id, order._id),
+                                                                            className: "text-xs font-bold text-emerald-700 hover:text-emerald-900 flex items-center space-x-1 mb-1",
                                                                             children: [
-                                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                                                                    onClick: ()=>handleOrderStatusUpdate(order._id, 'Approved'),
-                                                                                    className: "bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs px-3 py-1.5 rounded-lg cursor-pointer transition-colors",
-                                                                                    children: "Approve"
+                                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                                                                    className: "h-3.5 w-3.5"
                                                                                 }, void 0, false, {
                                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                                    lineNumber: 578,
-                                                                                    columnNumber: 37
+                                                                                    lineNumber: 621,
+                                                                                    columnNumber: 35
                                                                                 }, this),
-                                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                                                                    onClick: ()=>handleOrderStatusUpdate(order._id, 'Cancelled'),
-                                                                                    className: "border border-red-200 text-red-600 hover:bg-red-50 font-bold text-xs px-3 py-1.5 rounded-lg cursor-pointer transition-colors",
-                                                                                    children: "Reject"
+                                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                                    children: "Message Buyer"
                                                                                 }, void 0, false, {
                                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                                    lineNumber: 584,
-                                                                                    columnNumber: 37
+                                                                                    lineNumber: 622,
+                                                                                    columnNumber: 35
                                                                                 }, this)
                                                                             ]
-                                                                        }, void 0, true),
-                                                                        order.status === 'Approved' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                                                            onClick: ()=>handleOrderStatusUpdate(order._id, 'Shipped'),
-                                                                            className: "bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs px-3.5 py-1.5 rounded-lg cursor-pointer transition-colors",
-                                                                            children: "Ship Shipment"
-                                                                        }, void 0, false, {
+                                                                        }, void 0, true, {
                                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                                            lineNumber: 593,
-                                                                            columnNumber: 35
+                                                                            lineNumber: 617,
+                                                                            columnNumber: 33
                                                                         }, this),
-                                                                        order.status === 'Shipped' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                                                            onClick: ()=>handleOrderStatusUpdate(order._id, 'Delivered'),
-                                                                            className: "bg-emerald-700 hover:bg-emerald-600 text-white font-bold text-xs px-3.5 py-1.5 rounded-lg cursor-pointer transition-colors",
-                                                                            children: "Mark Delivered"
-                                                                        }, void 0, false, {
+                                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                                            className: "flex justify-center gap-1.5",
+                                                                            children: [
+                                                                                order.status === 'Pending' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
+                                                                                    children: [
+                                                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                                            onClick: ()=>handleOrderStatusUpdate(order._id, 'Approved'),
+                                                                                            className: "bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs px-3 py-1.5 rounded-lg cursor-pointer transition-colors",
+                                                                                            children: "Approve"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "src/pages/FarmerDashboard.js",
+                                                                                            lineNumber: 627,
+                                                                                            columnNumber: 37
+                                                                                        }, this),
+                                                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                                            onClick: ()=>handleOrderStatusUpdate(order._id, 'Cancelled'),
+                                                                                            className: "border border-red-200 text-red-600 hover:bg-red-50 font-bold text-xs px-3 py-1.5 rounded-lg cursor-pointer transition-colors",
+                                                                                            children: "Reject"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "src/pages/FarmerDashboard.js",
+                                                                                            lineNumber: 633,
+                                                                                            columnNumber: 37
+                                                                                        }, this)
+                                                                                    ]
+                                                                                }, void 0, true),
+                                                                                order.status === 'Approved' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                                    onClick: ()=>handleOrderStatusUpdate(order._id, 'Shipped'),
+                                                                                    className: "bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs px-3.5 py-1.5 rounded-lg cursor-pointer transition-colors",
+                                                                                    children: "Ship Shipment"
+                                                                                }, void 0, false, {
+                                                                                    fileName: "src/pages/FarmerDashboard.js",
+                                                                                    lineNumber: 642,
+                                                                                    columnNumber: 35
+                                                                                }, this),
+                                                                                order.status === 'Shipped' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                                    onClick: ()=>handleOrderStatusUpdate(order._id, 'Delivered'),
+                                                                                    className: "bg-emerald-700 hover:bg-emerald-600 text-white font-bold text-xs px-3.5 py-1.5 rounded-lg cursor-pointer transition-colors",
+                                                                                    children: "Mark Delivered"
+                                                                                }, void 0, false, {
+                                                                                    fileName: "src/pages/FarmerDashboard.js",
+                                                                                    lineNumber: 650,
+                                                                                    columnNumber: 35
+                                                                                }, this),
+                                                                                [
+                                                                                    'Delivered',
+                                                                                    'Cancelled'
+                                                                                ].includes(order.status) && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                                    className: "text-xs text-gray-400 font-bold italic",
+                                                                                    children: "No actions available"
+                                                                                }, void 0, false, {
+                                                                                    fileName: "src/pages/FarmerDashboard.js",
+                                                                                    lineNumber: 658,
+                                                                                    columnNumber: 35
+                                                                                }, this)
+                                                                            ]
+                                                                        }, void 0, true, {
                                                                             fileName: "src/pages/FarmerDashboard.js",
-                                                                            lineNumber: 601,
-                                                                            columnNumber: 35
-                                                                        }, this),
-                                                                        [
-                                                                            'Delivered',
-                                                                            'Cancelled'
-                                                                        ].includes(order.status) && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                                            className: "text-xs text-gray-400 font-bold italic",
-                                                                            children: "No actions available"
-                                                                        }, void 0, false, {
-                                                                            fileName: "src/pages/FarmerDashboard.js",
-                                                                            lineNumber: 609,
-                                                                            columnNumber: 35
+                                                                            lineNumber: 624,
+                                                                            columnNumber: 33
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "src/pages/FarmerDashboard.js",
-                                                                    lineNumber: 575,
+                                                                    lineNumber: 616,
                                                                     columnNumber: 31
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                                lineNumber: 574,
+                                                                lineNumber: 615,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, order._id, true, {
                                                         fileName: "src/pages/FarmerDashboard.js",
-                                                        lineNumber: 549,
+                                                        lineNumber: 590,
                                                         columnNumber: 27
                                                     }, this))
                                             }, void 0, false, {
                                                 fileName: "src/pages/FarmerDashboard.js",
-                                                lineNumber: 547,
+                                                lineNumber: 588,
                                                 columnNumber: 23
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/FarmerDashboard.js",
-                                        lineNumber: 536,
+                                        lineNumber: 577,
                                         columnNumber: 21
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "src/pages/FarmerDashboard.js",
-                                    lineNumber: 535,
+                                    lineNumber: 576,
                                     columnNumber: 19
                                 }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "p-12 text-center",
@@ -45385,7 +45645,7 @@ function FarmerDashboard() {
                                             children: "No orders received yet"
                                         }, void 0, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 620,
+                                            lineNumber: 670,
                                             columnNumber: 21
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45393,18 +45653,18 @@ function FarmerDashboard() {
                                             children: "Harvest purchases will trigger automatic order reports here."
                                         }, void 0, false, {
                                             fileName: "src/pages/FarmerDashboard.js",
-                                            lineNumber: 621,
+                                            lineNumber: 671,
                                             columnNumber: 21
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/FarmerDashboard.js",
-                                    lineNumber: 619,
+                                    lineNumber: 669,
                                     columnNumber: 19
                                 }, this)
                             }, void 0, false, {
                                 fileName: "src/pages/FarmerDashboard.js",
-                                lineNumber: 533,
+                                lineNumber: 574,
                                 columnNumber: 15
                             }, this)
                         ]
@@ -45412,22 +45672,37 @@ function FarmerDashboard() {
                 ]
             }, void 0, true, {
                 fileName: "src/pages/FarmerDashboard.js",
-                lineNumber: 196,
+                lineNumber: 230,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {}, void 0, false, {
                 fileName: "src/pages/FarmerDashboard.js",
-                lineNumber: 630,
+                lineNumber: 680,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _chatWidgetDefault.default), {
+                isOpen: isChatOpen,
+                onClose: ()=>{
+                    setIsChatOpen(false);
+                    setChatPartnerId(null);
+                    setChatOrderId(null);
+                },
+                initialPartnerId: chatPartnerId,
+                initialOrderId: chatOrderId,
+                currentUser: currentUser
+            }, void 0, false, {
+                fileName: "src/pages/FarmerDashboard.js",
+                lineNumber: 682,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/pages/FarmerDashboard.js",
-        lineNumber: 193,
+        lineNumber: 227,
         columnNumber: 5
     }, this);
 }
-_s(FarmerDashboard, "c1hJzPbe8I5ZOnj9hiE9gJzPsbU=");
+_s(FarmerDashboard, "FlO+ckaOCnw+4oCMNFw6BkKTOOM=");
 _c = FarmerDashboard;
 exports.default = FarmerDashboard;
 var _c;
@@ -45438,7 +45713,4556 @@ $RefreshReg$(_c, "FarmerDashboard");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Navbar":"99RRu","../components/Footer":"lq1kZ","../components/CropCard":"gY2Kq","../utils/api":"a6eMi","lucide-react":"2I7qR","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"krHPK":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Navbar":"99RRu","../components/Footer":"lq1kZ","../components/CropCard":"gY2Kq","../utils/api":"a6eMi","lucide-react":"2I7qR","../components/ChatWidget":"2h78i","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"2h78i":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$f801 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+$parcel$ReactRefreshHelpers$f801.init();
+var prevRefreshReg = globalThis.$RefreshReg$;
+var prevRefreshSig = globalThis.$RefreshSig$;
+$parcel$ReactRefreshHelpers$f801.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _lucideReact = require("lucide-react");
+var _api = require("../utils/api");
+var _socket = require("../utils/socket");
+var _s = $RefreshSig$();
+function ChatWidget({ isOpen, onClose, initialPartnerId = null, initialOrderId = null, currentUser }) {
+    _s();
+    const [socket, setSocket] = (0, _react.useState)(null);
+    const [conversations, setConversations] = (0, _react.useState)([]);
+    const [activeChat, setActiveChat] = (0, _react.useState)(null);
+    const [messages, setMessages] = (0, _react.useState)([]);
+    const [newMessage, setNewMessage] = (0, _react.useState)('');
+    const [loadingChats, setLoadingChats] = (0, _react.useState)(true);
+    const [loadingMessages, setLoadingMessages] = (0, _react.useState)(false);
+    const [onlineStatuses, setOnlineStatuses] = (0, _react.useState)({});
+    const messagesEndRef = (0, _react.useRef)(null);
+    // Establish socket connection on mount
+    (0, _react.useEffect)(()=>{
+        const token = localStorage.getItem('token');
+        if (!token) return;
+        const newSocket = (0, _socket.connectSocket)(token);
+        setSocket(newSocket);
+        return ()=>{
+        // Don't disconnect on unmount so background notifications could work later
+        };
+    }, []);
+    // Fetch conversations
+    const fetchConversations = async ()=>{
+        setLoadingChats(true);
+        try {
+            const res = await (0, _api.getMyConversations)();
+            if (res.data?.success) {
+                setConversations(res.data.conversations);
+                // Request online status for all partners
+                if (socket && currentUser) {
+                    const partnerIds = res.data.conversations.flatMap((c)=>c.participants).filter((p)=>p._id !== currentUser._id).map((p)=>p._id);
+                    socket.emit('check_online_status', [
+                        ...new Set(partnerIds)
+                    ]);
+                    // Join all conversation rooms so we receive background messages
+                    res.data.conversations.forEach((c)=>{
+                        socket.emit('join_conversation', c._id);
+                    });
+                }
+            }
+        } catch (err) {
+            console.error('Failed to load conversations', err);
+        } finally{
+            setLoadingChats(false);
+        }
+    };
+    (0, _react.useEffect)(()=>{
+        if (isOpen) fetchConversations();
+    }, [
+        isOpen,
+        socket,
+        currentUser
+    ]);
+    (0, _react.useEffect)(()=>{
+        if (isOpen && initialPartnerId && !activeChat && conversations.length > 0) {
+            const existingChat = conversations.find((c)=>c.participants.some((p)=>p._id === initialPartnerId));
+            if (existingChat) handleOpenChat(existingChat);
+        }
+    }, [
+        isOpen,
+        initialPartnerId,
+        conversations
+    ]);
+    // Load messages when active chat changes
+    (0, _react.useEffect)(()=>{
+        if (activeChat && isOpen) {
+            loadMessages(activeChat._id);
+            if (socket) {
+                socket.emit('join_conversation', activeChat._id);
+                socket.emit('mark_read', {
+                    conversationId: activeChat._id
+                });
+                (0, _api.markMessagesRead)(activeChat._id).catch(console.error);
+                setConversations((prev)=>prev.map((c)=>c._id === activeChat._id ? {
+                            ...c,
+                            unreadCount: 0
+                        } : c));
+            }
+        }
+    }, [
+        activeChat,
+        isOpen,
+        socket
+    ]);
+    // Socket event listeners for messages and presence
+    (0, _react.useEffect)(()=>{
+        if (!socket || !isOpen) return;
+        const handleReceiveMessage = (message)=>{
+            if (activeChat && message.conversation === activeChat._id) {
+                setMessages((prev)=>[
+                        ...prev,
+                        message
+                    ]);
+                if (message.sender._id !== currentUser?._id) socket.emit('mark_read', {
+                    conversationId: activeChat._id
+                });
+            }
+            setConversations((prev)=>{
+                let updated = [
+                    ...prev
+                ];
+                const chatIdx = updated.findIndex((c)=>c._id === message.conversation);
+                if (chatIdx > -1) {
+                    updated[chatIdx].lastMessage = message.text;
+                    updated[chatIdx].lastMessageAt = message.createdAt;
+                    if (!activeChat || activeChat._id !== message.conversation) {
+                        if (message.sender._id !== currentUser?._id) updated[chatIdx].unreadCount = (updated[chatIdx].unreadCount || 0) + 1;
+                    }
+                }
+                return updated.sort((a, b)=>new Date(b.lastMessageAt) - new Date(a.lastMessageAt));
+            });
+        };
+        const handleMessageStatusUpdate = ({ conversationId, status })=>{
+            setMessages((prev)=>prev.map((msg)=>msg.conversation === conversationId && msg.sender?._id === currentUser?._id ? {
+                        ...msg,
+                        status
+                    } : msg));
+        };
+        const handleUserStatusChange = ({ userId, status })=>{
+            setOnlineStatuses((prev)=>({
+                    ...prev,
+                    [userId]: status
+                }));
+        };
+        const handleOnlineStatusResponse = (statuses)=>{
+            setOnlineStatuses((prev)=>({
+                    ...prev,
+                    ...statuses
+                }));
+        };
+        socket.on('receive_message', handleReceiveMessage);
+        socket.on('message_status_update', handleMessageStatusUpdate);
+        socket.on('user_status_change', handleUserStatusChange);
+        socket.on('online_status_response', handleOnlineStatusResponse);
+        return ()=>{
+            socket.off('receive_message', handleReceiveMessage);
+            socket.off('message_status_update', handleMessageStatusUpdate);
+            socket.off('user_status_change', handleUserStatusChange);
+            socket.off('online_status_response', handleOnlineStatusResponse);
+        };
+    }, [
+        socket,
+        isOpen,
+        activeChat,
+        currentUser
+    ]);
+    const loadMessages = async (conversationId)=>{
+        setLoadingMessages(true);
+        try {
+            const res = await (0, _api.getMessages)(conversationId);
+            if (res.data?.success) {
+                setMessages(res.data.messages);
+                scrollToBottom();
+            }
+        } catch (err) {
+            console.error('Failed to load messages', err);
+        } finally{
+            setLoadingMessages(false);
+        }
+    };
+    const scrollToBottom = ()=>{
+        setTimeout(()=>{
+            messagesEndRef.current?.scrollIntoView({
+                behavior: 'smooth'
+            });
+        }, 100);
+    };
+    const handleOpenChat = (chat)=>{
+        setActiveChat(chat);
+    };
+    const handleSendMessage = (e)=>{
+        e.preventDefault();
+        if (!newMessage.trim() || !activeChat || !socket) return;
+        socket.emit('send_message', {
+            conversationId: activeChat._id,
+            text: newMessage.trim()
+        });
+        setNewMessage('');
+        scrollToBottom();
+    };
+    const getPartnerInfo = (chat)=>{
+        if (!chat || !currentUser) return null;
+        return chat.participants.find((p)=>p._id !== currentUser._id);
+    };
+    const renderMessageTick = (status)=>{
+        if (status === 'read') return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.CheckCheck), {
+            className: "h-3.5 w-3.5 text-blue-400"
+        }, void 0, false, {
+            fileName: "src/components/ChatWidget.js",
+            lineNumber: 208,
+            columnNumber: 35
+        }, this);
+        if (status === 'delivered') return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.CheckCheck), {
+            className: "h-3.5 w-3.5 text-gray-300"
+        }, void 0, false, {
+            fileName: "src/components/ChatWidget.js",
+            lineNumber: 209,
+            columnNumber: 40
+        }, this);
+        return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.Check), {
+            className: "h-3.5 w-3.5 text-gray-300"
+        }, void 0, false, {
+            fileName: "src/components/ChatWidget.js",
+            lineNumber: 210,
+            columnNumber: 12
+        }, this);
+    };
+    if (!isOpen) return null;
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "fixed inset-0 z-50 flex justify-end bg-black/50 backdrop-blur-sm transition-opacity p-0 sm:p-4 md:p-6",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "w-full max-w-5xl bg-white/95 backdrop-blur-md h-full rounded-none sm:rounded-3xl flex flex-col md:flex-row shadow-2xl overflow-hidden slide-in-right border border-gray-100",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: `w-full md:w-80 bg-white/80 border-r border-gray-100 flex flex-col h-full ${activeChat ? 'hidden md:flex' : 'flex'}`,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "p-5 flex justify-between items-center z-10",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                                        className: "text-2xl font-black text-emerald-950 flex items-center",
+                                        children: [
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                                className: "h-6 w-6 mr-2 text-emerald-600"
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 223,
+                                                columnNumber: 15
+                                            }, this),
+                                            "Messages"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 222,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                        onClick: onClose,
+                                        className: "md:hidden text-gray-400 hover:text-gray-800 bg-gray-100 p-2 rounded-full transition",
+                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.X), {
+                                            className: "h-5 w-5"
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 227,
+                                            columnNumber: 15
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 226,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/components/ChatWidget.js",
+                                lineNumber: 221,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "px-4 pb-4",
+                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "relative",
+                                    children: [
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.Search), {
+                                            className: "absolute left-3 top-3 h-4 w-4 text-gray-400"
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 233,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                                            type: "text",
+                                            placeholder: "Search chats...",
+                                            className: "w-full bg-gray-50 border border-gray-200 rounded-2xl py-2.5 pl-10 pr-4 text-sm font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 transition-all shadow-sm"
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 234,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 232,
+                                    columnNumber: 13
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "src/components/ChatWidget.js",
+                                lineNumber: 231,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "flex-1 overflow-y-auto",
+                                children: loadingChats ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "flex justify-center p-8",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.Loader2), {
+                                        className: "h-8 w-8 animate-spin text-emerald-500"
+                                    }, void 0, false, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 245,
+                                        columnNumber: 17
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 244,
+                                    columnNumber: 15
+                                }, this) : conversations.length > 0 ? conversations.map((chat)=>{
+                                    const partner = getPartnerInfo(chat);
+                                    const isActive = activeChat && activeChat._id === chat._id;
+                                    const isOnline = partner && onlineStatuses[partner._id] === 'online';
+                                    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        onClick: ()=>handleOpenChat(chat),
+                                        className: `px-4 py-3 cursor-pointer transition-all flex items-start gap-3 border-l-4 ${isActive ? 'bg-emerald-50/70 border-l-emerald-500' : 'border-l-transparent hover:bg-gray-50'}`,
+                                        children: [
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "relative flex-shrink-0",
+                                                children: [
+                                                    partner?.image ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                                                        src: `http://localhost:550${partner.image}`,
+                                                        alt: partner.name,
+                                                        className: "h-12 w-12 rounded-full object-cover border-2 border-white shadow-sm"
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 261,
+                                                        columnNumber: 25
+                                                    }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        className: "h-12 w-12 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 border-2 border-white shadow-sm",
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.User), {
+                                                            className: "h-6 w-6"
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 264,
+                                                            columnNumber: 27
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 263,
+                                                        columnNumber: 25
+                                                    }, this),
+                                                    isOnline && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                        className: "absolute bottom-0 right-0 h-3.5 w-3.5 rounded-full bg-green-500 border-2 border-white shadow-sm"
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 268,
+                                                        columnNumber: 25
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 259,
+                                                columnNumber: 21
+                                            }, this),
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "flex-1 min-w-0 pt-0.5",
+                                                children: [
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        className: "flex justify-between items-baseline mb-0.5",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
+                                                                className: `text-sm truncate ${isActive ? 'font-black text-emerald-950' : 'font-bold text-gray-800'}`,
+                                                                children: partner?.name
+                                                            }, void 0, false, {
+                                                                fileName: "src/components/ChatWidget.js",
+                                                                lineNumber: 274,
+                                                                columnNumber: 25
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                className: `text-[10px] whitespace-nowrap ${chat.unreadCount > 0 ? 'text-emerald-600 font-bold' : 'text-gray-400 font-medium'}`,
+                                                                children: chat.lastMessageAt ? new Date(chat.lastMessageAt).toLocaleDateString([], {
+                                                                    month: 'short',
+                                                                    day: 'numeric'
+                                                                }) : ''
+                                                            }, void 0, false, {
+                                                                fileName: "src/components/ChatWidget.js",
+                                                                lineNumber: 275,
+                                                                columnNumber: 25
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 273,
+                                                        columnNumber: 23
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                        className: `text-xs truncate ${chat.unreadCount > 0 ? 'text-emerald-800 font-bold' : 'text-gray-500 font-medium'}`,
+                                                        children: chat.lastMessage || 'Start a conversation'
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 279,
+                                                        columnNumber: 23
+                                                    }, this),
+                                                    chat.order && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                        className: "inline-block mt-1 text-[9px] bg-amber-50 text-amber-700 px-2 py-0.5 rounded uppercase font-bold border border-amber-100",
+                                                        children: [
+                                                            "Order: ",
+                                                            chat.order.crop?.name
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 283,
+                                                        columnNumber: 25
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 272,
+                                                columnNumber: 21
+                                            }, this),
+                                            chat.unreadCount > 0 && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "h-5 w-5 bg-emerald-500 rounded-full flex items-center justify-center flex-shrink-0 mt-1 shadow-sm",
+                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                    className: "text-white text-[10px] font-bold",
+                                                    children: chat.unreadCount
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 291,
+                                                    columnNumber: 25
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 290,
+                                                columnNumber: 23
+                                            }, this)
+                                        ]
+                                    }, chat._id, true, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 254,
+                                        columnNumber: 19
+                                    }, this);
+                                }) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "p-8 text-center text-gray-500 text-sm font-medium",
+                                    children: "No conversations yet."
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 298,
+                                    columnNumber: 15
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "src/components/ChatWidget.js",
+                                lineNumber: 242,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/components/ChatWidget.js",
+                        lineNumber: 220,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: `flex-1 flex flex-col bg-stone-50/50 ${!activeChat ? 'hidden md:flex items-center justify-center' : 'flex'}`,
+                        children: !activeChat ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "text-center p-8 bg-white/60 rounded-3xl backdrop-blur-xl shadow-sm border border-white max-w-sm m-4",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "bg-emerald-100 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                        className: "h-10 w-10 text-emerald-600"
+                                    }, void 0, false, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 310,
+                                        columnNumber: 17
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 309,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                                    className: "text-2xl font-black text-emerald-950 mb-2",
+                                    children: "KisanSetu Connect"
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 312,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "text-sm font-medium text-gray-500 leading-relaxed",
+                                    children: "Select a conversation from the sidebar or start a new chat directly from the marketplace."
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 313,
+                                    columnNumber: 15
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/components/ChatWidget.js",
+                            lineNumber: 308,
+                            columnNumber: 13
+                        }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "h-20 border-b border-gray-100 bg-white/90 backdrop-blur-md px-6 flex items-center justify-between shadow-sm flex-shrink-0 z-10",
+                                    children: [
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            className: "flex items-center gap-4",
+                                            children: [
+                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                    onClick: ()=>setActiveChat(null),
+                                                    className: "md:hidden text-gray-400 hover:text-emerald-600 mr-1 p-2 rounded-full hover:bg-emerald-50 transition",
+                                                    children: "\u2190"
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 320,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                    className: "relative",
+                                                    children: getPartnerInfo(activeChat)?.image ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                                                        src: `http://localhost:550${getPartnerInfo(activeChat)?.image}`,
+                                                        className: "h-12 w-12 rounded-full object-cover shadow-sm",
+                                                        alt: ""
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 328,
+                                                        columnNumber: 23
+                                                    }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        className: "h-12 w-12 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 shadow-sm",
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.User), {
+                                                            className: "h-6 w-6"
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 331,
+                                                            columnNumber: 25
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 330,
+                                                        columnNumber: 23
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 326,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                    children: [
+                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                                                            className: "text-base font-black text-emerald-950",
+                                                            children: getPartnerInfo(activeChat)?.name
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 336,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        onlineStatuses[getPartnerInfo(activeChat)?._id] === 'online' ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                            className: "text-xs text-emerald-600 font-bold flex items-center",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                    className: "h-1.5 w-1.5 bg-emerald-500 rounded-full mr-1.5 animate-pulse"
+                                                                }, void 0, false, {
+                                                                    fileName: "src/components/ChatWidget.js",
+                                                                    lineNumber: 339,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                "Online now"
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 338,
+                                                            columnNumber: 23
+                                                        }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                            className: "text-xs text-gray-400 font-medium flex items-center",
+                                                            children: "Offline"
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 343,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 335,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 319,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                            onClick: onClose,
+                                            className: "hidden md:flex text-gray-400 hover:text-gray-800 bg-gray-50 p-2.5 rounded-full hover:bg-gray-100 transition-colors shadow-sm",
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.X), {
+                                                className: "h-5 w-5"
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 351,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 350,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 318,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "flex-1 overflow-y-auto p-4 md:p-6 space-y-5 bg-gradient-to-b from-stone-50/50 to-stone-100/50 relative",
+                                    children: [
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            className: "absolute inset-0 opacity-[0.03] pointer-events-none",
+                                            style: {
+                                                backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23064e3b\' fill-opacity=\'1\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")'
+                                            }
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 358,
+                                            columnNumber: 17
+                                        }, this),
+                                        loadingMessages ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            className: "flex justify-center py-8",
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.Loader2), {
+                                                className: "h-8 w-8 animate-spin text-emerald-500"
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 362,
+                                                columnNumber: 21
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 361,
+                                            columnNumber: 19
+                                        }, this) : messages.length > 0 ? messages.map((msg, idx)=>{
+                                            const isMine = msg.sender?._id === currentUser?._id || msg.sender === currentUser?._id;
+                                            const showDate = idx === 0 || new Date(messages[idx - 1].createdAt).toDateString() !== new Date(msg.createdAt).toDateString();
+                                            return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "relative z-10",
+                                                children: [
+                                                    showDate && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        className: "flex justify-center my-6",
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                            className: "text-[10px] font-bold text-gray-500 uppercase tracking-widest bg-white/80 backdrop-blur-sm px-4 py-1.5 rounded-full shadow-sm border border-gray-100",
+                                                            children: new Date(msg.createdAt).toLocaleDateString([], {
+                                                                weekday: 'long',
+                                                                month: 'short',
+                                                                day: 'numeric'
+                                                            })
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 373,
+                                                            columnNumber: 29
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 372,
+                                                        columnNumber: 27
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        className: `flex flex-col ${isMine ? 'items-end' : 'items-start'}`,
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                            className: `max-w-[80%] md:max-w-[70%] px-4 py-2.5 rounded-3xl ${isMine ? 'bg-gradient-to-br from-emerald-600 to-emerald-700 text-white rounded-br-sm shadow-md' : 'bg-white text-gray-800 rounded-bl-sm shadow-sm border border-gray-100'}`,
+                                                            children: [
+                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                                    className: "text-sm break-words whitespace-pre-wrap leading-relaxed font-medium",
+                                                                    children: msg.text
+                                                                }, void 0, false, {
+                                                                    fileName: "src/components/ChatWidget.js",
+                                                                    lineNumber: 386,
+                                                                    columnNumber: 29
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                                    className: `flex items-center justify-end gap-1 mt-1 text-[10px] font-bold ${isMine ? 'text-emerald-100' : 'text-gray-400'}`,
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                            children: new Date(msg.createdAt).toLocaleTimeString([], {
+                                                                                hour: '2-digit',
+                                                                                minute: '2-digit'
+                                                                            })
+                                                                        }, void 0, false, {
+                                                                            fileName: "src/components/ChatWidget.js",
+                                                                            lineNumber: 389,
+                                                                            columnNumber: 31
+                                                                        }, this),
+                                                                        isMine && renderMessageTick(msg.status || (msg.read ? 'read' : 'sent'))
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "src/components/ChatWidget.js",
+                                                                    lineNumber: 388,
+                                                                    columnNumber: 29
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "src/components/ChatWidget.js",
+                                                            lineNumber: 379,
+                                                            columnNumber: 27
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 378,
+                                                        columnNumber: 25
+                                                    }, this)
+                                                ]
+                                            }, msg._id || idx, true, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 370,
+                                                columnNumber: 23
+                                            }, this);
+                                        }) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            className: "h-full flex flex-col items-center justify-center text-emerald-900/40 relative z-10",
+                                            children: [
+                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                    className: "bg-white/50 p-6 rounded-full shadow-sm mb-4 backdrop-blur-sm border border-white",
+                                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                                        className: "h-16 w-16"
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/ChatWidget.js",
+                                                        lineNumber: 400,
+                                                        columnNumber: 23
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 399,
+                                                    columnNumber: 21
+                                                }, this),
+                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                    className: "text-base font-bold",
+                                                    children: [
+                                                        "Say hello to ",
+                                                        getPartnerInfo(activeChat)?.name.split(' ')[0]
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 402,
+                                                    columnNumber: 21
+                                                }, this),
+                                                activeChat.order && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                    className: "text-xs mt-2 max-w-xs text-center font-semibold px-4 py-1.5 bg-white/60 rounded-full shadow-sm",
+                                                    children: [
+                                                        "Subject: ",
+                                                        activeChat.order.crop?.name
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 404,
+                                                    columnNumber: 23
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 398,
+                                            columnNumber: 19
+                                        }, this),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                            ref: messagesEndRef
+                                        }, void 0, false, {
+                                            fileName: "src/components/ChatWidget.js",
+                                            lineNumber: 410,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 356,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "p-4 md:p-5 bg-white/90 backdrop-blur-md border-t border-gray-100 flex-shrink-0 z-10",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
+                                        onSubmit: handleSendMessage,
+                                        className: "flex items-end gap-3 max-w-4xl mx-auto",
+                                        children: [
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "relative flex-grow bg-gray-50 border border-gray-200 rounded-3xl shadow-sm focus-within:ring-2 focus-within:ring-emerald-200 focus-within:border-emerald-500 transition-all",
+                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("textarea", {
+                                                    value: newMessage,
+                                                    onChange: (e)=>setNewMessage(e.target.value),
+                                                    onKeyDown: (e)=>{
+                                                        if (e.key === 'Enter' && !e.shiftKey) {
+                                                            e.preventDefault();
+                                                            handleSendMessage(e);
+                                                        }
+                                                    },
+                                                    placeholder: "Type a message...",
+                                                    className: "w-full bg-transparent py-3.5 px-5 text-sm font-medium focus:outline-none resize-none max-h-32 min-h-[48px] overflow-y-auto block rounded-3xl",
+                                                    rows: "1"
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 417,
+                                                    columnNumber: 21
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 416,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                type: "submit",
+                                                disabled: !newMessage.trim(),
+                                                className: "p-3.5 bg-gradient-to-r from-emerald-600 to-emerald-700 text-white rounded-full shadow-md hover:shadow-lg hover:-translate-y-0.5 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:translate-y-0 transition-all flex-shrink-0",
+                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.Send), {
+                                                    className: "h-5 w-5"
+                                                }, void 0, false, {
+                                                    fileName: "src/components/ChatWidget.js",
+                                                    lineNumber: 436,
+                                                    columnNumber: 21
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "src/components/ChatWidget.js",
+                                                lineNumber: 431,
+                                                columnNumber: 19
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "src/components/ChatWidget.js",
+                                        lineNumber: 415,
+                                        columnNumber: 17
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "src/components/ChatWidget.js",
+                                    lineNumber: 414,
+                                    columnNumber: 15
+                                }, this)
+                            ]
+                        }, void 0, true)
+                    }, void 0, false, {
+                        fileName: "src/components/ChatWidget.js",
+                        lineNumber: 306,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/ChatWidget.js",
+                lineNumber: 217,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("style", {
+                dangerouslySetInnerHTML: {
+                    __html: `
+        .slide-in-right {
+          animation: slideInRight 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+        @keyframes slideInRight {
+          from { transform: translateX(100%); opacity: 0; }
+          to { transform: translateX(0); opacity: 1; }
+        }
+      `
+                }
+            }, void 0, false, {
+                fileName: "src/components/ChatWidget.js",
+                lineNumber: 446,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "src/components/ChatWidget.js",
+        lineNumber: 216,
+        columnNumber: 5
+    }, this);
+}
+_s(ChatWidget, "yRoBQiWTU2vT77K2zGC6RZGnMbU=");
+_c = ChatWidget;
+exports.default = ChatWidget;
+var _c;
+$RefreshReg$(_c, "ChatWidget");
+
+  $parcel$ReactRefreshHelpers$f801.postlude(module);
+} finally {
+  globalThis.$RefreshReg$ = prevRefreshReg;
+  globalThis.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","lucide-react":"2I7qR","../utils/api":"a6eMi","../utils/socket":"7nQ4R","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"7nQ4R":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "connectSocket", ()=>connectSocket);
+parcelHelpers.export(exports, "getSocket", ()=>getSocket);
+parcelHelpers.export(exports, "disconnectSocket", ()=>disconnectSocket);
+var _socketIoClient = require("socket.io-client");
+const SOCKET_URL = 'http://localhost:550';
+let socket;
+const connectSocket = (token)=>{
+    if (socket) return socket;
+    socket = (0, _socketIoClient.io)(SOCKET_URL, {
+        auth: {
+            token
+        },
+        reconnection: true
+    });
+    return socket;
+};
+const getSocket = ()=>socket;
+const disconnectSocket = ()=>{
+    if (socket) {
+        socket.disconnect();
+        socket = null;
+    }
+};
+
+},{"socket.io-client":"24OPJ","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"24OPJ":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * Protocol version.
+ *
+ * @public
+ */ parcelHelpers.export(exports, "protocol", ()=>(0, _socketIoParser.protocol));
+parcelHelpers.export(exports, "Fetch", ()=>(0, _engineIoClient.Fetch));
+parcelHelpers.export(exports, "NodeXHR", ()=>(0, _engineIoClient.NodeXHR));
+parcelHelpers.export(exports, "XHR", ()=>(0, _engineIoClient.XHR));
+parcelHelpers.export(exports, "NodeWebSocket", ()=>(0, _engineIoClient.NodeWebSocket));
+parcelHelpers.export(exports, "WebSocket", ()=>(0, _engineIoClient.WebSocket));
+parcelHelpers.export(exports, "WebTransport", ()=>(0, _engineIoClient.WebTransport));
+/**
+ * Expose constructors for standalone build.
+ *
+ * @public
+ */ parcelHelpers.export(exports, "Manager", ()=>(0, _managerJs.Manager));
+parcelHelpers.export(exports, "Socket", ()=>(0, _socketJs.Socket));
+parcelHelpers.export(exports, "io", ()=>lookup);
+parcelHelpers.export(exports, "connect", ()=>lookup);
+parcelHelpers.export(exports, "default", ()=>lookup);
+var _urlJs = require("./url.js");
+var _managerJs = require("./manager.js");
+var _socketJs = require("./socket.js");
+var _socketIoParser = require("socket.io-parser");
+var _engineIoClient = require("engine.io-client");
+/**
+ * Managers cache.
+ */ const cache = {};
+function lookup(uri, opts) {
+    if (typeof uri === "object") {
+        opts = uri;
+        uri = undefined;
+    }
+    opts = opts || {};
+    const parsed = (0, _urlJs.url)(uri, opts.path || "/socket.io");
+    const source = parsed.source;
+    const id = parsed.id;
+    const path = parsed.path;
+    const sameNamespace = cache[id] && path in cache[id]["nsps"];
+    const newConnection = opts.forceNew || opts["force new connection"] || false === opts.multiplex || sameNamespace;
+    let io;
+    if (newConnection) io = new (0, _managerJs.Manager)(source, opts);
+    else {
+        if (!cache[id]) cache[id] = new (0, _managerJs.Manager)(source, opts);
+        io = cache[id];
+    }
+    if (parsed.query && !opts.query) opts.query = parsed.queryKey;
+    return io.socket(parsed.path, opts);
+}
+// so that "lookup" can be used both as a function (e.g. `io(...)`) and as a
+// namespace (e.g. `io.connect(...)`), for backward compatibility
+Object.assign(lookup, {
+    Manager: (0, _managerJs.Manager),
+    Socket: (0, _socketJs.Socket),
+    io: lookup,
+    connect: lookup
+});
+
+},{"./url.js":"3DhHP","./manager.js":"9SqfW","./socket.js":"5p2b8","socket.io-parser":"374iO","engine.io-client":"g33FB","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"3DhHP":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * URL parser.
+ *
+ * @param uri - url
+ * @param path - the request path of the connection
+ * @param loc - An object meant to mimic window.location.
+ *        Defaults to window.location.
+ * @public
+ */ parcelHelpers.export(exports, "url", ()=>url);
+var _engineIoClient = require("engine.io-client");
+function url(uri, path = "", loc) {
+    let obj = uri;
+    // default to window.location
+    loc = loc || typeof location !== "undefined" && location;
+    if (null == uri) uri = loc.protocol + "//" + loc.host;
+    // relative path support
+    if (typeof uri === "string") {
+        if ("/" === uri.charAt(0)) {
+            if ("/" === uri.charAt(1)) uri = loc.protocol + uri;
+            else uri = loc.host + uri;
+        }
+        if (!/^(https?|wss?):\/\//.test(uri)) {
+            if ("undefined" !== typeof loc) uri = loc.protocol + "//" + uri;
+            else uri = "https://" + uri;
+        }
+        // parse
+        obj = (0, _engineIoClient.parse)(uri);
+    }
+    // make sure we treat `localhost:80` and `localhost` equally
+    if (!obj.port) {
+        if (/^(http|ws)$/.test(obj.protocol)) obj.port = "80";
+        else if (/^(http|ws)s$/.test(obj.protocol)) obj.port = "443";
+    }
+    obj.path = obj.path || "/";
+    const ipv6 = obj.host.indexOf(":") !== -1;
+    const host = ipv6 ? "[" + obj.host + "]" : obj.host;
+    // define unique id
+    obj.id = obj.protocol + "://" + host + ":" + obj.port + path;
+    // define href
+    obj.href = obj.protocol + "://" + host + (loc && loc.port === obj.port ? "" : ":" + obj.port);
+    return obj;
+}
+
+},{"engine.io-client":"g33FB","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"g33FB":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "SocketWithoutUpgrade", ()=>(0, _socketJs.SocketWithoutUpgrade));
+parcelHelpers.export(exports, "SocketWithUpgrade", ()=>(0, _socketJs.SocketWithUpgrade));
+parcelHelpers.export(exports, "Transport", ()=>(0, _transportJs.Transport));
+parcelHelpers.export(exports, "TransportError", ()=>(0, _transportJs.TransportError));
+parcelHelpers.export(exports, "transports", ()=>(0, _indexJs.transports));
+parcelHelpers.export(exports, "installTimerFunctions", ()=>(0, _utilJs.installTimerFunctions));
+parcelHelpers.export(exports, "parse", ()=>(0, _parseuriJs.parse));
+parcelHelpers.export(exports, "nextTick", ()=>(0, _globalsNodeJs.nextTick));
+parcelHelpers.export(exports, "Fetch", ()=>(0, _pollingFetchJs.Fetch));
+parcelHelpers.export(exports, "NodeXHR", ()=>(0, _pollingXhrNodeJs.XHR));
+parcelHelpers.export(exports, "XHR", ()=>(0, _pollingXhrJs.XHR));
+parcelHelpers.export(exports, "NodeWebSocket", ()=>(0, _websocketNodeJs.WS));
+parcelHelpers.export(exports, "WebSocket", ()=>(0, _websocketJs.WS));
+parcelHelpers.export(exports, "WebTransport", ()=>(0, _webtransportJs.WT));
+parcelHelpers.export(exports, "Socket", ()=>(0, _socketJs.Socket));
+parcelHelpers.export(exports, "protocol", ()=>protocol);
+var _socketJs = require("./socket.js");
+var _transportJs = require("./transport.js");
+var _indexJs = require("./transports/index.js");
+var _utilJs = require("./util.js");
+var _parseuriJs = require("./contrib/parseuri.js");
+var _globalsNodeJs = require("./globals.node.js");
+var _pollingFetchJs = require("./transports/polling-fetch.js");
+var _pollingXhrNodeJs = require("./transports/polling-xhr.node.js");
+var _pollingXhrJs = require("./transports/polling-xhr.js");
+var _websocketNodeJs = require("./transports/websocket.node.js");
+var _websocketJs = require("./transports/websocket.js");
+var _webtransportJs = require("./transports/webtransport.js");
+const protocol = (0, _socketJs.Socket).protocol;
+
+},{"./socket.js":"glETn","./transport.js":"9tBQf","./transports/index.js":"91wUX","./util.js":"kk7Cp","./contrib/parseuri.js":"5Y2kK","./globals.node.js":"6Aw5d","./transports/polling-fetch.js":"3mA2E","./transports/polling-xhr.node.js":"3Fuqh","./transports/polling-xhr.js":"3Fuqh","./transports/websocket.node.js":"8Q316","./transports/websocket.js":"8Q316","./transports/webtransport.js":"g53pT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"glETn":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * This class provides a WebSocket-like interface to connect to an Engine.IO server. The connection will be established
+ * with one of the available low-level transports, like HTTP long-polling, WebSocket or WebTransport.
+ *
+ * This class comes without upgrade mechanism, which means that it will keep the first low-level transport that
+ * successfully establishes the connection.
+ *
+ * In order to allow tree-shaking, there are no transports included, that's why the `transports` option is mandatory.
+ *
+ * @example
+ * import { SocketWithoutUpgrade, WebSocket } from "engine.io-client";
+ *
+ * const socket = new SocketWithoutUpgrade({
+ *   transports: [WebSocket]
+ * });
+ *
+ * socket.on("open", () => {
+ *   socket.send("hello");
+ * });
+ *
+ * @see SocketWithUpgrade
+ * @see Socket
+ */ parcelHelpers.export(exports, "SocketWithoutUpgrade", ()=>SocketWithoutUpgrade);
+/**
+ * This class provides a WebSocket-like interface to connect to an Engine.IO server. The connection will be established
+ * with one of the available low-level transports, like HTTP long-polling, WebSocket or WebTransport.
+ *
+ * This class comes with an upgrade mechanism, which means that once the connection is established with the first
+ * low-level transport, it will try to upgrade to a better transport.
+ *
+ * In order to allow tree-shaking, there are no transports included, that's why the `transports` option is mandatory.
+ *
+ * @example
+ * import { SocketWithUpgrade, WebSocket } from "engine.io-client";
+ *
+ * const socket = new SocketWithUpgrade({
+ *   transports: [WebSocket]
+ * });
+ *
+ * socket.on("open", () => {
+ *   socket.send("hello");
+ * });
+ *
+ * @see SocketWithoutUpgrade
+ * @see Socket
+ */ parcelHelpers.export(exports, "SocketWithUpgrade", ()=>SocketWithUpgrade);
+/**
+ * This class provides a WebSocket-like interface to connect to an Engine.IO server. The connection will be established
+ * with one of the available low-level transports, like HTTP long-polling, WebSocket or WebTransport.
+ *
+ * This class comes with an upgrade mechanism, which means that once the connection is established with the first
+ * low-level transport, it will try to upgrade to a better transport.
+ *
+ * @example
+ * import { Socket } from "engine.io-client";
+ *
+ * const socket = new Socket();
+ *
+ * socket.on("open", () => {
+ *   socket.send("hello");
+ * });
+ *
+ * @see SocketWithoutUpgrade
+ * @see SocketWithUpgrade
+ */ parcelHelpers.export(exports, "Socket", ()=>Socket);
+var _indexJs = require("./transports/index.js");
+var _utilJs = require("./util.js");
+var _parseqsJs = require("./contrib/parseqs.js");
+var _parseuriJs = require("./contrib/parseuri.js");
+var _componentEmitter = require("@socket.io/component-emitter");
+var _engineIoParser = require("engine.io-parser");
+var _globalsNodeJs = require("./globals.node.js");
+const withEventListeners = typeof addEventListener === "function" && typeof removeEventListener === "function";
+const OFFLINE_EVENT_LISTENERS = [];
+if (withEventListeners) // within a ServiceWorker, any event handler for the 'offline' event must be added on the initial evaluation of the
+// script, so we create one single event listener here which will forward the event to the socket instances
+addEventListener("offline", ()=>{
+    OFFLINE_EVENT_LISTENERS.forEach((listener)=>listener());
+}, false);
+class SocketWithoutUpgrade extends (0, _componentEmitter.Emitter) {
+    /**
+     * Socket constructor.
+     *
+     * @param {String|Object} uri - uri or options
+     * @param {Object} opts - options
+     */ constructor(uri, opts){
+        super();
+        this.binaryType = (0, _globalsNodeJs.defaultBinaryType);
+        this.writeBuffer = [];
+        this._prevBufferLen = 0;
+        this._pingInterval = -1;
+        this._pingTimeout = -1;
+        this._maxPayload = -1;
+        /**
+         * The expiration timestamp of the {@link _pingTimeoutTimer} object is tracked, in case the timer is throttled and the
+         * callback is not fired on time. This can happen for example when a laptop is suspended or when a phone is locked.
+         */ this._pingTimeoutTime = Infinity;
+        if (uri && "object" === typeof uri) {
+            opts = uri;
+            uri = null;
+        }
+        if (uri) {
+            const parsedUri = (0, _parseuriJs.parse)(uri);
+            opts.hostname = parsedUri.host;
+            opts.secure = parsedUri.protocol === "https" || parsedUri.protocol === "wss";
+            opts.port = parsedUri.port;
+            if (parsedUri.query) opts.query = parsedUri.query;
+        } else if (opts.host) opts.hostname = (0, _parseuriJs.parse)(opts.host).host;
+        (0, _utilJs.installTimerFunctions)(this, opts);
+        this.secure = null != opts.secure ? opts.secure : typeof location !== "undefined" && "https:" === location.protocol;
+        if (opts.hostname && !opts.port) // if no port is specified manually, use the protocol default
+        opts.port = this.secure ? "443" : "80";
+        this.hostname = opts.hostname || (typeof location !== "undefined" ? location.hostname : "localhost");
+        this.port = opts.port || (typeof location !== "undefined" && location.port ? location.port : this.secure ? "443" : "80");
+        this.transports = [];
+        this._transportsByName = {};
+        opts.transports.forEach((t)=>{
+            const transportName = t.prototype.name;
+            this.transports.push(transportName);
+            this._transportsByName[transportName] = t;
+        });
+        this.opts = Object.assign({
+            path: "/engine.io",
+            agent: false,
+            withCredentials: false,
+            upgrade: true,
+            timestampParam: "t",
+            rememberUpgrade: false,
+            addTrailingSlash: true,
+            rejectUnauthorized: true,
+            perMessageDeflate: {
+                threshold: 1024
+            },
+            transportOptions: {},
+            closeOnBeforeunload: false
+        }, opts);
+        this.opts.path = this.opts.path.replace(/\/$/, "") + (this.opts.addTrailingSlash ? "/" : "");
+        if (typeof this.opts.query === "string") this.opts.query = (0, _parseqsJs.decode)(this.opts.query);
+        if (withEventListeners) {
+            if (this.opts.closeOnBeforeunload) {
+                // Firefox closes the connection when the "beforeunload" event is emitted but not Chrome. This event listener
+                // ensures every browser behaves the same (no "disconnect" event at the Socket.IO level when the page is
+                // closed/reloaded)
+                this._beforeunloadEventListener = ()=>{
+                    if (this.transport) {
+                        // silently close the transport
+                        this.transport.removeAllListeners();
+                        this.transport.close();
+                    }
+                };
+                addEventListener("beforeunload", this._beforeunloadEventListener, false);
+            }
+            if (this.hostname !== "localhost") {
+                this._offlineEventListener = ()=>{
+                    this._onClose("transport close", {
+                        description: "network connection lost"
+                    });
+                };
+                OFFLINE_EVENT_LISTENERS.push(this._offlineEventListener);
+            }
+        }
+        if (this.opts.withCredentials) this._cookieJar = (0, _globalsNodeJs.createCookieJar)();
+        this._open();
+    }
+    /**
+     * Creates transport of the given type.
+     *
+     * @param {String} name - transport name
+     * @return {Transport}
+     * @private
+     */ createTransport(name) {
+        const query = Object.assign({}, this.opts.query);
+        // append engine.io protocol identifier
+        query.EIO = (0, _engineIoParser.protocol);
+        // transport name
+        query.transport = name;
+        // session id if we already have one
+        if (this.id) query.sid = this.id;
+        const opts = Object.assign({}, this.opts, {
+            query,
+            socket: this,
+            hostname: this.hostname,
+            secure: this.secure,
+            port: this.port
+        }, this.opts.transportOptions[name]);
+        return new this._transportsByName[name](opts);
+    }
+    /**
+     * Initializes transport to use and starts probe.
+     *
+     * @private
+     */ _open() {
+        if (this.transports.length === 0) {
+            // Emit error on next tick so it can be listened to
+            this.setTimeoutFn(()=>{
+                this.emitReserved("error", "No transports available");
+            }, 0);
+            return;
+        }
+        const transportName = this.opts.rememberUpgrade && SocketWithoutUpgrade.priorWebsocketSuccess && this.transports.indexOf("websocket") !== -1 ? "websocket" : this.transports[0];
+        this.readyState = "opening";
+        const transport = this.createTransport(transportName);
+        transport.open();
+        this.setTransport(transport);
+    }
+    /**
+     * Sets the current transport. Disables the existing one (if any).
+     *
+     * @private
+     */ setTransport(transport) {
+        if (this.transport) this.transport.removeAllListeners();
+        // set up transport
+        this.transport = transport;
+        // set up transport listeners
+        transport.on("drain", this._onDrain.bind(this)).on("packet", this._onPacket.bind(this)).on("error", this._onError.bind(this)).on("close", (reason)=>this._onClose("transport close", reason));
+    }
+    /**
+     * Called when connection is deemed open.
+     *
+     * @private
+     */ onOpen() {
+        this.readyState = "open";
+        SocketWithoutUpgrade.priorWebsocketSuccess = "websocket" === this.transport.name;
+        this.emitReserved("open");
+        this.flush();
+    }
+    /**
+     * Handles a packet.
+     *
+     * @private
+     */ _onPacket(packet) {
+        if ("opening" === this.readyState || "open" === this.readyState || "closing" === this.readyState) {
+            this.emitReserved("packet", packet);
+            // Socket is live - any packet counts
+            this.emitReserved("heartbeat");
+            switch(packet.type){
+                case "open":
+                    this.onHandshake(JSON.parse(packet.data));
+                    break;
+                case "ping":
+                    this._sendPacket("pong");
+                    this.emitReserved("ping");
+                    this.emitReserved("pong");
+                    this._resetPingTimeout();
+                    break;
+                case "error":
+                    const err = new Error("server error");
+                    // @ts-ignore
+                    err.code = packet.data;
+                    this._onError(err);
+                    break;
+                case "message":
+                    this.emitReserved("data", packet.data);
+                    this.emitReserved("message", packet.data);
+                    break;
+            }
+        }
+    }
+    /**
+     * Called upon handshake completion.
+     *
+     * @param {Object} data - handshake obj
+     * @private
+     */ onHandshake(data) {
+        this.emitReserved("handshake", data);
+        this.id = data.sid;
+        this.transport.query.sid = data.sid;
+        this._pingInterval = data.pingInterval;
+        this._pingTimeout = data.pingTimeout;
+        this._maxPayload = data.maxPayload;
+        this.onOpen();
+        // In case open handler closes socket
+        if ("closed" === this.readyState) return;
+        this._resetPingTimeout();
+    }
+    /**
+     * Sets and resets ping timeout timer based on server pings.
+     *
+     * @private
+     */ _resetPingTimeout() {
+        this.clearTimeoutFn(this._pingTimeoutTimer);
+        const delay = this._pingInterval + this._pingTimeout;
+        this._pingTimeoutTime = Date.now() + delay;
+        this._pingTimeoutTimer = this.setTimeoutFn(()=>{
+            this._onClose("ping timeout");
+        }, delay);
+        if (this.opts.autoUnref) this._pingTimeoutTimer.unref();
+    }
+    /**
+     * Called on `drain` event
+     *
+     * @private
+     */ _onDrain() {
+        this.writeBuffer.splice(0, this._prevBufferLen);
+        // setting prevBufferLen = 0 is very important
+        // for example, when upgrading, upgrade packet is sent over,
+        // and a nonzero prevBufferLen could cause problems on `drain`
+        this._prevBufferLen = 0;
+        if (0 === this.writeBuffer.length) this.emitReserved("drain");
+        else this.flush();
+    }
+    /**
+     * Flush write buffers.
+     *
+     * @private
+     */ flush() {
+        if ("closed" !== this.readyState && this.transport.writable && !this.upgrading && this.writeBuffer.length) {
+            const packets = this._getWritablePackets();
+            this.transport.send(packets);
+            // keep track of current length of writeBuffer
+            // splice writeBuffer and callbackBuffer on `drain`
+            this._prevBufferLen = packets.length;
+            this.emitReserved("flush");
+        }
+    }
+    /**
+     * Ensure the encoded size of the writeBuffer is below the maxPayload value sent by the server (only for HTTP
+     * long-polling)
+     *
+     * @private
+     */ _getWritablePackets() {
+        const shouldCheckPayloadSize = this._maxPayload && this.transport.name === "polling" && this.writeBuffer.length > 1;
+        if (!shouldCheckPayloadSize) return this.writeBuffer;
+        let payloadSize = 1; // first packet type
+        for(let i = 0; i < this.writeBuffer.length; i++){
+            const data = this.writeBuffer[i].data;
+            if (data) payloadSize += (0, _utilJs.byteLength)(data);
+            if (i > 0 && payloadSize > this._maxPayload) return this.writeBuffer.slice(0, i);
+            payloadSize += 2; // separator + packet type
+        }
+        return this.writeBuffer;
+    }
+    /**
+     * Checks whether the heartbeat timer has expired but the socket has not yet been notified.
+     *
+     * Note: this method is private for now because it does not really fit the WebSocket API, but if we put it in the
+     * `write()` method then the message would not be buffered by the Socket.IO client.
+     *
+     * @return {boolean}
+     * @private
+     */ /* private */ _hasPingExpired() {
+        if (!this._pingTimeoutTime) return true;
+        const hasExpired = Date.now() > this._pingTimeoutTime;
+        if (hasExpired) {
+            this._pingTimeoutTime = 0;
+            (0, _globalsNodeJs.nextTick)(()=>{
+                this._onClose("ping timeout");
+            }, this.setTimeoutFn);
+        }
+        return hasExpired;
+    }
+    /**
+     * Sends a message.
+     *
+     * @param {String} msg - message.
+     * @param {Object} options.
+     * @param {Function} fn - callback function.
+     * @return {Socket} for chaining.
+     */ write(msg, options, fn) {
+        this._sendPacket("message", msg, options, fn);
+        return this;
+    }
+    /**
+     * Sends a message. Alias of {@link Socket#write}.
+     *
+     * @param {String} msg - message.
+     * @param {Object} options.
+     * @param {Function} fn - callback function.
+     * @return {Socket} for chaining.
+     */ send(msg, options, fn) {
+        this._sendPacket("message", msg, options, fn);
+        return this;
+    }
+    /**
+     * Sends a packet.
+     *
+     * @param {String} type - packet type.
+     * @param {String} data.
+     * @param {Object} options.
+     * @param {Function} fn - callback function.
+     * @private
+     */ _sendPacket(type, data, options, fn) {
+        if ("function" === typeof data) {
+            fn = data;
+            data = undefined;
+        }
+        if ("function" === typeof options) {
+            fn = options;
+            options = null;
+        }
+        if ("closing" === this.readyState || "closed" === this.readyState) return;
+        options = options || {};
+        options.compress = false !== options.compress;
+        const packet = {
+            type: type,
+            data: data,
+            options: options
+        };
+        this.emitReserved("packetCreate", packet);
+        this.writeBuffer.push(packet);
+        if (fn) this.once("flush", fn);
+        this.flush();
+    }
+    /**
+     * Closes the connection.
+     */ close() {
+        const close = ()=>{
+            this._onClose("forced close");
+            this.transport.close();
+        };
+        const cleanupAndClose = ()=>{
+            this.off("upgrade", cleanupAndClose);
+            this.off("upgradeError", cleanupAndClose);
+            close();
+        };
+        const waitForUpgrade = ()=>{
+            // wait for upgrade to finish since we can't send packets while pausing a transport
+            this.once("upgrade", cleanupAndClose);
+            this.once("upgradeError", cleanupAndClose);
+        };
+        if ("opening" === this.readyState || "open" === this.readyState) {
+            this.readyState = "closing";
+            if (this.writeBuffer.length) this.once("drain", ()=>{
+                if (this.upgrading) waitForUpgrade();
+                else close();
+            });
+            else if (this.upgrading) waitForUpgrade();
+            else close();
+        }
+        return this;
+    }
+    /**
+     * Called upon transport error
+     *
+     * @private
+     */ _onError(err) {
+        SocketWithoutUpgrade.priorWebsocketSuccess = false;
+        if (this.opts.tryAllTransports && this.transports.length > 1 && this.readyState === "opening") {
+            this.transports.shift();
+            return this._open();
+        }
+        this.emitReserved("error", err);
+        this._onClose("transport error", err);
+    }
+    /**
+     * Called upon transport close.
+     *
+     * @private
+     */ _onClose(reason, description) {
+        if ("opening" === this.readyState || "open" === this.readyState || "closing" === this.readyState) {
+            // clear timers
+            this.clearTimeoutFn(this._pingTimeoutTimer);
+            // stop event from firing again for transport
+            this.transport.removeAllListeners("close");
+            // ensure transport won't stay open
+            this.transport.close();
+            // ignore further transport communication
+            this.transport.removeAllListeners();
+            if (withEventListeners) {
+                if (this._beforeunloadEventListener) removeEventListener("beforeunload", this._beforeunloadEventListener, false);
+                if (this._offlineEventListener) {
+                    const i = OFFLINE_EVENT_LISTENERS.indexOf(this._offlineEventListener);
+                    if (i !== -1) OFFLINE_EVENT_LISTENERS.splice(i, 1);
+                }
+            }
+            // set ready state
+            this.readyState = "closed";
+            // clear session id
+            this.id = null;
+            // emit close event
+            this.emitReserved("close", reason, description);
+            // clean buffers after, so users can still
+            // grab the buffers on `close` event
+            this.writeBuffer = [];
+            this._prevBufferLen = 0;
+        }
+    }
+}
+SocketWithoutUpgrade.protocol = (0, _engineIoParser.protocol);
+class SocketWithUpgrade extends SocketWithoutUpgrade {
+    constructor(){
+        super(...arguments);
+        this._upgrades = [];
+    }
+    onOpen() {
+        super.onOpen();
+        if ("open" === this.readyState && this.opts.upgrade) for(let i = 0; i < this._upgrades.length; i++)this._probe(this._upgrades[i]);
+    }
+    /**
+     * Probes a transport.
+     *
+     * @param {String} name - transport name
+     * @private
+     */ _probe(name) {
+        let transport = this.createTransport(name);
+        let failed = false;
+        SocketWithoutUpgrade.priorWebsocketSuccess = false;
+        const onTransportOpen = ()=>{
+            if (failed) return;
+            transport.send([
+                {
+                    type: "ping",
+                    data: "probe"
+                }
+            ]);
+            transport.once("packet", (msg)=>{
+                if (failed) return;
+                if ("pong" === msg.type && "probe" === msg.data) {
+                    this.upgrading = true;
+                    this.emitReserved("upgrading", transport);
+                    if (!transport) return;
+                    SocketWithoutUpgrade.priorWebsocketSuccess = "websocket" === transport.name;
+                    this.transport.pause(()=>{
+                        if (failed) return;
+                        if ("closed" === this.readyState) return;
+                        cleanup();
+                        this.setTransport(transport);
+                        transport.send([
+                            {
+                                type: "upgrade"
+                            }
+                        ]);
+                        this.emitReserved("upgrade", transport);
+                        transport = null;
+                        this.upgrading = false;
+                        this.flush();
+                    });
+                } else {
+                    const err = new Error("probe error");
+                    // @ts-ignore
+                    err.transport = transport.name;
+                    this.emitReserved("upgradeError", err);
+                }
+            });
+        };
+        function freezeTransport() {
+            if (failed) return;
+            // Any callback called by transport should be ignored since now
+            failed = true;
+            cleanup();
+            transport.close();
+            transport = null;
+        }
+        // Handle any error that happens while probing
+        const onerror = (err)=>{
+            const error = new Error("probe error: " + err);
+            // @ts-ignore
+            error.transport = transport.name;
+            freezeTransport();
+            this.emitReserved("upgradeError", error);
+        };
+        function onTransportClose() {
+            onerror("transport closed");
+        }
+        // When the socket is closed while we're probing
+        function onclose() {
+            onerror("socket closed");
+        }
+        // When the socket is upgraded while we're probing
+        function onupgrade(to) {
+            if (transport && to.name !== transport.name) freezeTransport();
+        }
+        // Remove all listeners on the transport and on self
+        const cleanup = ()=>{
+            transport.removeListener("open", onTransportOpen);
+            transport.removeListener("error", onerror);
+            transport.removeListener("close", onTransportClose);
+            this.off("close", onclose);
+            this.off("upgrading", onupgrade);
+        };
+        transport.once("open", onTransportOpen);
+        transport.once("error", onerror);
+        transport.once("close", onTransportClose);
+        this.once("close", onclose);
+        this.once("upgrading", onupgrade);
+        if (this._upgrades.indexOf("webtransport") !== -1 && name !== "webtransport") // favor WebTransport
+        this.setTimeoutFn(()=>{
+            if (!failed) transport.open();
+        }, 200);
+        else transport.open();
+    }
+    onHandshake(data) {
+        this._upgrades = this._filterUpgrades(data.upgrades);
+        super.onHandshake(data);
+    }
+    /**
+     * Filters upgrades, returning only those matching client transports.
+     *
+     * @param {Array} upgrades - server upgrades
+     * @private
+     */ _filterUpgrades(upgrades) {
+        const filteredUpgrades = [];
+        for(let i = 0; i < upgrades.length; i++)if (~this.transports.indexOf(upgrades[i])) filteredUpgrades.push(upgrades[i]);
+        return filteredUpgrades;
+    }
+}
+class Socket extends SocketWithUpgrade {
+    constructor(uri, opts = {}){
+        const o = typeof uri === "object" ? uri : opts;
+        if (!o.transports || o.transports && typeof o.transports[0] === "string") o.transports = (o.transports || [
+            "polling",
+            "websocket",
+            "webtransport"
+        ]).map((transportName)=>(0, _indexJs.transports)[transportName]).filter((t)=>!!t);
+        super(uri, o);
+    }
+}
+
+},{"./transports/index.js":"91wUX","./util.js":"kk7Cp","./contrib/parseqs.js":"1zNF1","./contrib/parseuri.js":"5Y2kK","@socket.io/component-emitter":"9MXWi","engine.io-parser":"kVTy2","./globals.node.js":"6Aw5d","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"91wUX":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "transports", ()=>transports);
+var _pollingXhrNodeJs = require("./polling-xhr.node.js");
+var _websocketNodeJs = require("./websocket.node.js");
+var _webtransportJs = require("./webtransport.js");
+const transports = {
+    websocket: (0, _websocketNodeJs.WS),
+    webtransport: (0, _webtransportJs.WT),
+    polling: (0, _pollingXhrNodeJs.XHR)
+};
+
+},{"./polling-xhr.node.js":"3Fuqh","./websocket.node.js":"8Q316","./webtransport.js":"g53pT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"3Fuqh":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "BaseXHR", ()=>BaseXHR);
+parcelHelpers.export(exports, "Request", ()=>Request);
+/**
+ * HTTP long-polling based on the built-in `XMLHttpRequest` object.
+ *
+ * Usage: browser
+ *
+ * @see https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+ */ parcelHelpers.export(exports, "XHR", ()=>XHR);
+var _pollingJs = require("./polling.js");
+var _componentEmitter = require("@socket.io/component-emitter");
+var _utilJs = require("../util.js");
+var _globalsNodeJs = require("../globals.node.js");
+var _hasCorsJs = require("../contrib/has-cors.js");
+function empty() {}
+class BaseXHR extends (0, _pollingJs.Polling) {
+    /**
+     * XHR Polling constructor.
+     *
+     * @param {Object} opts
+     * @package
+     */ constructor(opts){
+        super(opts);
+        if (typeof location !== "undefined") {
+            const isSSL = "https:" === location.protocol;
+            let port = location.port;
+            // some user agents have empty `location.port`
+            if (!port) port = isSSL ? "443" : "80";
+            this.xd = typeof location !== "undefined" && opts.hostname !== location.hostname || port !== opts.port;
+        }
+    }
+    /**
+     * Sends data.
+     *
+     * @param {String} data - data to send.
+     * @param {Function} fn - called upon flush.
+     * @private
+     */ doWrite(data, fn) {
+        const req = this.request({
+            method: "POST",
+            data: data
+        });
+        req.on("success", fn);
+        req.on("error", (xhrStatus, context)=>{
+            this.onError("xhr post error", xhrStatus, context);
+        });
+    }
+    /**
+     * Starts a poll cycle.
+     *
+     * @private
+     */ doPoll() {
+        const req = this.request();
+        req.on("data", this.onData.bind(this));
+        req.on("error", (xhrStatus, context)=>{
+            this.onError("xhr poll error", xhrStatus, context);
+        });
+        this.pollXhr = req;
+    }
+}
+class Request extends (0, _componentEmitter.Emitter) {
+    /**
+     * Request constructor
+     *
+     * @param {Object} options
+     * @package
+     */ constructor(createRequest, uri, opts){
+        super();
+        this.createRequest = createRequest;
+        (0, _utilJs.installTimerFunctions)(this, opts);
+        this._opts = opts;
+        this._method = opts.method || "GET";
+        this._uri = uri;
+        this._data = undefined !== opts.data ? opts.data : null;
+        this._create();
+    }
+    /**
+     * Creates the XHR object and sends the request.
+     *
+     * @private
+     */ _create() {
+        var _a;
+        const opts = (0, _utilJs.pick)(this._opts, "agent", "pfx", "key", "passphrase", "cert", "ca", "ciphers", "rejectUnauthorized", "autoUnref");
+        opts.xdomain = !!this._opts.xd;
+        const xhr = this._xhr = this.createRequest(opts);
+        try {
+            xhr.open(this._method, this._uri, true);
+            try {
+                if (this._opts.extraHeaders) {
+                    // @ts-ignore
+                    xhr.setDisableHeaderCheck && xhr.setDisableHeaderCheck(true);
+                    for(let i in this._opts.extraHeaders)if (this._opts.extraHeaders.hasOwnProperty(i)) xhr.setRequestHeader(i, this._opts.extraHeaders[i]);
+                }
+            } catch (e) {}
+            if ("POST" === this._method) try {
+                xhr.setRequestHeader("Content-type", "text/plain;charset=UTF-8");
+            } catch (e) {}
+            try {
+                xhr.setRequestHeader("Accept", "*/*");
+            } catch (e) {}
+            (_a = this._opts.cookieJar) === null || _a === void 0 || _a.addCookies(xhr);
+            // ie6 check
+            if ("withCredentials" in xhr) xhr.withCredentials = this._opts.withCredentials;
+            if (this._opts.requestTimeout) xhr.timeout = this._opts.requestTimeout;
+            xhr.onreadystatechange = ()=>{
+                var _a;
+                if (xhr.readyState === 3) (_a = this._opts.cookieJar) === null || _a === void 0 || _a.parseCookies(// @ts-ignore
+                xhr.getResponseHeader("set-cookie"));
+                if (4 !== xhr.readyState) return;
+                if (200 === xhr.status || 1223 === xhr.status) this._onLoad();
+                else // make sure the `error` event handler that's user-set
+                // does not throw in the same tick and gets caught here
+                this.setTimeoutFn(()=>{
+                    this._onError(typeof xhr.status === "number" ? xhr.status : 0);
+                }, 0);
+            };
+            xhr.send(this._data);
+        } catch (e) {
+            // Need to defer since .create() is called directly from the constructor
+            // and thus the 'error' event can only be only bound *after* this exception
+            // occurs.  Therefore, also, we cannot throw here at all.
+            this.setTimeoutFn(()=>{
+                this._onError(e);
+            }, 0);
+            return;
+        }
+        if (typeof document !== "undefined") {
+            this._index = Request.requestsCount++;
+            Request.requests[this._index] = this;
+        }
+    }
+    /**
+     * Called upon error.
+     *
+     * @private
+     */ _onError(err) {
+        this.emitReserved("error", err, this._xhr);
+        this._cleanup(true);
+    }
+    /**
+     * Cleans up house.
+     *
+     * @private
+     */ _cleanup(fromError) {
+        if ("undefined" === typeof this._xhr || null === this._xhr) return;
+        this._xhr.onreadystatechange = empty;
+        if (fromError) try {
+            this._xhr.abort();
+        } catch (e) {}
+        if (typeof document !== "undefined") delete Request.requests[this._index];
+        this._xhr = null;
+    }
+    /**
+     * Called upon load.
+     *
+     * @private
+     */ _onLoad() {
+        const data = this._xhr.responseText;
+        if (data !== null) {
+            this.emitReserved("data", data);
+            this.emitReserved("success");
+            this._cleanup();
+        }
+    }
+    /**
+     * Aborts the request.
+     *
+     * @package
+     */ abort() {
+        this._cleanup();
+    }
+}
+Request.requestsCount = 0;
+Request.requests = {};
+/**
+ * Aborts pending requests when unloading the window. This is needed to prevent
+ * memory leaks (e.g. when using IE) and to ensure that no spurious error is
+ * emitted.
+ */ if (typeof document !== "undefined") {
+    // @ts-ignore
+    if (typeof attachEvent === "function") // @ts-ignore
+    attachEvent("onunload", unloadHandler);
+    else if (typeof addEventListener === "function") {
+        const terminationEvent = "onpagehide" in (0, _globalsNodeJs.globalThisShim) ? "pagehide" : "unload";
+        addEventListener(terminationEvent, unloadHandler, false);
+    }
+}
+function unloadHandler() {
+    for(let i in Request.requests)if (Request.requests.hasOwnProperty(i)) Request.requests[i].abort();
+}
+const hasXHR2 = function() {
+    const xhr = newRequest({
+        xdomain: false
+    });
+    return xhr && xhr.responseType !== null;
+}();
+class XHR extends BaseXHR {
+    constructor(opts){
+        super(opts);
+        const forceBase64 = opts && opts.forceBase64;
+        this.supportsBinary = hasXHR2 && !forceBase64;
+    }
+    request(opts = {}) {
+        Object.assign(opts, {
+            xd: this.xd
+        }, this.opts);
+        return new Request(newRequest, this.uri(), opts);
+    }
+}
+function newRequest(opts) {
+    const xdomain = opts.xdomain;
+    // XMLHttpRequest can be disabled on IE
+    try {
+        if ("undefined" !== typeof XMLHttpRequest && (!xdomain || (0, _hasCorsJs.hasCORS))) return new XMLHttpRequest();
+    } catch (e) {}
+    if (!xdomain) try {
+        return new (0, _globalsNodeJs.globalThisShim)[[
+            "Active"
+        ].concat("Object").join("X")]("Microsoft.XMLHTTP");
+    } catch (e) {}
+}
+
+},{"./polling.js":"ePbRc","@socket.io/component-emitter":"9MXWi","../util.js":"kk7Cp","../globals.node.js":"6Aw5d","../contrib/has-cors.js":"40IkM","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"ePbRc":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Polling", ()=>Polling);
+var _transportJs = require("../transport.js");
+var _utilJs = require("../util.js");
+var _engineIoParser = require("engine.io-parser");
+class Polling extends (0, _transportJs.Transport) {
+    constructor(){
+        super(...arguments);
+        this._polling = false;
+    }
+    get name() {
+        return "polling";
+    }
+    /**
+     * Opens the socket (triggers polling). We write a PING message to determine
+     * when the transport is open.
+     *
+     * @protected
+     */ doOpen() {
+        this._poll();
+    }
+    /**
+     * Pauses polling.
+     *
+     * @param {Function} onPause - callback upon buffers are flushed and transport is paused
+     * @package
+     */ pause(onPause) {
+        this.readyState = "pausing";
+        const pause = ()=>{
+            this.readyState = "paused";
+            onPause();
+        };
+        if (this._polling || !this.writable) {
+            let total = 0;
+            if (this._polling) {
+                total++;
+                this.once("pollComplete", function() {
+                    --total || pause();
+                });
+            }
+            if (!this.writable) {
+                total++;
+                this.once("drain", function() {
+                    --total || pause();
+                });
+            }
+        } else pause();
+    }
+    /**
+     * Starts polling cycle.
+     *
+     * @private
+     */ _poll() {
+        this._polling = true;
+        this.doPoll();
+        this.emitReserved("poll");
+    }
+    /**
+     * Overloads onData to detect payloads.
+     *
+     * @protected
+     */ onData(data) {
+        const callback = (packet)=>{
+            // if its the first message we consider the transport open
+            if ("opening" === this.readyState && packet.type === "open") this.onOpen();
+            // if its a close packet, we close the ongoing requests
+            if ("close" === packet.type) {
+                this.onClose({
+                    description: "transport closed by the server"
+                });
+                return false;
+            }
+            // otherwise bypass onData and handle the message
+            this.onPacket(packet);
+        };
+        // decode payload
+        (0, _engineIoParser.decodePayload)(data, this.socket.binaryType).forEach(callback);
+        // if an event did not trigger closing
+        if ("closed" !== this.readyState) {
+            // if we got data we're not polling
+            this._polling = false;
+            this.emitReserved("pollComplete");
+            if ("open" === this.readyState) this._poll();
+        }
+    }
+    /**
+     * For polling, send a close packet.
+     *
+     * @protected
+     */ doClose() {
+        const close = ()=>{
+            this.write([
+                {
+                    type: "close"
+                }
+            ]);
+        };
+        if ("open" === this.readyState) close();
+        else // in case we're trying to close while
+        // handshaking is in progress (GH-164)
+        this.once("open", close);
+    }
+    /**
+     * Writes a packets payload.
+     *
+     * @param {Array} packets - data packets
+     * @protected
+     */ write(packets) {
+        this.writable = false;
+        (0, _engineIoParser.encodePayload)(packets, (data)=>{
+            this.doWrite(data, ()=>{
+                this.writable = true;
+                this.emitReserved("drain");
+            });
+        });
+    }
+    /**
+     * Generates uri for connection.
+     *
+     * @private
+     */ uri() {
+        const schema = this.opts.secure ? "https" : "http";
+        const query = this.query || {};
+        // cache busting is forced
+        if (false !== this.opts.timestampRequests) query[this.opts.timestampParam] = (0, _utilJs.randomString)();
+        if (!this.supportsBinary && !query.sid) query.b64 = 1;
+        return this.createUri(schema, query);
+    }
+}
+
+},{"../transport.js":"9tBQf","../util.js":"kk7Cp","engine.io-parser":"kVTy2","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9tBQf":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "TransportError", ()=>TransportError);
+parcelHelpers.export(exports, "Transport", ()=>Transport);
+var _engineIoParser = require("engine.io-parser");
+var _componentEmitter = require("@socket.io/component-emitter");
+var _utilJs = require("./util.js");
+var _parseqsJs = require("./contrib/parseqs.js");
+class TransportError extends Error {
+    constructor(reason, description, context){
+        super(reason);
+        this.description = description;
+        this.context = context;
+        this.type = "TransportError";
+    }
+}
+class Transport extends (0, _componentEmitter.Emitter) {
+    /**
+     * Transport abstract constructor.
+     *
+     * @param {Object} opts - options
+     * @protected
+     */ constructor(opts){
+        super();
+        this.writable = false;
+        (0, _utilJs.installTimerFunctions)(this, opts);
+        this.opts = opts;
+        this.query = opts.query;
+        this.socket = opts.socket;
+        this.supportsBinary = !opts.forceBase64;
+    }
+    /**
+     * Emits an error.
+     *
+     * @param {String} reason
+     * @param description
+     * @param context - the error context
+     * @return {Transport} for chaining
+     * @protected
+     */ onError(reason, description, context) {
+        super.emitReserved("error", new TransportError(reason, description, context));
+        return this;
+    }
+    /**
+     * Opens the transport.
+     */ open() {
+        this.readyState = "opening";
+        this.doOpen();
+        return this;
+    }
+    /**
+     * Closes the transport.
+     */ close() {
+        if (this.readyState === "opening" || this.readyState === "open") {
+            this.doClose();
+            this.onClose();
+        }
+        return this;
+    }
+    /**
+     * Sends multiple packets.
+     *
+     * @param {Array} packets
+     */ send(packets) {
+        if (this.readyState === "open") this.write(packets);
+    }
+    /**
+     * Called upon open
+     *
+     * @protected
+     */ onOpen() {
+        this.readyState = "open";
+        this.writable = true;
+        super.emitReserved("open");
+    }
+    /**
+     * Called with data.
+     *
+     * @param {String} data
+     * @protected
+     */ onData(data) {
+        const packet = (0, _engineIoParser.decodePacket)(data, this.socket.binaryType);
+        this.onPacket(packet);
+    }
+    /**
+     * Called with a decoded packet.
+     *
+     * @protected
+     */ onPacket(packet) {
+        super.emitReserved("packet", packet);
+    }
+    /**
+     * Called upon close.
+     *
+     * @protected
+     */ onClose(details) {
+        this.readyState = "closed";
+        super.emitReserved("close", details);
+    }
+    /**
+     * Pauses the transport, in order not to lose packets during an upgrade.
+     *
+     * @param onPause
+     */ pause(onPause) {}
+    createUri(schema, query = {}) {
+        return schema + "://" + this._hostname() + this._port() + this.opts.path + this._query(query);
+    }
+    _hostname() {
+        const hostname = this.opts.hostname;
+        return hostname.indexOf(":") === -1 ? hostname : "[" + hostname + "]";
+    }
+    _port() {
+        if (this.opts.port && (this.opts.secure && Number(this.opts.port) !== 443 || !this.opts.secure && Number(this.opts.port) !== 80)) return ":" + this.opts.port;
+        else return "";
+    }
+    _query(query) {
+        const encodedQuery = (0, _parseqsJs.encode)(query);
+        return encodedQuery.length ? "?" + encodedQuery : "";
+    }
+}
+
+},{"engine.io-parser":"kVTy2","@socket.io/component-emitter":"9MXWi","./util.js":"kk7Cp","./contrib/parseqs.js":"1zNF1","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"kVTy2":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "createPacketEncoderStream", ()=>createPacketEncoderStream);
+parcelHelpers.export(exports, "createPacketDecoderStream", ()=>createPacketDecoderStream);
+parcelHelpers.export(exports, "protocol", ()=>protocol);
+parcelHelpers.export(exports, "encodePacket", ()=>(0, _encodePacketJs.encodePacket));
+parcelHelpers.export(exports, "encodePayload", ()=>encodePayload);
+parcelHelpers.export(exports, "decodePacket", ()=>(0, _decodePacketJs.decodePacket));
+parcelHelpers.export(exports, "decodePayload", ()=>decodePayload);
+var _encodePacketJs = require("./encodePacket.js");
+var _decodePacketJs = require("./decodePacket.js");
+var _commonsJs = require("./commons.js");
+const SEPARATOR = String.fromCharCode(30); // see https://en.wikipedia.org/wiki/Delimiter#ASCII_delimited_text
+const encodePayload = (packets, callback)=>{
+    // some packets may be added to the array while encoding, so the initial length must be saved
+    const length = packets.length;
+    const encodedPackets = new Array(length);
+    let count = 0;
+    packets.forEach((packet, i)=>{
+        // force base64 encoding for binary packets
+        (0, _encodePacketJs.encodePacket)(packet, false, (encodedPacket)=>{
+            encodedPackets[i] = encodedPacket;
+            if (++count === length) callback(encodedPackets.join(SEPARATOR));
+        });
+    });
+};
+const decodePayload = (encodedPayload, binaryType)=>{
+    const encodedPackets = encodedPayload.split(SEPARATOR);
+    const packets = [];
+    for(let i = 0; i < encodedPackets.length; i++){
+        const decodedPacket = (0, _decodePacketJs.decodePacket)(encodedPackets[i], binaryType);
+        packets.push(decodedPacket);
+        if (decodedPacket.type === "error") break;
+    }
+    return packets;
+};
+function createPacketEncoderStream() {
+    return new TransformStream({
+        transform (packet, controller) {
+            (0, _encodePacketJs.encodePacketToBinary)(packet, (encodedPacket)=>{
+                const payloadLength = encodedPacket.length;
+                let header;
+                // inspired by the WebSocket format: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers#decoding_payload_length
+                if (payloadLength < 126) {
+                    header = new Uint8Array(1);
+                    new DataView(header.buffer).setUint8(0, payloadLength);
+                } else if (payloadLength < 65536) {
+                    header = new Uint8Array(3);
+                    const view = new DataView(header.buffer);
+                    view.setUint8(0, 126);
+                    view.setUint16(1, payloadLength);
+                } else {
+                    header = new Uint8Array(9);
+                    const view = new DataView(header.buffer);
+                    view.setUint8(0, 127);
+                    view.setBigUint64(1, BigInt(payloadLength));
+                }
+                // first bit indicates whether the payload is plain text (0) or binary (1)
+                if (packet.data && typeof packet.data !== "string") header[0] |= 0x80;
+                controller.enqueue(header);
+                controller.enqueue(encodedPacket);
+            });
+        }
+    });
+}
+let TEXT_DECODER;
+function totalLength(chunks) {
+    return chunks.reduce((acc, chunk)=>acc + chunk.length, 0);
+}
+function concatChunks(chunks, size) {
+    if (chunks[0].length === size) return chunks.shift();
+    const buffer = new Uint8Array(size);
+    let j = 0;
+    for(let i = 0; i < size; i++){
+        buffer[i] = chunks[0][j++];
+        if (j === chunks[0].length) {
+            chunks.shift();
+            j = 0;
+        }
+    }
+    if (chunks.length && j < chunks[0].length) chunks[0] = chunks[0].slice(j);
+    return buffer;
+}
+function createPacketDecoderStream(maxPayload, binaryType) {
+    if (!TEXT_DECODER) TEXT_DECODER = new TextDecoder();
+    const chunks = [];
+    let state = 0 /* State.READ_HEADER */ ;
+    let expectedLength = -1;
+    let isBinary = false;
+    return new TransformStream({
+        transform (chunk, controller) {
+            chunks.push(chunk);
+            while(true){
+                if (state === 0 /* State.READ_HEADER */ ) {
+                    if (totalLength(chunks) < 1) break;
+                    const header = concatChunks(chunks, 1);
+                    isBinary = (header[0] & 0x80) === 0x80;
+                    expectedLength = header[0] & 0x7f;
+                    if (expectedLength < 126) state = 3 /* State.READ_PAYLOAD */ ;
+                    else if (expectedLength === 126) state = 1 /* State.READ_EXTENDED_LENGTH_16 */ ;
+                    else state = 2 /* State.READ_EXTENDED_LENGTH_64 */ ;
+                } else if (state === 1 /* State.READ_EXTENDED_LENGTH_16 */ ) {
+                    if (totalLength(chunks) < 2) break;
+                    const headerArray = concatChunks(chunks, 2);
+                    expectedLength = new DataView(headerArray.buffer, headerArray.byteOffset, headerArray.length).getUint16(0);
+                    state = 3 /* State.READ_PAYLOAD */ ;
+                } else if (state === 2 /* State.READ_EXTENDED_LENGTH_64 */ ) {
+                    if (totalLength(chunks) < 8) break;
+                    const headerArray = concatChunks(chunks, 8);
+                    const view = new DataView(headerArray.buffer, headerArray.byteOffset, headerArray.length);
+                    const n = view.getUint32(0);
+                    if (n > Math.pow(2, 21) - 1) {
+                        // the maximum safe integer in JavaScript is 2^53 - 1
+                        controller.enqueue((0, _commonsJs.ERROR_PACKET));
+                        break;
+                    }
+                    expectedLength = n * Math.pow(2, 32) + view.getUint32(4);
+                    state = 3 /* State.READ_PAYLOAD */ ;
+                } else {
+                    if (totalLength(chunks) < expectedLength) break;
+                    const data = concatChunks(chunks, expectedLength);
+                    controller.enqueue((0, _decodePacketJs.decodePacket)(isBinary ? data : TEXT_DECODER.decode(data), binaryType));
+                    state = 0 /* State.READ_HEADER */ ;
+                }
+                if (expectedLength === 0 || expectedLength > maxPayload) {
+                    controller.enqueue((0, _commonsJs.ERROR_PACKET));
+                    break;
+                }
+            }
+        }
+    });
+}
+const protocol = 4;
+
+},{"./encodePacket.js":"4VOJI","./decodePacket.js":"howvf","./commons.js":"9Mqqu","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"4VOJI":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "encodePacketToBinary", ()=>encodePacketToBinary);
+parcelHelpers.export(exports, "encodePacket", ()=>encodePacket);
+var _commonsJs = require("./commons.js");
+const withNativeBlob = typeof Blob === "function" || typeof Blob !== "undefined" && Object.prototype.toString.call(Blob) === "[object BlobConstructor]";
+const withNativeArrayBuffer = typeof ArrayBuffer === "function";
+// ArrayBuffer.isView method is not defined in IE10
+const isView = (obj)=>{
+    return typeof ArrayBuffer.isView === "function" ? ArrayBuffer.isView(obj) : obj && obj.buffer instanceof ArrayBuffer;
+};
+const encodePacket = ({ type, data }, supportsBinary, callback)=>{
+    if (withNativeBlob && data instanceof Blob) {
+        if (supportsBinary) return callback(data);
+        else return encodeBlobAsBase64(data, callback);
+    } else if (withNativeArrayBuffer && (data instanceof ArrayBuffer || isView(data))) {
+        if (supportsBinary) return callback(data);
+        else return encodeBlobAsBase64(new Blob([
+            data
+        ]), callback);
+    }
+    // plain string
+    return callback((0, _commonsJs.PACKET_TYPES)[type] + (data || ""));
+};
+const encodeBlobAsBase64 = (data, callback)=>{
+    const fileReader = new FileReader();
+    fileReader.onload = function() {
+        const content = fileReader.result.split(",")[1];
+        callback("b" + (content || ""));
+    };
+    return fileReader.readAsDataURL(data);
+};
+function toArray(data) {
+    if (data instanceof Uint8Array) return data;
+    else if (data instanceof ArrayBuffer) return new Uint8Array(data);
+    else return new Uint8Array(data.buffer, data.byteOffset, data.byteLength);
+}
+let TEXT_ENCODER;
+function encodePacketToBinary(packet, callback) {
+    if (withNativeBlob && packet.data instanceof Blob) return packet.data.arrayBuffer().then(toArray).then(callback);
+    else if (withNativeArrayBuffer && (packet.data instanceof ArrayBuffer || isView(packet.data))) return callback(toArray(packet.data));
+    encodePacket(packet, false, (encoded)=>{
+        if (!TEXT_ENCODER) TEXT_ENCODER = new TextEncoder();
+        callback(TEXT_ENCODER.encode(encoded));
+    });
+}
+
+},{"./commons.js":"9Mqqu","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9Mqqu":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "PACKET_TYPES", ()=>PACKET_TYPES);
+parcelHelpers.export(exports, "PACKET_TYPES_REVERSE", ()=>PACKET_TYPES_REVERSE);
+parcelHelpers.export(exports, "ERROR_PACKET", ()=>ERROR_PACKET);
+const PACKET_TYPES = Object.create(null); // no Map = no polyfill
+PACKET_TYPES["open"] = "0";
+PACKET_TYPES["close"] = "1";
+PACKET_TYPES["ping"] = "2";
+PACKET_TYPES["pong"] = "3";
+PACKET_TYPES["message"] = "4";
+PACKET_TYPES["upgrade"] = "5";
+PACKET_TYPES["noop"] = "6";
+const PACKET_TYPES_REVERSE = Object.create(null);
+Object.keys(PACKET_TYPES).forEach((key)=>{
+    PACKET_TYPES_REVERSE[PACKET_TYPES[key]] = key;
+});
+const ERROR_PACKET = {
+    type: "error",
+    data: "parser error"
+};
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"howvf":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "decodePacket", ()=>decodePacket);
+var _commonsJs = require("./commons.js");
+var _base64ArraybufferJs = require("./contrib/base64-arraybuffer.js");
+const withNativeArrayBuffer = typeof ArrayBuffer === "function";
+const decodePacket = (encodedPacket, binaryType)=>{
+    if (typeof encodedPacket !== "string") return {
+        type: "message",
+        data: mapBinary(encodedPacket, binaryType)
+    };
+    const type = encodedPacket.charAt(0);
+    if (type === "b") return {
+        type: "message",
+        data: decodeBase64Packet(encodedPacket.substring(1), binaryType)
+    };
+    const packetType = (0, _commonsJs.PACKET_TYPES_REVERSE)[type];
+    if (!packetType) return 0, _commonsJs.ERROR_PACKET;
+    return encodedPacket.length > 1 ? {
+        type: (0, _commonsJs.PACKET_TYPES_REVERSE)[type],
+        data: encodedPacket.substring(1)
+    } : {
+        type: (0, _commonsJs.PACKET_TYPES_REVERSE)[type]
+    };
+};
+const decodeBase64Packet = (data, binaryType)=>{
+    if (withNativeArrayBuffer) {
+        const decoded = (0, _base64ArraybufferJs.decode)(data);
+        return mapBinary(decoded, binaryType);
+    } else return {
+        base64: true,
+        data
+    }; // fallback for old browsers
+};
+const mapBinary = (data, binaryType)=>{
+    switch(binaryType){
+        case "blob":
+            if (data instanceof Blob) // from WebSocket + binaryType "blob"
+            return data;
+            else // from HTTP long-polling or WebTransport
+            return new Blob([
+                data
+            ]);
+        case "arraybuffer":
+        default:
+            if (data instanceof ArrayBuffer) // from HTTP long-polling (base64) or WebSocket + binaryType "arraybuffer"
+            return data;
+            else // from WebTransport (Uint8Array)
+            return data.buffer;
+    }
+};
+
+},{"./commons.js":"9Mqqu","./contrib/base64-arraybuffer.js":"gpSS7","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"gpSS7":[function(require,module,exports,__globalThis) {
+// imported from https://github.com/socketio/base64-arraybuffer
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "encode", ()=>encode);
+parcelHelpers.export(exports, "decode", ()=>decode);
+const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
+// Use a lookup table to find the index.
+const lookup = typeof Uint8Array === 'undefined' ? [] : new Uint8Array(256);
+for(let i = 0; i < chars.length; i++)lookup[chars.charCodeAt(i)] = i;
+const encode = (arraybuffer)=>{
+    let bytes = new Uint8Array(arraybuffer), i, len = bytes.length, base64 = '';
+    for(i = 0; i < len; i += 3){
+        base64 += chars[bytes[i] >> 2];
+        base64 += chars[(bytes[i] & 3) << 4 | bytes[i + 1] >> 4];
+        base64 += chars[(bytes[i + 1] & 15) << 2 | bytes[i + 2] >> 6];
+        base64 += chars[bytes[i + 2] & 63];
+    }
+    if (len % 3 === 2) base64 = base64.substring(0, base64.length - 1) + '=';
+    else if (len % 3 === 1) base64 = base64.substring(0, base64.length - 2) + '==';
+    return base64;
+};
+const decode = (base64)=>{
+    let bufferLength = base64.length * 0.75, len = base64.length, i, p = 0, encoded1, encoded2, encoded3, encoded4;
+    if (base64[base64.length - 1] === '=') {
+        bufferLength--;
+        if (base64[base64.length - 2] === '=') bufferLength--;
+    }
+    const arraybuffer = new ArrayBuffer(bufferLength), bytes = new Uint8Array(arraybuffer);
+    for(i = 0; i < len; i += 4){
+        encoded1 = lookup[base64.charCodeAt(i)];
+        encoded2 = lookup[base64.charCodeAt(i + 1)];
+        encoded3 = lookup[base64.charCodeAt(i + 2)];
+        encoded4 = lookup[base64.charCodeAt(i + 3)];
+        bytes[p++] = encoded1 << 2 | encoded2 >> 4;
+        bytes[p++] = (encoded2 & 15) << 4 | encoded3 >> 2;
+        bytes[p++] = (encoded3 & 3) << 6 | encoded4 & 63;
+    }
+    return arraybuffer;
+};
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9MXWi":[function(require,module,exports,__globalThis) {
+/**
+ * Initialize a new `Emitter`.
+ *
+ * @api public
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Emitter", ()=>Emitter);
+function Emitter(obj) {
+    if (obj) return mixin(obj);
+}
+/**
+ * Mixin the emitter properties.
+ *
+ * @param {Object} obj
+ * @return {Object}
+ * @api private
+ */ function mixin(obj) {
+    for(var key in Emitter.prototype)obj[key] = Emitter.prototype[key];
+    return obj;
+}
+/**
+ * Listen on the given `event` with `fn`.
+ *
+ * @param {String} event
+ * @param {Function} fn
+ * @return {Emitter}
+ * @api public
+ */ Emitter.prototype.on = Emitter.prototype.addEventListener = function(event, fn) {
+    this._callbacks = this._callbacks || {};
+    (this._callbacks['$' + event] = this._callbacks['$' + event] || []).push(fn);
+    return this;
+};
+/**
+ * Adds an `event` listener that will be invoked a single
+ * time then automatically removed.
+ *
+ * @param {String} event
+ * @param {Function} fn
+ * @return {Emitter}
+ * @api public
+ */ Emitter.prototype.once = function(event, fn) {
+    function on() {
+        this.off(event, on);
+        fn.apply(this, arguments);
+    }
+    on.fn = fn;
+    this.on(event, on);
+    return this;
+};
+/**
+ * Remove the given callback for `event` or all
+ * registered callbacks.
+ *
+ * @param {String} event
+ * @param {Function} fn
+ * @return {Emitter}
+ * @api public
+ */ Emitter.prototype.off = Emitter.prototype.removeListener = Emitter.prototype.removeAllListeners = Emitter.prototype.removeEventListener = function(event, fn) {
+    this._callbacks = this._callbacks || {};
+    // all
+    if (0 == arguments.length) {
+        this._callbacks = {};
+        return this;
+    }
+    // specific event
+    var callbacks = this._callbacks['$' + event];
+    if (!callbacks) return this;
+    // remove all handlers
+    if (1 == arguments.length) {
+        delete this._callbacks['$' + event];
+        return this;
+    }
+    // remove specific handler
+    var cb;
+    for(var i = 0; i < callbacks.length; i++){
+        cb = callbacks[i];
+        if (cb === fn || cb.fn === fn) {
+            callbacks.splice(i, 1);
+            break;
+        }
+    }
+    // Remove event specific arrays for event types that no
+    // one is subscribed for to avoid memory leak.
+    if (callbacks.length === 0) delete this._callbacks['$' + event];
+    return this;
+};
+/**
+ * Emit `event` with the given args.
+ *
+ * @param {String} event
+ * @param {Mixed} ...
+ * @return {Emitter}
+ */ Emitter.prototype.emit = function(event) {
+    this._callbacks = this._callbacks || {};
+    var args = new Array(arguments.length - 1), callbacks = this._callbacks['$' + event];
+    for(var i = 1; i < arguments.length; i++)args[i - 1] = arguments[i];
+    if (callbacks) {
+        callbacks = callbacks.slice(0);
+        for(var i = 0, len = callbacks.length; i < len; ++i)callbacks[i].apply(this, args);
+    }
+    return this;
+};
+// alias used for reserved events (protected method)
+Emitter.prototype.emitReserved = Emitter.prototype.emit;
+/**
+ * Return array of callbacks for `event`.
+ *
+ * @param {String} event
+ * @return {Array}
+ * @api public
+ */ Emitter.prototype.listeners = function(event) {
+    this._callbacks = this._callbacks || {};
+    return this._callbacks['$' + event] || [];
+};
+/**
+ * Check if this emitter has `event` handlers.
+ *
+ * @param {String} event
+ * @return {Boolean}
+ * @api public
+ */ Emitter.prototype.hasListeners = function(event) {
+    return !!this.listeners(event).length;
+};
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"kk7Cp":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "pick", ()=>pick);
+parcelHelpers.export(exports, "installTimerFunctions", ()=>installTimerFunctions);
+// we could also have used `new Blob([obj]).size`, but it isn't supported in IE9
+parcelHelpers.export(exports, "byteLength", ()=>byteLength);
+/**
+ * Generates a random 8-characters string.
+ */ parcelHelpers.export(exports, "randomString", ()=>randomString);
+var _globalsNodeJs = require("./globals.node.js");
+function pick(obj, ...attr) {
+    return attr.reduce((acc, k)=>{
+        if (obj.hasOwnProperty(k)) acc[k] = obj[k];
+        return acc;
+    }, {});
+}
+// Keep a reference to the real timeout functions so they can be used when overridden
+const NATIVE_SET_TIMEOUT = (0, _globalsNodeJs.globalThisShim).setTimeout;
+const NATIVE_CLEAR_TIMEOUT = (0, _globalsNodeJs.globalThisShim).clearTimeout;
+function installTimerFunctions(obj, opts) {
+    if (opts.useNativeTimers) {
+        obj.setTimeoutFn = NATIVE_SET_TIMEOUT.bind((0, _globalsNodeJs.globalThisShim));
+        obj.clearTimeoutFn = NATIVE_CLEAR_TIMEOUT.bind((0, _globalsNodeJs.globalThisShim));
+    } else {
+        obj.setTimeoutFn = (0, _globalsNodeJs.globalThisShim).setTimeout.bind((0, _globalsNodeJs.globalThisShim));
+        obj.clearTimeoutFn = (0, _globalsNodeJs.globalThisShim).clearTimeout.bind((0, _globalsNodeJs.globalThisShim));
+    }
+}
+// base64 encoded buffers are about 33% bigger (https://en.wikipedia.org/wiki/Base64)
+const BASE64_OVERHEAD = 1.33;
+function byteLength(obj) {
+    if (typeof obj === "string") return utf8Length(obj);
+    // arraybuffer or blob
+    return Math.ceil((obj.byteLength || obj.size) * BASE64_OVERHEAD);
+}
+function utf8Length(str) {
+    let c = 0, length = 0;
+    for(let i = 0, l = str.length; i < l; i++){
+        c = str.charCodeAt(i);
+        if (c < 0x80) length += 1;
+        else if (c < 0x800) length += 2;
+        else if (c < 0xd800 || c >= 0xe000) length += 3;
+        else {
+            i++;
+            length += 4;
+        }
+    }
+    return length;
+}
+function randomString() {
+    return Date.now().toString(36).substring(3) + Math.random().toString(36).substring(2, 5);
+}
+
+},{"./globals.node.js":"6Aw5d","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"6Aw5d":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "nextTick", ()=>nextTick);
+parcelHelpers.export(exports, "globalThisShim", ()=>globalThisShim);
+parcelHelpers.export(exports, "defaultBinaryType", ()=>defaultBinaryType);
+parcelHelpers.export(exports, "createCookieJar", ()=>createCookieJar);
+const nextTick = (()=>{
+    const isPromiseAvailable = typeof Promise === "function" && typeof Promise.resolve === "function";
+    if (isPromiseAvailable) return (cb)=>Promise.resolve().then(cb);
+    else return (cb, setTimeoutFn)=>setTimeoutFn(cb, 0);
+})();
+const globalThisShim = (()=>{
+    if (typeof self !== "undefined") return self;
+    else if (typeof window !== "undefined") return window;
+    else return Function("return this")();
+})();
+const defaultBinaryType = "arraybuffer";
+function createCookieJar() {}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"1zNF1":[function(require,module,exports,__globalThis) {
+// imported from https://github.com/galkn/querystring
+/**
+ * Compiles a querystring
+ * Returns string representation of the object
+ *
+ * @param {Object}
+ * @api private
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "encode", ()=>encode);
+/**
+ * Parses a simple querystring into an object
+ *
+ * @param {String} qs
+ * @api private
+ */ parcelHelpers.export(exports, "decode", ()=>decode);
+function encode(obj) {
+    let str = '';
+    for(let i in obj)if (obj.hasOwnProperty(i)) {
+        if (str.length) str += '&';
+        str += encodeURIComponent(i) + '=' + encodeURIComponent(obj[i]);
+    }
+    return str;
+}
+function decode(qs) {
+    let qry = {};
+    let pairs = qs.split('&');
+    for(let i = 0, l = pairs.length; i < l; i++){
+        let pair = pairs[i].split('=');
+        qry[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1]);
+    }
+    return qry;
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"40IkM":[function(require,module,exports,__globalThis) {
+// imported from https://github.com/component/has-cors
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "hasCORS", ()=>hasCORS);
+let value = false;
+try {
+    value = typeof XMLHttpRequest !== 'undefined' && 'withCredentials' in new XMLHttpRequest();
+} catch (err) {
+// if XMLHttp support is disabled in IE then it will throw
+// when trying to create
+}
+const hasCORS = value;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"8Q316":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "BaseWS", ()=>BaseWS);
+/**
+ * WebSocket transport based on the built-in `WebSocket` object.
+ *
+ * Usage: browser, Node.js (since v21), Deno, Bun
+ *
+ * @see https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+ * @see https://caniuse.com/mdn-api_websocket
+ * @see https://nodejs.org/api/globals.html#websocket
+ */ parcelHelpers.export(exports, "WS", ()=>WS);
+var _transportJs = require("../transport.js");
+var _utilJs = require("../util.js");
+var _engineIoParser = require("engine.io-parser");
+var _globalsNodeJs = require("../globals.node.js");
+// detect ReactNative environment
+const isReactNative = typeof navigator !== "undefined" && typeof navigator.product === "string" && navigator.product.toLowerCase() === "reactnative";
+class BaseWS extends (0, _transportJs.Transport) {
+    get name() {
+        return "websocket";
+    }
+    doOpen() {
+        const uri = this.uri();
+        const protocols = this.opts.protocols;
+        // React Native only supports the 'headers' option, and will print a warning if anything else is passed
+        const opts = isReactNative ? {} : (0, _utilJs.pick)(this.opts, "agent", "perMessageDeflate", "pfx", "key", "passphrase", "cert", "ca", "ciphers", "rejectUnauthorized", "localAddress", "protocolVersion", "origin", "maxPayload", "family", "checkServerIdentity");
+        if (this.opts.extraHeaders) opts.headers = this.opts.extraHeaders;
+        try {
+            this.ws = this.createSocket(uri, protocols, opts);
+        } catch (err) {
+            return this.emitReserved("error", err);
+        }
+        this.ws.binaryType = this.socket.binaryType;
+        this.addEventListeners();
+    }
+    /**
+     * Adds event listeners to the socket
+     *
+     * @private
+     */ addEventListeners() {
+        this.ws.onopen = ()=>{
+            if (this.opts.autoUnref) this.ws._socket.unref();
+            this.onOpen();
+        };
+        this.ws.onclose = (closeEvent)=>this.onClose({
+                description: "websocket connection closed",
+                context: closeEvent
+            });
+        this.ws.onmessage = (ev)=>this.onData(ev.data);
+        this.ws.onerror = (e)=>this.onError("websocket error", e);
+    }
+    write(packets) {
+        this.writable = false;
+        // encodePacket efficient as it uses WS framing
+        // no need for encodePayload
+        for(let i = 0; i < packets.length; i++){
+            const packet = packets[i];
+            const lastPacket = i === packets.length - 1;
+            (0, _engineIoParser.encodePacket)(packet, this.supportsBinary, (data)=>{
+                // Sometimes the websocket has already been closed but the browser didn't
+                // have a chance of informing us about it yet, in that case send will
+                // throw an error
+                try {
+                    this.doWrite(packet, data);
+                } catch (e) {}
+                if (lastPacket) // fake drain
+                // defer to next tick to allow Socket to clear writeBuffer
+                (0, _globalsNodeJs.nextTick)(()=>{
+                    this.writable = true;
+                    this.emitReserved("drain");
+                }, this.setTimeoutFn);
+            });
+        }
+    }
+    doClose() {
+        if (typeof this.ws !== "undefined") {
+            this.ws.onerror = ()=>{};
+            this.ws.close();
+            this.ws = null;
+        }
+    }
+    /**
+     * Generates uri for connection.
+     *
+     * @private
+     */ uri() {
+        const schema = this.opts.secure ? "wss" : "ws";
+        const query = this.query || {};
+        // append timestamp to URI
+        if (this.opts.timestampRequests) query[this.opts.timestampParam] = (0, _utilJs.randomString)();
+        // communicate binary support capabilities
+        if (!this.supportsBinary) query.b64 = 1;
+        return this.createUri(schema, query);
+    }
+}
+const WebSocketCtor = (0, _globalsNodeJs.globalThisShim).WebSocket || (0, _globalsNodeJs.globalThisShim).MozWebSocket;
+class WS extends BaseWS {
+    createSocket(uri, protocols, opts) {
+        return !isReactNative ? protocols ? new WebSocketCtor(uri, protocols) : new WebSocketCtor(uri) : new WebSocketCtor(uri, protocols, opts);
+    }
+    doWrite(_packet, data) {
+        this.ws.send(data);
+    }
+}
+
+},{"../transport.js":"9tBQf","../util.js":"kk7Cp","engine.io-parser":"kVTy2","../globals.node.js":"6Aw5d","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"g53pT":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * WebTransport transport based on the built-in `WebTransport` object.
+ *
+ * Usage: browser, Node.js (with the `@fails-components/webtransport` package)
+ *
+ * @see https://developer.mozilla.org/en-US/docs/Web/API/WebTransport
+ * @see https://caniuse.com/webtransport
+ */ parcelHelpers.export(exports, "WT", ()=>WT);
+var _transportJs = require("../transport.js");
+var _globalsNodeJs = require("../globals.node.js");
+var _engineIoParser = require("engine.io-parser");
+class WT extends (0, _transportJs.Transport) {
+    get name() {
+        return "webtransport";
+    }
+    doOpen() {
+        try {
+            // @ts-ignore
+            this._transport = new WebTransport(this.createUri("https"), this.opts.transportOptions[this.name]);
+        } catch (err) {
+            return this.emitReserved("error", err);
+        }
+        this._transport.closed.then(()=>{
+            this.onClose();
+        }).catch((err)=>{
+            this.onError("webtransport error", err);
+        });
+        // note: we could have used async/await, but that would require some additional polyfills
+        this._transport.ready.then(()=>{
+            this._transport.createBidirectionalStream().then((stream)=>{
+                const decoderStream = (0, _engineIoParser.createPacketDecoderStream)(Number.MAX_SAFE_INTEGER, this.socket.binaryType);
+                const reader = stream.readable.pipeThrough(decoderStream).getReader();
+                const encoderStream = (0, _engineIoParser.createPacketEncoderStream)();
+                encoderStream.readable.pipeTo(stream.writable);
+                this._writer = encoderStream.writable.getWriter();
+                const read = ()=>{
+                    reader.read().then(({ done, value })=>{
+                        if (done) return;
+                        this.onPacket(value);
+                        read();
+                    }).catch((err)=>{});
+                };
+                read();
+                const packet = {
+                    type: "open"
+                };
+                if (this.query.sid) packet.data = `{"sid":"${this.query.sid}"}`;
+                this._writer.write(packet).then(()=>this.onOpen());
+            });
+        });
+    }
+    write(packets) {
+        this.writable = false;
+        for(let i = 0; i < packets.length; i++){
+            const packet = packets[i];
+            const lastPacket = i === packets.length - 1;
+            this._writer.write(packet).then(()=>{
+                if (lastPacket) (0, _globalsNodeJs.nextTick)(()=>{
+                    this.writable = true;
+                    this.emitReserved("drain");
+                }, this.setTimeoutFn);
+            });
+        }
+    }
+    doClose() {
+        var _a;
+        (_a = this._transport) === null || _a === void 0 || _a.close();
+    }
+}
+
+},{"../transport.js":"9tBQf","../globals.node.js":"6Aw5d","engine.io-parser":"kVTy2","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"5Y2kK":[function(require,module,exports,__globalThis) {
+// imported from https://github.com/galkn/parseuri
+/**
+ * Parses a URI
+ *
+ * Note: we could also have used the built-in URL object, but it isn't supported on all platforms.
+ *
+ * See:
+ * - https://developer.mozilla.org/en-US/docs/Web/API/URL
+ * - https://caniuse.com/url
+ * - https://www.rfc-editor.org/rfc/rfc3986#appendix-B
+ *
+ * History of the parse() method:
+ * - first commit: https://github.com/socketio/socket.io-client/commit/4ee1d5d94b3906a9c052b459f1a818b15f38f91c
+ * - export into its own module: https://github.com/socketio/engine.io-client/commit/de2c561e4564efeb78f1bdb1ba39ef81b2822cb3
+ * - reimport: https://github.com/socketio/engine.io-client/commit/df32277c3f6d622eec5ed09f493cae3f3391d242
+ *
+ * @author Steven Levithan <stevenlevithan.com> (MIT license)
+ * @api private
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "parse", ()=>parse);
+const re = /^(?:(?![^:@\/?#]+:[^:@\/]*@)(http|https|ws|wss):\/\/)?((?:(([^:@\/?#]*)(?::([^:@\/?#]*))?)?@)?((?:[a-f0-9]{0,4}:){2,7}[a-f0-9]{0,4}|[^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/;
+const parts = [
+    'source',
+    'protocol',
+    'authority',
+    'userInfo',
+    'user',
+    'password',
+    'host',
+    'port',
+    'relative',
+    'path',
+    'directory',
+    'file',
+    'query',
+    'anchor'
+];
+function parse(str) {
+    if (str.length > 8000) throw "URI too long";
+    const src = str, b = str.indexOf('['), e = str.indexOf(']');
+    if (b != -1 && e != -1) str = str.substring(0, b) + str.substring(b, e).replace(/:/g, ';') + str.substring(e, str.length);
+    let m = re.exec(str || ''), uri = {}, i = 14;
+    while(i--)uri[parts[i]] = m[i] || '';
+    if (b != -1 && e != -1) {
+        uri.source = src;
+        uri.host = uri.host.substring(1, uri.host.length - 1).replace(/;/g, ':');
+        uri.authority = uri.authority.replace('[', '').replace(']', '').replace(/;/g, ':');
+        uri.ipv6uri = true;
+    }
+    uri.pathNames = pathNames(uri, uri['path']);
+    uri.queryKey = queryKey(uri, uri['query']);
+    return uri;
+}
+function pathNames(obj, path) {
+    const regx = /\/{2,9}/g, names = path.replace(regx, "/").split("/");
+    if (path.slice(0, 1) == '/' || path.length === 0) names.splice(0, 1);
+    if (path.slice(-1) == '/') names.splice(names.length - 1, 1);
+    return names;
+}
+function queryKey(uri, query) {
+    const data = {};
+    query.replace(/(?:^|&)([^&=]*)=?([^&]*)/g, function($0, $1, $2) {
+        if ($1) data[$1] = $2;
+    });
+    return data;
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"3mA2E":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * HTTP long-polling based on the built-in `fetch()` method.
+ *
+ * Usage: browser, Node.js (since v18), Deno, Bun
+ *
+ * @see https://developer.mozilla.org/en-US/docs/Web/API/fetch
+ * @see https://caniuse.com/fetch
+ * @see https://nodejs.org/api/globals.html#fetch
+ */ parcelHelpers.export(exports, "Fetch", ()=>Fetch);
+var _pollingJs = require("./polling.js");
+class Fetch extends (0, _pollingJs.Polling) {
+    doPoll() {
+        this._fetch().then((res)=>{
+            if (!res.ok) return this.onError("fetch read error", res.status, res);
+            res.text().then((data)=>this.onData(data));
+        }).catch((err)=>{
+            this.onError("fetch read error", err);
+        });
+    }
+    doWrite(data, callback) {
+        this._fetch(data).then((res)=>{
+            if (!res.ok) return this.onError("fetch write error", res.status, res);
+            callback();
+        }).catch((err)=>{
+            this.onError("fetch write error", err);
+        });
+    }
+    _fetch(data) {
+        var _a;
+        const isPost = data !== undefined;
+        const headers = new Headers(this.opts.extraHeaders);
+        if (isPost) headers.set("content-type", "text/plain;charset=UTF-8");
+        (_a = this.socket._cookieJar) === null || _a === void 0 || _a.appendCookies(headers);
+        return fetch(this.uri(), {
+            method: isPost ? "POST" : "GET",
+            body: isPost ? data : null,
+            headers,
+            credentials: this.opts.withCredentials ? "include" : "omit"
+        }).then((res)=>{
+            var _a;
+            // @ts-ignore getSetCookie() was added in Node.js v19.7.0
+            (_a = this.socket._cookieJar) === null || _a === void 0 || _a.parseCookies(res.headers.getSetCookie());
+            return res;
+        });
+    }
+}
+
+},{"./polling.js":"ePbRc","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9SqfW":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Manager", ()=>Manager);
+var _engineIoClient = require("engine.io-client");
+var _socketJs = require("./socket.js");
+var _socketIoParser = require("socket.io-parser");
+var _onJs = require("./on.js");
+var _backo2Js = require("./contrib/backo2.js");
+var _componentEmitter = require("@socket.io/component-emitter");
+class Manager extends (0, _componentEmitter.Emitter) {
+    constructor(uri, opts){
+        var _a;
+        super();
+        this.nsps = {};
+        this.subs = [];
+        if (uri && "object" === typeof uri) {
+            opts = uri;
+            uri = undefined;
+        }
+        opts = opts || {};
+        opts.path = opts.path || "/socket.io";
+        this.opts = opts;
+        (0, _engineIoClient.installTimerFunctions)(this, opts);
+        this.reconnection(opts.reconnection !== false);
+        this.reconnectionAttempts(opts.reconnectionAttempts || Infinity);
+        this.reconnectionDelay(opts.reconnectionDelay || 1000);
+        this.reconnectionDelayMax(opts.reconnectionDelayMax || 5000);
+        this.randomizationFactor((_a = opts.randomizationFactor) !== null && _a !== void 0 ? _a : 0.5);
+        this.backoff = new (0, _backo2Js.Backoff)({
+            min: this.reconnectionDelay(),
+            max: this.reconnectionDelayMax(),
+            jitter: this.randomizationFactor()
+        });
+        this.timeout(null == opts.timeout ? 20000 : opts.timeout);
+        this._readyState = "closed";
+        this.uri = uri;
+        const _parser = opts.parser || _socketIoParser;
+        this.encoder = new _parser.Encoder();
+        this.decoder = new _parser.Decoder();
+        this._autoConnect = opts.autoConnect !== false;
+        if (this._autoConnect) this.open();
+    }
+    reconnection(v) {
+        if (!arguments.length) return this._reconnection;
+        this._reconnection = !!v;
+        if (!v) this.skipReconnect = true;
+        return this;
+    }
+    reconnectionAttempts(v) {
+        if (v === undefined) return this._reconnectionAttempts;
+        this._reconnectionAttempts = v;
+        return this;
+    }
+    reconnectionDelay(v) {
+        var _a;
+        if (v === undefined) return this._reconnectionDelay;
+        this._reconnectionDelay = v;
+        (_a = this.backoff) === null || _a === void 0 || _a.setMin(v);
+        return this;
+    }
+    randomizationFactor(v) {
+        var _a;
+        if (v === undefined) return this._randomizationFactor;
+        this._randomizationFactor = v;
+        (_a = this.backoff) === null || _a === void 0 || _a.setJitter(v);
+        return this;
+    }
+    reconnectionDelayMax(v) {
+        var _a;
+        if (v === undefined) return this._reconnectionDelayMax;
+        this._reconnectionDelayMax = v;
+        (_a = this.backoff) === null || _a === void 0 || _a.setMax(v);
+        return this;
+    }
+    timeout(v) {
+        if (!arguments.length) return this._timeout;
+        this._timeout = v;
+        return this;
+    }
+    /**
+     * Starts trying to reconnect if reconnection is enabled and we have not
+     * started reconnecting yet
+     *
+     * @private
+     */ maybeReconnectOnOpen() {
+        // Only try to reconnect if it's the first time we're connecting
+        if (!this._reconnecting && this._reconnection && this.backoff.attempts === 0) // keeps reconnection from firing twice for the same reconnection loop
+        this.reconnect();
+    }
+    /**
+     * Sets the current transport `socket`.
+     *
+     * @param {Function} fn - optional, callback
+     * @return self
+     * @public
+     */ open(fn) {
+        if (~this._readyState.indexOf("open")) return this;
+        this.engine = new (0, _engineIoClient.Socket)(this.uri, this.opts);
+        const socket = this.engine;
+        const self = this;
+        this._readyState = "opening";
+        this.skipReconnect = false;
+        // emit `open`
+        const openSubDestroy = (0, _onJs.on)(socket, "open", function() {
+            self.onopen();
+            fn && fn();
+        });
+        const onError = (err)=>{
+            this.cleanup();
+            this._readyState = "closed";
+            this.emitReserved("error", err);
+            if (fn) fn(err);
+            else // Only do this if there is no fn to handle the error
+            this.maybeReconnectOnOpen();
+        };
+        // emit `error`
+        const errorSub = (0, _onJs.on)(socket, "error", onError);
+        if (false !== this._timeout) {
+            const timeout = this._timeout;
+            // set timer
+            const timer = this.setTimeoutFn(()=>{
+                openSubDestroy();
+                onError(new Error("timeout"));
+                socket.close();
+            }, timeout);
+            if (this.opts.autoUnref) timer.unref();
+            this.subs.push(()=>{
+                this.clearTimeoutFn(timer);
+            });
+        }
+        this.subs.push(openSubDestroy);
+        this.subs.push(errorSub);
+        return this;
+    }
+    /**
+     * Alias for open()
+     *
+     * @return self
+     * @public
+     */ connect(fn) {
+        return this.open(fn);
+    }
+    /**
+     * Called upon transport open.
+     *
+     * @private
+     */ onopen() {
+        // clear old subs
+        this.cleanup();
+        // mark as open
+        this._readyState = "open";
+        this.emitReserved("open");
+        // add new subs
+        const socket = this.engine;
+        this.subs.push((0, _onJs.on)(socket, "ping", this.onping.bind(this)), (0, _onJs.on)(socket, "data", this.ondata.bind(this)), (0, _onJs.on)(socket, "error", this.onerror.bind(this)), (0, _onJs.on)(socket, "close", this.onclose.bind(this)), // @ts-ignore
+        (0, _onJs.on)(this.decoder, "decoded", this.ondecoded.bind(this)));
+    }
+    /**
+     * Called upon a ping.
+     *
+     * @private
+     */ onping() {
+        this.emitReserved("ping");
+    }
+    /**
+     * Called with data.
+     *
+     * @private
+     */ ondata(data) {
+        try {
+            this.decoder.add(data);
+        } catch (e) {
+            this.onclose("parse error", e);
+        }
+    }
+    /**
+     * Called when parser fully decodes a packet.
+     *
+     * @private
+     */ ondecoded(packet) {
+        // the nextTick call prevents an exception in a user-provided event listener from triggering a disconnection due to a "parse error"
+        (0, _engineIoClient.nextTick)(()=>{
+            this.emitReserved("packet", packet);
+        }, this.setTimeoutFn);
+    }
+    /**
+     * Called upon socket error.
+     *
+     * @private
+     */ onerror(err) {
+        this.emitReserved("error", err);
+    }
+    /**
+     * Creates a new socket for the given `nsp`.
+     *
+     * @return {Socket}
+     * @public
+     */ socket(nsp, opts) {
+        let socket = this.nsps[nsp];
+        if (!socket) {
+            socket = new (0, _socketJs.Socket)(this, nsp, opts);
+            this.nsps[nsp] = socket;
+        } else if (this._autoConnect && !socket.active) socket.connect();
+        return socket;
+    }
+    /**
+     * Called upon a socket close.
+     *
+     * @param socket
+     * @private
+     */ _destroy(socket) {
+        const nsps = Object.keys(this.nsps);
+        for (const nsp of nsps){
+            const socket = this.nsps[nsp];
+            if (socket.active) return;
+        }
+        this._close();
+    }
+    /**
+     * Writes a packet.
+     *
+     * @param packet
+     * @private
+     */ _packet(packet) {
+        const encodedPackets = this.encoder.encode(packet);
+        for(let i = 0; i < encodedPackets.length; i++)this.engine.write(encodedPackets[i], packet.options);
+    }
+    /**
+     * Clean up transport subscriptions and packet buffer.
+     *
+     * @private
+     */ cleanup() {
+        this.subs.forEach((subDestroy)=>subDestroy());
+        this.subs.length = 0;
+        this.decoder.destroy();
+    }
+    /**
+     * Close the current socket.
+     *
+     * @private
+     */ _close() {
+        this.skipReconnect = true;
+        this._reconnecting = false;
+        this.onclose("forced close");
+    }
+    /**
+     * Alias for close()
+     *
+     * @private
+     */ disconnect() {
+        return this._close();
+    }
+    /**
+     * Called when:
+     *
+     * - the low-level engine is closed
+     * - the parser encountered a badly formatted packet
+     * - all sockets are disconnected
+     *
+     * @private
+     */ onclose(reason, description) {
+        var _a;
+        this.cleanup();
+        (_a = this.engine) === null || _a === void 0 || _a.close();
+        this.backoff.reset();
+        this._readyState = "closed";
+        this.emitReserved("close", reason, description);
+        if (this._reconnection && !this.skipReconnect) this.reconnect();
+    }
+    /**
+     * Attempt a reconnection.
+     *
+     * @private
+     */ reconnect() {
+        if (this._reconnecting || this.skipReconnect) return this;
+        const self = this;
+        if (this.backoff.attempts >= this._reconnectionAttempts) {
+            this.backoff.reset();
+            this.emitReserved("reconnect_failed");
+            this._reconnecting = false;
+        } else {
+            const delay = this.backoff.duration();
+            this._reconnecting = true;
+            const timer = this.setTimeoutFn(()=>{
+                if (self.skipReconnect) return;
+                this.emitReserved("reconnect_attempt", self.backoff.attempts);
+                // check again for the case socket closed in above events
+                if (self.skipReconnect) return;
+                self.open((err)=>{
+                    if (err) {
+                        self._reconnecting = false;
+                        self.reconnect();
+                        this.emitReserved("reconnect_error", err);
+                    } else self.onreconnect();
+                });
+            }, delay);
+            if (this.opts.autoUnref) timer.unref();
+            this.subs.push(()=>{
+                this.clearTimeoutFn(timer);
+            });
+        }
+    }
+    /**
+     * Called upon successful reconnect.
+     *
+     * @private
+     */ onreconnect() {
+        const attempt = this.backoff.attempts;
+        this._reconnecting = false;
+        this.backoff.reset();
+        this.emitReserved("reconnect", attempt);
+    }
+}
+
+},{"engine.io-client":"g33FB","./socket.js":"5p2b8","socket.io-parser":"374iO","./on.js":"8KEhl","./contrib/backo2.js":"4h5CX","@socket.io/component-emitter":"9MXWi","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"5p2b8":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * A Socket is the fundamental class for interacting with the server.
+ *
+ * A Socket belongs to a certain Namespace (by default /) and uses an underlying {@link Manager} to communicate.
+ *
+ * @example
+ * const socket = io();
+ *
+ * socket.on("connect", () => {
+ *   console.log("connected");
+ * });
+ *
+ * // send an event to the server
+ * socket.emit("foo", "bar");
+ *
+ * socket.on("foobar", () => {
+ *   // an event was received from the server
+ * });
+ *
+ * // upon disconnection
+ * socket.on("disconnect", (reason) => {
+ *   console.log(`disconnected due to ${reason}`);
+ * });
+ */ parcelHelpers.export(exports, "Socket", ()=>Socket);
+var _socketIoParser = require("socket.io-parser");
+var _onJs = require("./on.js");
+var _componentEmitter = require("@socket.io/component-emitter");
+/**
+ * Internal events.
+ * These events can't be emitted by the user.
+ */ const RESERVED_EVENTS = Object.freeze({
+    connect: 1,
+    connect_error: 1,
+    disconnect: 1,
+    disconnecting: 1,
+    // EventEmitter reserved events: https://nodejs.org/api/events.html#events_event_newlistener
+    newListener: 1,
+    removeListener: 1
+});
+class Socket extends (0, _componentEmitter.Emitter) {
+    /**
+     * `Socket` constructor.
+     */ constructor(io, nsp, opts){
+        super();
+        /**
+         * Whether the socket is currently connected to the server.
+         *
+         * @example
+         * const socket = io();
+         *
+         * socket.on("connect", () => {
+         *   console.log(socket.connected); // true
+         * });
+         *
+         * socket.on("disconnect", () => {
+         *   console.log(socket.connected); // false
+         * });
+         */ this.connected = false;
+        /**
+         * Whether the connection state was recovered after a temporary disconnection. In that case, any missed packets will
+         * be transmitted by the server.
+         */ this.recovered = false;
+        /**
+         * Buffer for packets received before the CONNECT packet
+         */ this.receiveBuffer = [];
+        /**
+         * Buffer for packets that will be sent once the socket is connected
+         */ this.sendBuffer = [];
+        /**
+         * The queue of packets to be sent with retry in case of failure.
+         *
+         * Packets are sent one by one, each waiting for the server acknowledgement, in order to guarantee the delivery order.
+         * @private
+         */ this._queue = [];
+        /**
+         * A sequence to generate the ID of the {@link QueuedPacket}.
+         * @private
+         */ this._queueSeq = 0;
+        this.ids = 0;
+        /**
+         * A map containing acknowledgement handlers.
+         *
+         * The `withError` attribute is used to differentiate handlers that accept an error as first argument:
+         *
+         * - `socket.emit("test", (err, value) => { ... })` with `ackTimeout` option
+         * - `socket.timeout(5000).emit("test", (err, value) => { ... })`
+         * - `const value = await socket.emitWithAck("test")`
+         *
+         * From those that don't:
+         *
+         * - `socket.emit("test", (value) => { ... });`
+         *
+         * In the first case, the handlers will be called with an error when:
+         *
+         * - the timeout is reached
+         * - the socket gets disconnected
+         *
+         * In the second case, the handlers will be simply discarded upon disconnection, since the client will never receive
+         * an acknowledgement from the server.
+         *
+         * @private
+         */ this.acks = {};
+        this.flags = {};
+        this.io = io;
+        this.nsp = nsp;
+        if (opts && opts.auth) this.auth = opts.auth;
+        this._opts = Object.assign({}, opts);
+        if (this.io._autoConnect) this.open();
+    }
+    /**
+     * Whether the socket is currently disconnected
+     *
+     * @example
+     * const socket = io();
+     *
+     * socket.on("connect", () => {
+     *   console.log(socket.disconnected); // false
+     * });
+     *
+     * socket.on("disconnect", () => {
+     *   console.log(socket.disconnected); // true
+     * });
+     */ get disconnected() {
+        return !this.connected;
+    }
+    /**
+     * Subscribe to open, close and packet events
+     *
+     * @private
+     */ subEvents() {
+        if (this.subs) return;
+        const io = this.io;
+        this.subs = [
+            (0, _onJs.on)(io, "open", this.onopen.bind(this)),
+            (0, _onJs.on)(io, "packet", this.onpacket.bind(this)),
+            (0, _onJs.on)(io, "error", this.onerror.bind(this)),
+            (0, _onJs.on)(io, "close", this.onclose.bind(this))
+        ];
+    }
+    /**
+     * Whether the Socket will try to reconnect when its Manager connects or reconnects.
+     *
+     * @example
+     * const socket = io();
+     *
+     * console.log(socket.active); // true
+     *
+     * socket.on("disconnect", (reason) => {
+     *   if (reason === "io server disconnect") {
+     *     // the disconnection was initiated by the server, you need to manually reconnect
+     *     console.log(socket.active); // false
+     *   }
+     *   // else the socket will automatically try to reconnect
+     *   console.log(socket.active); // true
+     * });
+     */ get active() {
+        return !!this.subs;
+    }
+    /**
+     * "Opens" the socket.
+     *
+     * @example
+     * const socket = io({
+     *   autoConnect: false
+     * });
+     *
+     * socket.connect();
+     */ connect() {
+        if (this.connected) return this;
+        this.subEvents();
+        if (!this.io["_reconnecting"]) this.io.open(); // ensure open
+        if ("open" === this.io._readyState) this.onopen();
+        return this;
+    }
+    /**
+     * Alias for {@link connect()}.
+     */ open() {
+        return this.connect();
+    }
+    /**
+     * Sends a `message` event.
+     *
+     * This method mimics the WebSocket.send() method.
+     *
+     * @see https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/send
+     *
+     * @example
+     * socket.send("hello");
+     *
+     * // this is equivalent to
+     * socket.emit("message", "hello");
+     *
+     * @return self
+     */ send(...args) {
+        args.unshift("message");
+        this.emit.apply(this, args);
+        return this;
+    }
+    /**
+     * Override `emit`.
+     * If the event is in `events`, it's emitted normally.
+     *
+     * @example
+     * socket.emit("hello", "world");
+     *
+     * // all serializable datastructures are supported (no need to call JSON.stringify)
+     * socket.emit("hello", 1, "2", { 3: ["4"], 5: Uint8Array.from([6]) });
+     *
+     * // with an acknowledgement from the server
+     * socket.emit("hello", "world", (val) => {
+     *   // ...
+     * });
+     *
+     * @return self
+     */ emit(ev, ...args) {
+        var _a, _b, _c;
+        if (RESERVED_EVENTS.hasOwnProperty(ev)) throw new Error('"' + ev.toString() + '" is a reserved event name');
+        args.unshift(ev);
+        if (this._opts.retries && !this.flags.fromQueue && !this.flags.volatile) {
+            this._addToQueue(args);
+            return this;
+        }
+        const packet = {
+            type: (0, _socketIoParser.PacketType).EVENT,
+            data: args
+        };
+        packet.options = {};
+        packet.options.compress = this.flags.compress !== false;
+        // event ack callback
+        if ("function" === typeof args[args.length - 1]) {
+            const id = this.ids++;
+            const ack = args.pop();
+            this._registerAckCallback(id, ack);
+            packet.id = id;
+        }
+        const isTransportWritable = (_b = (_a = this.io.engine) === null || _a === void 0 ? void 0 : _a.transport) === null || _b === void 0 ? void 0 : _b.writable;
+        const isConnected = this.connected && !((_c = this.io.engine) === null || _c === void 0 ? void 0 : _c._hasPingExpired());
+        const discardPacket = this.flags.volatile && !isTransportWritable;
+        if (discardPacket) ;
+        else if (isConnected) {
+            this.notifyOutgoingListeners(packet);
+            this.packet(packet);
+        } else this.sendBuffer.push(packet);
+        this.flags = {};
+        return this;
+    }
+    /**
+     * @private
+     */ _registerAckCallback(id, ack) {
+        var _a;
+        const timeout = (_a = this.flags.timeout) !== null && _a !== void 0 ? _a : this._opts.ackTimeout;
+        if (timeout === undefined) {
+            this.acks[id] = ack;
+            return;
+        }
+        // @ts-ignore
+        const timer = this.io.setTimeoutFn(()=>{
+            delete this.acks[id];
+            for(let i = 0; i < this.sendBuffer.length; i++)if (this.sendBuffer[i].id === id) this.sendBuffer.splice(i, 1);
+            ack.call(this, new Error("operation has timed out"));
+        }, timeout);
+        const fn = (...args)=>{
+            // @ts-ignore
+            this.io.clearTimeoutFn(timer);
+            ack.apply(this, args);
+        };
+        fn.withError = true;
+        this.acks[id] = fn;
+    }
+    /**
+     * Emits an event and waits for an acknowledgement
+     *
+     * @example
+     * // without timeout
+     * const response = await socket.emitWithAck("hello", "world");
+     *
+     * // with a specific timeout
+     * try {
+     *   const response = await socket.timeout(1000).emitWithAck("hello", "world");
+     * } catch (err) {
+     *   // the server did not acknowledge the event in the given delay
+     * }
+     *
+     * @return a Promise that will be fulfilled when the server acknowledges the event
+     */ emitWithAck(ev, ...args) {
+        return new Promise((resolve, reject)=>{
+            const fn = (arg1, arg2)=>{
+                return arg1 ? reject(arg1) : resolve(arg2);
+            };
+            fn.withError = true;
+            args.push(fn);
+            this.emit(ev, ...args);
+        });
+    }
+    /**
+     * Add the packet to the queue.
+     * @param args
+     * @private
+     */ _addToQueue(args) {
+        let ack;
+        if (typeof args[args.length - 1] === "function") ack = args.pop();
+        const packet = {
+            id: this._queueSeq++,
+            tryCount: 0,
+            pending: false,
+            args,
+            flags: Object.assign({
+                fromQueue: true
+            }, this.flags)
+        };
+        args.push((err, ...responseArgs)=>{
+            this._queue[0];
+            const hasError = err !== null;
+            if (hasError) {
+                if (packet.tryCount > this._opts.retries) {
+                    this._queue.shift();
+                    if (ack) ack(err);
+                }
+            } else {
+                this._queue.shift();
+                if (ack) ack(null, ...responseArgs);
+            }
+            packet.pending = false;
+            return this._drainQueue();
+        });
+        this._queue.push(packet);
+        this._drainQueue();
+    }
+    /**
+     * Send the first packet of the queue, and wait for an acknowledgement from the server.
+     * @param force - whether to resend a packet that has not been acknowledged yet
+     *
+     * @private
+     */ _drainQueue(force = false) {
+        if (!this.connected || this._queue.length === 0) return;
+        const packet = this._queue[0];
+        if (packet.pending && !force) return;
+        packet.pending = true;
+        packet.tryCount++;
+        this.flags = packet.flags;
+        this.emit.apply(this, packet.args);
+    }
+    /**
+     * Sends a packet.
+     *
+     * @param packet
+     * @private
+     */ packet(packet) {
+        packet.nsp = this.nsp;
+        this.io._packet(packet);
+    }
+    /**
+     * Called upon engine `open`.
+     *
+     * @private
+     */ onopen() {
+        if (typeof this.auth == "function") this.auth((data)=>{
+            this._sendConnectPacket(data);
+        });
+        else this._sendConnectPacket(this.auth);
+    }
+    /**
+     * Sends a CONNECT packet to initiate the Socket.IO session.
+     *
+     * @param data
+     * @private
+     */ _sendConnectPacket(data) {
+        this.packet({
+            type: (0, _socketIoParser.PacketType).CONNECT,
+            data: this._pid ? Object.assign({
+                pid: this._pid,
+                offset: this._lastOffset
+            }, data) : data
+        });
+    }
+    /**
+     * Called upon engine or manager `error`.
+     *
+     * @param err
+     * @private
+     */ onerror(err) {
+        if (!this.connected) this.emitReserved("connect_error", err);
+    }
+    /**
+     * Called upon engine `close`.
+     *
+     * @param reason
+     * @param description
+     * @private
+     */ onclose(reason, description) {
+        this.connected = false;
+        delete this.id;
+        this.emitReserved("disconnect", reason, description);
+        this._clearAcks();
+    }
+    /**
+     * Clears the acknowledgement handlers upon disconnection, since the client will never receive an acknowledgement from
+     * the server.
+     *
+     * @private
+     */ _clearAcks() {
+        Object.keys(this.acks).forEach((id)=>{
+            const isBuffered = this.sendBuffer.some((packet)=>String(packet.id) === id);
+            if (!isBuffered) {
+                // note: handlers that do not accept an error as first argument are ignored here
+                const ack = this.acks[id];
+                delete this.acks[id];
+                if (ack.withError) ack.call(this, new Error("socket has been disconnected"));
+            }
+        });
+    }
+    /**
+     * Called with socket packet.
+     *
+     * @param packet
+     * @private
+     */ onpacket(packet) {
+        const sameNamespace = packet.nsp === this.nsp;
+        if (!sameNamespace) return;
+        switch(packet.type){
+            case (0, _socketIoParser.PacketType).CONNECT:
+                if (packet.data && packet.data.sid) this.onconnect(packet.data.sid, packet.data.pid);
+                else this.emitReserved("connect_error", new Error("It seems you are trying to reach a Socket.IO server in v2.x with a v3.x client, but they are not compatible (more information here: https://socket.io/docs/v3/migrating-from-2-x-to-3-0/)"));
+                break;
+            case (0, _socketIoParser.PacketType).EVENT:
+            case (0, _socketIoParser.PacketType).BINARY_EVENT:
+                this.onevent(packet);
+                break;
+            case (0, _socketIoParser.PacketType).ACK:
+            case (0, _socketIoParser.PacketType).BINARY_ACK:
+                this.onack(packet);
+                break;
+            case (0, _socketIoParser.PacketType).DISCONNECT:
+                this.ondisconnect();
+                break;
+            case (0, _socketIoParser.PacketType).CONNECT_ERROR:
+                this.destroy();
+                const err = new Error(packet.data.message);
+                // @ts-ignore
+                err.data = packet.data.data;
+                this.emitReserved("connect_error", err);
+                break;
+        }
+    }
+    /**
+     * Called upon a server event.
+     *
+     * @param packet
+     * @private
+     */ onevent(packet) {
+        const args = packet.data || [];
+        if (null != packet.id) args.push(this.ack(packet.id));
+        if (this.connected) this.emitEvent(args);
+        else this.receiveBuffer.push(Object.freeze(args));
+    }
+    emitEvent(args) {
+        if (this._anyListeners && this._anyListeners.length) {
+            const listeners = this._anyListeners.slice();
+            for (const listener of listeners)listener.apply(this, args);
+        }
+        super.emit.apply(this, args);
+        if (this._pid && args.length && typeof args[args.length - 1] === "string") this._lastOffset = args[args.length - 1];
+    }
+    /**
+     * Produces an ack callback to emit with an event.
+     *
+     * @private
+     */ ack(id) {
+        const self = this;
+        let sent = false;
+        return function(...args) {
+            // prevent double callbacks
+            if (sent) return;
+            sent = true;
+            self.packet({
+                type: (0, _socketIoParser.PacketType).ACK,
+                id: id,
+                data: args
+            });
+        };
+    }
+    /**
+     * Called upon a server acknowledgement.
+     *
+     * @param packet
+     * @private
+     */ onack(packet) {
+        const ack = this.acks[packet.id];
+        if (typeof ack !== "function") return;
+        delete this.acks[packet.id];
+        // @ts-ignore FIXME ack is incorrectly inferred as 'never'
+        if (ack.withError) packet.data.unshift(null);
+        // @ts-ignore
+        ack.apply(this, packet.data);
+    }
+    /**
+     * Called upon server connect.
+     *
+     * @private
+     */ onconnect(id, pid) {
+        this.id = id;
+        this.recovered = pid && this._pid === pid;
+        this._pid = pid; // defined only if connection state recovery is enabled
+        this.connected = true;
+        this.emitBuffered();
+        this._drainQueue(true);
+        this.emitReserved("connect");
+    }
+    /**
+     * Emit buffered events (received and emitted).
+     *
+     * @private
+     */ emitBuffered() {
+        this.receiveBuffer.forEach((args)=>this.emitEvent(args));
+        this.receiveBuffer = [];
+        this.sendBuffer.forEach((packet)=>{
+            this.notifyOutgoingListeners(packet);
+            this.packet(packet);
+        });
+        this.sendBuffer = [];
+    }
+    /**
+     * Called upon server disconnect.
+     *
+     * @private
+     */ ondisconnect() {
+        this.destroy();
+        this.onclose("io server disconnect");
+    }
+    /**
+     * Called upon forced client/server side disconnections,
+     * this method ensures the manager stops tracking us and
+     * that reconnections don't get triggered for this.
+     *
+     * @private
+     */ destroy() {
+        if (this.subs) {
+            // clean subscriptions to avoid reconnections
+            this.subs.forEach((subDestroy)=>subDestroy());
+            this.subs = undefined;
+        }
+        this.io["_destroy"](this);
+    }
+    /**
+     * Disconnects the socket manually. In that case, the socket will not try to reconnect.
+     *
+     * If this is the last active Socket instance of the {@link Manager}, the low-level connection will be closed.
+     *
+     * @example
+     * const socket = io();
+     *
+     * socket.on("disconnect", (reason) => {
+     *   // console.log(reason); prints "io client disconnect"
+     * });
+     *
+     * socket.disconnect();
+     *
+     * @return self
+     */ disconnect() {
+        if (this.connected) this.packet({
+            type: (0, _socketIoParser.PacketType).DISCONNECT
+        });
+        // remove socket from pool
+        this.destroy();
+        if (this.connected) // fire events
+        this.onclose("io client disconnect");
+        return this;
+    }
+    /**
+     * Alias for {@link disconnect()}.
+     *
+     * @return self
+     */ close() {
+        return this.disconnect();
+    }
+    /**
+     * Sets the compress flag.
+     *
+     * @example
+     * socket.compress(false).emit("hello");
+     *
+     * @param compress - if `true`, compresses the sending data
+     * @return self
+     */ compress(compress) {
+        this.flags.compress = compress;
+        return this;
+    }
+    /**
+     * Sets a modifier for a subsequent event emission that the event message will be dropped when this socket is not
+     * ready to send messages.
+     *
+     * @example
+     * socket.volatile.emit("hello"); // the server may or may not receive it
+     *
+     * @returns self
+     */ get volatile() {
+        this.flags.volatile = true;
+        return this;
+    }
+    /**
+     * Sets a modifier for a subsequent event emission that the callback will be called with an error when the
+     * given number of milliseconds have elapsed without an acknowledgement from the server:
+     *
+     * @example
+     * socket.timeout(5000).emit("my-event", (err) => {
+     *   if (err) {
+     *     // the server did not acknowledge the event in the given delay
+     *   }
+     * });
+     *
+     * @returns self
+     */ timeout(timeout) {
+        this.flags.timeout = timeout;
+        return this;
+    }
+    /**
+     * Adds a listener that will be fired when any event is emitted. The event name is passed as the first argument to the
+     * callback.
+     *
+     * @example
+     * socket.onAny((event, ...args) => {
+     *   console.log(`got ${event}`);
+     * });
+     *
+     * @param listener
+     */ onAny(listener) {
+        this._anyListeners = this._anyListeners || [];
+        this._anyListeners.push(listener);
+        return this;
+    }
+    /**
+     * Adds a listener that will be fired when any event is emitted. The event name is passed as the first argument to the
+     * callback. The listener is added to the beginning of the listeners array.
+     *
+     * @example
+     * socket.prependAny((event, ...args) => {
+     *   console.log(`got event ${event}`);
+     * });
+     *
+     * @param listener
+     */ prependAny(listener) {
+        this._anyListeners = this._anyListeners || [];
+        this._anyListeners.unshift(listener);
+        return this;
+    }
+    /**
+     * Removes the listener that will be fired when any event is emitted.
+     *
+     * @example
+     * const catchAllListener = (event, ...args) => {
+     *   console.log(`got event ${event}`);
+     * }
+     *
+     * socket.onAny(catchAllListener);
+     *
+     * // remove a specific listener
+     * socket.offAny(catchAllListener);
+     *
+     * // or remove all listeners
+     * socket.offAny();
+     *
+     * @param listener
+     */ offAny(listener) {
+        if (!this._anyListeners) return this;
+        if (listener) {
+            const listeners = this._anyListeners;
+            for(let i = 0; i < listeners.length; i++)if (listener === listeners[i]) {
+                listeners.splice(i, 1);
+                return this;
+            }
+        } else this._anyListeners = [];
+        return this;
+    }
+    /**
+     * Returns an array of listeners that are listening for any event that is specified. This array can be manipulated,
+     * e.g. to remove listeners.
+     */ listenersAny() {
+        return this._anyListeners || [];
+    }
+    /**
+     * Adds a listener that will be fired when any event is emitted. The event name is passed as the first argument to the
+     * callback.
+     *
+     * Note: acknowledgements sent to the server are not included.
+     *
+     * @example
+     * socket.onAnyOutgoing((event, ...args) => {
+     *   console.log(`sent event ${event}`);
+     * });
+     *
+     * @param listener
+     */ onAnyOutgoing(listener) {
+        this._anyOutgoingListeners = this._anyOutgoingListeners || [];
+        this._anyOutgoingListeners.push(listener);
+        return this;
+    }
+    /**
+     * Adds a listener that will be fired when any event is emitted. The event name is passed as the first argument to the
+     * callback. The listener is added to the beginning of the listeners array.
+     *
+     * Note: acknowledgements sent to the server are not included.
+     *
+     * @example
+     * socket.prependAnyOutgoing((event, ...args) => {
+     *   console.log(`sent event ${event}`);
+     * });
+     *
+     * @param listener
+     */ prependAnyOutgoing(listener) {
+        this._anyOutgoingListeners = this._anyOutgoingListeners || [];
+        this._anyOutgoingListeners.unshift(listener);
+        return this;
+    }
+    /**
+     * Removes the listener that will be fired when any event is emitted.
+     *
+     * @example
+     * const catchAllListener = (event, ...args) => {
+     *   console.log(`sent event ${event}`);
+     * }
+     *
+     * socket.onAnyOutgoing(catchAllListener);
+     *
+     * // remove a specific listener
+     * socket.offAnyOutgoing(catchAllListener);
+     *
+     * // or remove all listeners
+     * socket.offAnyOutgoing();
+     *
+     * @param [listener] - the catch-all listener (optional)
+     */ offAnyOutgoing(listener) {
+        if (!this._anyOutgoingListeners) return this;
+        if (listener) {
+            const listeners = this._anyOutgoingListeners;
+            for(let i = 0; i < listeners.length; i++)if (listener === listeners[i]) {
+                listeners.splice(i, 1);
+                return this;
+            }
+        } else this._anyOutgoingListeners = [];
+        return this;
+    }
+    /**
+     * Returns an array of listeners that are listening for any event that is specified. This array can be manipulated,
+     * e.g. to remove listeners.
+     */ listenersAnyOutgoing() {
+        return this._anyOutgoingListeners || [];
+    }
+    /**
+     * Notify the listeners for each packet sent
+     *
+     * @param packet
+     *
+     * @private
+     */ notifyOutgoingListeners(packet) {
+        if (this._anyOutgoingListeners && this._anyOutgoingListeners.length) {
+            const listeners = this._anyOutgoingListeners.slice();
+            for (const listener of listeners)listener.apply(this, packet.data);
+        }
+    }
+}
+
+},{"socket.io-parser":"374iO","./on.js":"8KEhl","@socket.io/component-emitter":"9MXWi","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"374iO":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "protocol", ()=>protocol);
+parcelHelpers.export(exports, "PacketType", ()=>PacketType);
+/**
+ * A socket.io Encoder instance
+ */ parcelHelpers.export(exports, "Encoder", ()=>Encoder);
+/**
+ * A socket.io Decoder instance
+ *
+ * @return {Object} decoder
+ */ parcelHelpers.export(exports, "Decoder", ()=>Decoder);
+parcelHelpers.export(exports, "isPacketValid", ()=>isPacketValid);
+var _componentEmitter = require("@socket.io/component-emitter");
+var _binaryJs = require("./binary.js");
+var _isBinaryJs = require("./is-binary.js");
+/**
+ * These strings must not be used as event names, as they have a special meaning.
+ */ const RESERVED_EVENTS = [
+    "connect",
+    "connect_error",
+    "disconnect",
+    "disconnecting",
+    "newListener",
+    "removeListener"
+];
+const protocol = 5;
+var PacketType;
+(function(PacketType) {
+    PacketType[PacketType["CONNECT"] = 0] = "CONNECT";
+    PacketType[PacketType["DISCONNECT"] = 1] = "DISCONNECT";
+    PacketType[PacketType["EVENT"] = 2] = "EVENT";
+    PacketType[PacketType["ACK"] = 3] = "ACK";
+    PacketType[PacketType["CONNECT_ERROR"] = 4] = "CONNECT_ERROR";
+    PacketType[PacketType["BINARY_EVENT"] = 5] = "BINARY_EVENT";
+    PacketType[PacketType["BINARY_ACK"] = 6] = "BINARY_ACK";
+})(PacketType || (PacketType = {}));
+class Encoder {
+    /**
+     * Encoder constructor
+     *
+     * @param {function} replacer - custom replacer to pass down to JSON.parse
+     */ constructor(replacer){
+        this.replacer = replacer;
+    }
+    /**
+     * Encode a packet as a single string if non-binary, or as a
+     * buffer sequence, depending on packet type.
+     *
+     * @param {Object} obj - packet object
+     */ encode(obj) {
+        if (obj.type === PacketType.EVENT || obj.type === PacketType.ACK) {
+            if ((0, _isBinaryJs.hasBinary)(obj)) return this.encodeAsBinary({
+                type: obj.type === PacketType.EVENT ? PacketType.BINARY_EVENT : PacketType.BINARY_ACK,
+                nsp: obj.nsp,
+                data: obj.data,
+                id: obj.id
+            });
+        }
+        return [
+            this.encodeAsString(obj)
+        ];
+    }
+    /**
+     * Encode packet as string.
+     */ encodeAsString(obj) {
+        // first is type
+        let str = "" + obj.type;
+        // attachments if we have them
+        if (obj.type === PacketType.BINARY_EVENT || obj.type === PacketType.BINARY_ACK) str += obj.attachments + "-";
+        // if we have a namespace other than `/`
+        // we append it followed by a comma `,`
+        if (obj.nsp && "/" !== obj.nsp) str += obj.nsp + ",";
+        // immediately followed by the id
+        if (null != obj.id) str += obj.id;
+        // json data
+        if (null != obj.data) str += JSON.stringify(obj.data, this.replacer);
+        return str;
+    }
+    /**
+     * Encode packet as 'buffer sequence' by removing blobs, and
+     * deconstructing packet into object with placeholders and
+     * a list of buffers.
+     */ encodeAsBinary(obj) {
+        const deconstruction = (0, _binaryJs.deconstructPacket)(obj);
+        const pack = this.encodeAsString(deconstruction.packet);
+        const buffers = deconstruction.buffers;
+        buffers.unshift(pack); // add packet info to beginning of data list
+        return buffers; // write all the buffers
+    }
+}
+class Decoder extends (0, _componentEmitter.Emitter) {
+    /**
+     * Decoder constructor
+     */ constructor(opts){
+        super();
+        this.opts = Object.assign({
+            reviver: undefined,
+            maxAttachments: 10
+        }, typeof opts === "function" ? {
+            reviver: opts
+        } : opts);
+    }
+    /**
+     * Decodes an encoded packet string into packet JSON.
+     *
+     * @param {String} obj - encoded packet
+     */ add(obj) {
+        let packet;
+        if (typeof obj === "string") {
+            if (this.reconstructor) throw new Error("got plaintext data when reconstructing a packet");
+            packet = this.decodeString(obj);
+            const isBinaryEvent = packet.type === PacketType.BINARY_EVENT;
+            if (isBinaryEvent || packet.type === PacketType.BINARY_ACK) {
+                packet.type = isBinaryEvent ? PacketType.EVENT : PacketType.ACK;
+                // binary packet's json
+                this.reconstructor = new BinaryReconstructor(packet);
+                // no attachments, labeled binary but no binary data to follow
+                if (packet.attachments === 0) super.emitReserved("decoded", packet);
+            } else // non-binary full packet
+            super.emitReserved("decoded", packet);
+        } else if ((0, _isBinaryJs.isBinary)(obj) || obj.base64) {
+            // raw binary data
+            if (!this.reconstructor) throw new Error("got binary data when not reconstructing a packet");
+            else {
+                packet = this.reconstructor.takeBinaryData(obj);
+                if (packet) {
+                    // received final buffer
+                    this.reconstructor = null;
+                    super.emitReserved("decoded", packet);
+                }
+            }
+        } else throw new Error("Unknown type: " + obj);
+    }
+    /**
+     * Decode a packet String (JSON data)
+     *
+     * @param {String} str
+     * @return {Object} packet
+     */ decodeString(str) {
+        let i = 0;
+        // look up type
+        const p = {
+            type: Number(str.charAt(0))
+        };
+        if (PacketType[p.type] === undefined) throw new Error("unknown packet type " + p.type);
+        // look up attachments if type binary
+        if (p.type === PacketType.BINARY_EVENT || p.type === PacketType.BINARY_ACK) {
+            const start = i + 1;
+            while(str.charAt(++i) !== "-" && i != str.length);
+            const buf = str.substring(start, i);
+            if (buf != Number(buf) || str.charAt(i) !== "-") throw new Error("Illegal attachments");
+            const n = Number(buf);
+            if (!isInteger(n) || n < 0) throw new Error("Illegal attachments");
+            else if (n > this.opts.maxAttachments) throw new Error("too many attachments");
+            p.attachments = n;
+        }
+        // look up namespace (if any)
+        if ("/" === str.charAt(i + 1)) {
+            const start = i + 1;
+            while(++i){
+                const c = str.charAt(i);
+                if ("," === c) break;
+                if (i === str.length) break;
+            }
+            p.nsp = str.substring(start, i);
+        } else p.nsp = "/";
+        // look up id
+        const next = str.charAt(i + 1);
+        if ("" !== next && Number(next) == next) {
+            const start = i + 1;
+            while(++i){
+                const c = str.charAt(i);
+                if (null == c || Number(c) != c) {
+                    --i;
+                    break;
+                }
+                if (i === str.length) break;
+            }
+            p.id = Number(str.substring(start, i + 1));
+        }
+        // look up json data
+        if (str.charAt(++i)) {
+            const payload = this.tryParse(str.substr(i));
+            if (Decoder.isPayloadValid(p.type, payload)) p.data = payload;
+            else throw new Error("invalid payload");
+        }
+        return p;
+    }
+    tryParse(str) {
+        try {
+            return JSON.parse(str, this.opts.reviver);
+        } catch (e) {
+            return false;
+        }
+    }
+    static isPayloadValid(type, payload) {
+        switch(type){
+            case PacketType.CONNECT:
+                return isObject(payload);
+            case PacketType.DISCONNECT:
+                return payload === undefined;
+            case PacketType.CONNECT_ERROR:
+                return typeof payload === "string" || isObject(payload);
+            case PacketType.EVENT:
+            case PacketType.BINARY_EVENT:
+                return Array.isArray(payload) && (typeof payload[0] === "number" || typeof payload[0] === "string" && RESERVED_EVENTS.indexOf(payload[0]) === -1);
+            case PacketType.ACK:
+            case PacketType.BINARY_ACK:
+                return Array.isArray(payload);
+        }
+    }
+    /**
+     * Deallocates a parser's resources
+     */ destroy() {
+        if (this.reconstructor) {
+            this.reconstructor.finishedReconstruction();
+            this.reconstructor = null;
+        }
+    }
+}
+/**
+ * A manager of a binary event's 'buffer sequence'. Should
+ * be constructed whenever a packet of type BINARY_EVENT is
+ * decoded.
+ *
+ * @param {Object} packet
+ * @return {BinaryReconstructor} initialized reconstructor
+ */ class BinaryReconstructor {
+    constructor(packet){
+        this.packet = packet;
+        this.buffers = [];
+        this.reconPack = packet;
+    }
+    /**
+     * Method to be called when binary data received from connection
+     * after a BINARY_EVENT packet.
+     *
+     * @param {Buffer | ArrayBuffer} binData - the raw binary data received
+     * @return {null | Object} returns null if more binary data is expected or
+     *   a reconstructed packet object if all buffers have been received.
+     */ takeBinaryData(binData) {
+        this.buffers.push(binData);
+        if (this.buffers.length === this.reconPack.attachments) {
+            // done with buffer list
+            const packet = (0, _binaryJs.reconstructPacket)(this.reconPack, this.buffers);
+            this.finishedReconstruction();
+            return packet;
+        }
+        return null;
+    }
+    /**
+     * Cleans up binary packet reconstruction variables.
+     */ finishedReconstruction() {
+        this.reconPack = null;
+        this.buffers = [];
+    }
+}
+function isNamespaceValid(nsp) {
+    return typeof nsp === "string";
+}
+// see https://caniuse.com/mdn-javascript_builtins_number_isinteger
+const isInteger = Number.isInteger || function(value) {
+    return typeof value === "number" && isFinite(value) && Math.floor(value) === value;
+};
+function isAckIdValid(id) {
+    return id === undefined || isInteger(id);
+}
+// see https://stackoverflow.com/questions/8511281/check-if-a-value-is-an-object-in-javascript
+function isObject(value) {
+    return Object.prototype.toString.call(value) === "[object Object]";
+}
+function isDataValid(type, payload) {
+    switch(type){
+        case PacketType.CONNECT:
+            return payload === undefined || isObject(payload);
+        case PacketType.DISCONNECT:
+            return payload === undefined;
+        case PacketType.EVENT:
+            return Array.isArray(payload) && (typeof payload[0] === "number" || typeof payload[0] === "string" && RESERVED_EVENTS.indexOf(payload[0]) === -1);
+        case PacketType.ACK:
+            return Array.isArray(payload);
+        case PacketType.CONNECT_ERROR:
+            return typeof payload === "string" || isObject(payload);
+        default:
+            return false;
+    }
+}
+function isPacketValid(packet) {
+    return isNamespaceValid(packet.nsp) && isAckIdValid(packet.id) && isDataValid(packet.type, packet.data);
+}
+
+},{"@socket.io/component-emitter":"9MXWi","./binary.js":"5Ac0P","./is-binary.js":"2QViU","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"5Ac0P":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * Replaces every Buffer | ArrayBuffer | Blob | File in packet with a numbered placeholder.
+ *
+ * @param {Object} packet - socket.io event packet
+ * @return {Object} with deconstructed packet and list of buffers
+ * @public
+ */ parcelHelpers.export(exports, "deconstructPacket", ()=>deconstructPacket);
+/**
+ * Reconstructs a binary packet from its placeholder packet and buffers
+ *
+ * @param {Object} packet - event packet with placeholders
+ * @param {Array} buffers - binary buffers to put in placeholder positions
+ * @return {Object} reconstructed packet
+ * @public
+ */ parcelHelpers.export(exports, "reconstructPacket", ()=>reconstructPacket);
+var _isBinaryJs = require("./is-binary.js");
+function deconstructPacket(packet) {
+    const buffers = [];
+    const packetData = packet.data;
+    const pack = packet;
+    pack.data = _deconstructPacket(packetData, buffers);
+    pack.attachments = buffers.length; // number of binary 'attachments'
+    return {
+        packet: pack,
+        buffers: buffers
+    };
+}
+function _deconstructPacket(data, buffers) {
+    if (!data) return data;
+    if ((0, _isBinaryJs.isBinary)(data)) {
+        const placeholder = {
+            _placeholder: true,
+            num: buffers.length
+        };
+        buffers.push(data);
+        return placeholder;
+    } else if (Array.isArray(data)) {
+        const newData = new Array(data.length);
+        for(let i = 0; i < data.length; i++)newData[i] = _deconstructPacket(data[i], buffers);
+        return newData;
+    } else if (typeof data === "object" && !(data instanceof Date)) {
+        const newData = {};
+        for(const key in data)if (Object.prototype.hasOwnProperty.call(data, key)) newData[key] = _deconstructPacket(data[key], buffers);
+        return newData;
+    }
+    return data;
+}
+function reconstructPacket(packet, buffers) {
+    packet.data = _reconstructPacket(packet.data, buffers);
+    delete packet.attachments; // no longer useful
+    return packet;
+}
+function _reconstructPacket(data, buffers) {
+    if (!data) return data;
+    if (data && data._placeholder === true) {
+        const isIndexValid = typeof data.num === "number" && data.num >= 0 && data.num < buffers.length;
+        if (isIndexValid) return buffers[data.num]; // appropriate buffer (should be natural order anyway)
+        else throw new Error("illegal attachments");
+    } else if (Array.isArray(data)) for(let i = 0; i < data.length; i++)data[i] = _reconstructPacket(data[i], buffers);
+    else if (typeof data === "object") {
+        for(const key in data)if (Object.prototype.hasOwnProperty.call(data, key)) data[key] = _reconstructPacket(data[key], buffers);
+    }
+    return data;
+}
+
+},{"./is-binary.js":"2QViU","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"2QViU":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+/**
+ * Returns true if obj is a Buffer, an ArrayBuffer, a Blob or a File.
+ *
+ * @private
+ */ parcelHelpers.export(exports, "isBinary", ()=>isBinary);
+parcelHelpers.export(exports, "hasBinary", ()=>hasBinary);
+const withNativeArrayBuffer = typeof ArrayBuffer === "function";
+const isView = (obj)=>{
+    return typeof ArrayBuffer.isView === "function" ? ArrayBuffer.isView(obj) : obj.buffer instanceof ArrayBuffer;
+};
+const toString = Object.prototype.toString;
+const withNativeBlob = typeof Blob === "function" || typeof Blob !== "undefined" && toString.call(Blob) === "[object BlobConstructor]";
+const withNativeFile = typeof File === "function" || typeof File !== "undefined" && toString.call(File) === "[object FileConstructor]";
+function isBinary(obj) {
+    return withNativeArrayBuffer && (obj instanceof ArrayBuffer || isView(obj)) || withNativeBlob && obj instanceof Blob || withNativeFile && obj instanceof File;
+}
+function hasBinary(obj, toJSON) {
+    if (!obj || typeof obj !== "object") return false;
+    if (Array.isArray(obj)) {
+        for(let i = 0, l = obj.length; i < l; i++){
+            if (hasBinary(obj[i])) return true;
+        }
+        return false;
+    }
+    if (isBinary(obj)) return true;
+    if (obj.toJSON && typeof obj.toJSON === "function" && arguments.length === 1) return hasBinary(obj.toJSON(), true);
+    for(const key in obj){
+        if (Object.prototype.hasOwnProperty.call(obj, key) && hasBinary(obj[key])) return true;
+    }
+    return false;
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"8KEhl":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "on", ()=>on);
+function on(obj, ev, fn) {
+    obj.on(ev, fn);
+    return function subDestroy() {
+        obj.off(ev, fn);
+    };
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"4h5CX":[function(require,module,exports,__globalThis) {
+/**
+ * Initialize backoff timer with `opts`.
+ *
+ * - `min` initial timeout in milliseconds [100]
+ * - `max` max timeout [10000]
+ * - `jitter` [0]
+ * - `factor` [2]
+ *
+ * @param {Object} opts
+ * @api public
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Backoff", ()=>Backoff);
+function Backoff(opts) {
+    opts = opts || {};
+    this.ms = opts.min || 100;
+    this.max = opts.max || 10000;
+    this.factor = opts.factor || 2;
+    this.jitter = opts.jitter > 0 && opts.jitter <= 1 ? opts.jitter : 0;
+    this.attempts = 0;
+}
+/**
+ * Return the backoff duration.
+ *
+ * @return {Number}
+ * @api public
+ */ Backoff.prototype.duration = function() {
+    var ms = this.ms * Math.pow(this.factor, this.attempts++);
+    if (this.jitter) {
+        var rand = Math.random();
+        var deviation = Math.floor(rand * this.jitter * ms);
+        ms = (Math.floor(rand * 10) & 1) == 0 ? ms - deviation : ms + deviation;
+    }
+    return Math.min(ms, this.max) | 0;
+};
+/**
+ * Reset the number of attempts.
+ *
+ * @api public
+ */ Backoff.prototype.reset = function() {
+    this.attempts = 0;
+};
+/**
+ * Set the minimum duration
+ *
+ * @api public
+ */ Backoff.prototype.setMin = function(min) {
+    this.ms = min;
+};
+/**
+ * Set the maximum duration
+ *
+ * @api public
+ */ Backoff.prototype.setMax = function(max) {
+    this.max = max;
+};
+/**
+ * Set the jitter
+ *
+ * @api public
+ */ Backoff.prototype.setJitter = function(jitter) {
+    this.jitter = jitter;
+};
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"krHPK":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$4211 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$4211.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -45459,6 +50283,8 @@ var _cropCard = require("../components/CropCard");
 var _cropCardDefault = parcelHelpers.interopDefault(_cropCard);
 var _api = require("../utils/api");
 var _lucideReact = require("lucide-react");
+var _chatWidget = require("../components/ChatWidget");
+var _chatWidgetDefault = parcelHelpers.interopDefault(_chatWidget);
 var _s = $RefreshSig$();
 function BuyerDashboard() {
     _s();
@@ -45466,6 +50292,11 @@ function BuyerDashboard() {
     const [crops, setCrops] = (0, _react.useState)([]);
     const [orders, setOrders] = (0, _react.useState)([]);
     const [loading, setLoading] = (0, _react.useState)(true);
+    const [currentUser, setCurrentUser] = (0, _react.useState)(null);
+    // Chat UI states
+    const [isChatOpen, setIsChatOpen] = (0, _react.useState)(false);
+    const [chatPartnerId, setChatPartnerId] = (0, _react.useState)(null);
+    const [chatOrderId, setChatOrderId] = (0, _react.useState)(null);
     // Search & Filter states
     const [search, setSearch] = (0, _react.useState)('');
     const [category, setCategory] = (0, _react.useState)('All');
@@ -45521,6 +50352,31 @@ function BuyerDashboard() {
     }, [
         activeTab
     ]);
+    (0, _react.useEffect)(()=>{
+        const fetchMe = async ()=>{
+            try {
+                const res = await (0, _api.getMe)();
+                if (res.data?.success) setCurrentUser(res.data.user);
+            } catch (err) {
+                console.error('Failed to get current user:', err);
+            }
+        };
+        fetchMe();
+    }, []);
+    const openChatWithFarmer = async (farmerId, orderId)=>{
+        try {
+            await (0, _api.getOrCreateConversation)({
+                partnerId: farmerId,
+                orderId
+            });
+            setChatPartnerId(farmerId);
+            setChatOrderId(orderId);
+            setIsChatOpen(true);
+        } catch (err) {
+            console.error('Failed to open chat', err);
+            alert('Could not start chat right now.');
+        }
+    };
     // Sync cart to localStorage
     (0, _react.useEffect)(()=>{
         localStorage.setItem('cart', JSON.stringify(cart));
@@ -45653,7 +50509,7 @@ function BuyerDashboard() {
                 cartCount: cartCount
             }, void 0, false, {
                 fileName: "src/pages/BuyerDashboard.js",
-                lineNumber: 230,
+                lineNumber: 265,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45669,14 +50525,14 @@ function BuyerDashboard() {
                                         className: "h-8 w-8 text-amber-500 mr-2"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 236,
+                                        lineNumber: 271,
                                         columnNumber: 13
                                     }, this),
                                     "Procurement Lead Marketplace"
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 235,
+                                lineNumber: 270,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45684,13 +50540,13 @@ function BuyerDashboard() {
                                 children: "Source fresh staples directly from Punjabi and Gujarati farmers"
                             }, void 0, false, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 239,
+                                lineNumber: 274,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/BuyerDashboard.js",
-                        lineNumber: 234,
+                        lineNumber: 269,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45704,20 +50560,20 @@ function BuyerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 248,
+                                        lineNumber: 283,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: "Marketplace Sourcing"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 249,
+                                        lineNumber: 284,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 244,
+                                lineNumber: 279,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45728,7 +50584,7 @@ function BuyerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 255,
+                                        lineNumber: 290,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -45739,13 +50595,13 @@ function BuyerDashboard() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 256,
+                                        lineNumber: 291,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 251,
+                                lineNumber: 286,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45756,26 +50612,50 @@ function BuyerDashboard() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 262,
+                                        lineNumber: 297,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         children: "My Orders & Invoices"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 263,
+                                        lineNumber: 298,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 258,
+                                lineNumber: 293,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                onClick: ()=>setIsChatOpen(true),
+                                className: "py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                        className: "h-4 w-4"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/BuyerDashboard.js",
+                                        lineNumber: 304,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                        children: "Messages"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/BuyerDashboard.js",
+                                        lineNumber: 305,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/pages/BuyerDashboard.js",
+                                lineNumber: 300,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/BuyerDashboard.js",
-                        lineNumber: 243,
+                        lineNumber: 278,
                         columnNumber: 9
                     }, this),
                     activeTab === 'marketplace' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45791,7 +50671,7 @@ function BuyerDashboard() {
                                                 className: "absolute left-3.5 h-4 w-4 text-gray-400"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 273,
+                                                lineNumber: 315,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -45802,13 +50682,13 @@ function BuyerDashboard() {
                                                 className: "w-full p-2.5 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-xs font-semibold focus:ring-2 focus:ring-emerald-500"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 274,
+                                                lineNumber: 316,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 272,
+                                        lineNumber: 314,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45818,7 +50698,7 @@ function BuyerDashboard() {
                                                 className: "absolute left-3.5 h-4 w-4 text-gray-400"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 284,
+                                                lineNumber: 326,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -45829,13 +50709,13 @@ function BuyerDashboard() {
                                                 className: "w-full p-2.5 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-xs font-semibold focus:ring-2 focus:ring-emerald-500"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 285,
+                                                lineNumber: 327,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 283,
+                                        lineNumber: 325,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45853,18 +50733,18 @@ function BuyerDashboard() {
                                                 children: cat
                                             }, cat, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 296,
+                                                lineNumber: 338,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 294,
+                                        lineNumber: 336,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 271,
+                                lineNumber: 313,
                                 columnNumber: 13
                             }, this),
                             loading ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45874,7 +50754,7 @@ function BuyerDashboard() {
                                         className: "animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-emerald-800 mx-auto"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 310,
+                                        lineNumber: 352,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45882,28 +50762,29 @@ function BuyerDashboard() {
                                         children: "Updating crop inventories..."
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 311,
+                                        lineNumber: 353,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 309,
+                                lineNumber: 351,
                                 columnNumber: 15
                             }, this) : crops.length > 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                 className: "grid grid-cols-1 md:grid-cols-3 gap-8",
                                 children: crops.map((crop)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _cropCardDefault.default), {
                                         crop: crop,
                                         viewMode: "buyer",
-                                        onAddToCart: handleAddToCart
+                                        onAddToCart: handleAddToCart,
+                                        onChatWithFarmer: openChatWithFarmer
                                     }, crop._id, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 316,
+                                        lineNumber: 358,
                                         columnNumber: 19
                                     }, this))
                             }, void 0, false, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 314,
+                                lineNumber: 356,
                                 columnNumber: 15
                             }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                 className: "bg-white p-12 text-center rounded-3xl border border-gray-150 max-w-md mx-auto",
@@ -45913,7 +50794,7 @@ function BuyerDashboard() {
                                         children: "No crops match criteria"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 326,
+                                        lineNumber: 369,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45921,19 +50802,19 @@ function BuyerDashboard() {
                                         children: "Try adjusting your filters or search keywords."
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 327,
+                                        lineNumber: 370,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 325,
+                                lineNumber: 368,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/BuyerDashboard.js",
-                        lineNumber: 269,
+                        lineNumber: 311,
                         columnNumber: 11
                     }, this),
                     activeTab === 'cart' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45949,14 +50830,14 @@ function BuyerDashboard() {
                                                 className: "h-5 w-5 mr-1 text-emerald-700"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 338,
+                                                lineNumber: 381,
                                                 columnNumber: 17
                                             }, this),
                                             "Shopping Bag Details"
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 337,
+                                        lineNumber: 380,
                                         columnNumber: 15
                                     }, this),
                                     cart.length > 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45973,7 +50854,7 @@ function BuyerDashboard() {
                                                                 className: "h-16 w-20 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 347,
+                                                                lineNumber: 390,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45983,7 +50864,7 @@ function BuyerDashboard() {
                                                                         children: item.crop.name
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 353,
+                                                                        lineNumber: 396,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45991,7 +50872,7 @@ function BuyerDashboard() {
                                                                         children: item.crop.category
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 354,
+                                                                        lineNumber: 397,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46003,19 +50884,19 @@ function BuyerDashboard() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 355,
+                                                                        lineNumber: 398,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 352,
+                                                                lineNumber: 395,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 346,
+                                                        lineNumber: 389,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46029,7 +50910,7 @@ function BuyerDashboard() {
                                                                         children: "Qty:"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 361,
+                                                                        lineNumber: 404,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -46041,7 +50922,7 @@ function BuyerDashboard() {
                                                                         className: "w-12 text-center text-xs font-bold bg-transparent outline-none"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 362,
+                                                                        lineNumber: 405,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46049,13 +50930,13 @@ function BuyerDashboard() {
                                                                         children: "kg"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 370,
+                                                                        lineNumber: 413,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 360,
+                                                                lineNumber: 403,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46068,7 +50949,7 @@ function BuyerDashboard() {
                                                                                 children: "Subtotal"
                                                                             }, void 0, false, {
                                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                                lineNumber: 375,
+                                                                                lineNumber: 418,
                                                                                 columnNumber: 29
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46079,13 +50960,13 @@ function BuyerDashboard() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                                lineNumber: 376,
+                                                                                lineNumber: 419,
                                                                                 columnNumber: 29
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 374,
+                                                                        lineNumber: 417,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -46094,30 +50975,30 @@ function BuyerDashboard() {
                                                                         children: "Remove"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 378,
+                                                                        lineNumber: 421,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 373,
+                                                                lineNumber: 416,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 359,
+                                                        lineNumber: 402,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, item.crop._id, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 345,
+                                                lineNumber: 388,
                                                 columnNumber: 21
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 343,
+                                        lineNumber: 386,
                                         columnNumber: 17
                                     }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                         className: "text-center py-10",
@@ -46127,7 +51008,7 @@ function BuyerDashboard() {
                                                 children: "Your bag is empty."
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 391,
+                                                lineNumber: 434,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -46136,19 +51017,19 @@ function BuyerDashboard() {
                                                 children: "Go back to Marketplace"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 392,
+                                                lineNumber: 435,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 390,
+                                        lineNumber: 433,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 336,
+                                lineNumber: 379,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46159,7 +51040,7 @@ function BuyerDashboard() {
                                         children: "Purchase Checkout"
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 404,
+                                        lineNumber: 447,
                                         columnNumber: 15
                                     }, this),
                                     checkoutError && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46167,7 +51048,7 @@ function BuyerDashboard() {
                                         children: checkoutError
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 407,
+                                        lineNumber: 450,
                                         columnNumber: 17
                                     }, this),
                                     checkoutSuccess && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46175,7 +51056,7 @@ function BuyerDashboard() {
                                         children: checkoutSuccess
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 412,
+                                        lineNumber: 455,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46188,7 +51069,7 @@ function BuyerDashboard() {
                                                         children: "Gross Sourced Volume"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 419,
+                                                        lineNumber: 462,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46198,13 +51079,13 @@ function BuyerDashboard() {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 420,
+                                                        lineNumber: 463,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 418,
+                                                lineNumber: 461,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46214,7 +51095,7 @@ function BuyerDashboard() {
                                                         children: "Logistics Transport"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 423,
+                                                        lineNumber: 466,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46222,13 +51103,13 @@ function BuyerDashboard() {
                                                         children: "Simulated FREE"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 424,
+                                                        lineNumber: 467,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 422,
+                                                lineNumber: 465,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46238,7 +51119,7 @@ function BuyerDashboard() {
                                                         children: "Invoice Total"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 427,
+                                                        lineNumber: 470,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46249,19 +51130,19 @@ function BuyerDashboard() {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 428,
+                                                        lineNumber: 471,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 426,
+                                                lineNumber: 469,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 417,
+                                        lineNumber: 460,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
@@ -46275,7 +51156,7 @@ function BuyerDashboard() {
                                                         children: "Delivery Shipping Address *"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 434,
+                                                        lineNumber: 477,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("textarea", {
@@ -46287,13 +51168,13 @@ function BuyerDashboard() {
                                                         required: true
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 435,
+                                                        lineNumber: 478,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 433,
+                                                lineNumber: 476,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46303,7 +51184,7 @@ function BuyerDashboard() {
                                                         children: "Payment Protocol"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 446,
+                                                        lineNumber: 489,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -46313,13 +51194,13 @@ function BuyerDashboard() {
                                                         className: "w-full p-3 border border-gray-200 rounded-xl bg-gray-100 outline-none text-xs font-bold text-gray-500"
                                                     }, void 0, false, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 447,
+                                                        lineNumber: 490,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 445,
+                                                lineNumber: 488,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -46332,14 +51213,14 @@ function BuyerDashboard() {
                                                             className: "h-5 w-5 animate-spin mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 462,
+                                                            lineNumber: 505,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                                             children: "Transacting Orders..."
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 463,
+                                                            lineNumber: 506,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
@@ -46347,30 +51228,30 @@ function BuyerDashboard() {
                                                     children: "Submit Orders"
                                                 }, void 0, false, {
                                                     fileName: "src/pages/BuyerDashboard.js",
-                                                    lineNumber: 466,
+                                                    lineNumber: 509,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 455,
+                                                lineNumber: 498,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 432,
+                                        lineNumber: 475,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 403,
+                                lineNumber: 446,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/BuyerDashboard.js",
-                        lineNumber: 334,
+                        lineNumber: 377,
                         columnNumber: 11
                     }, this),
                     activeTab === 'history' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46388,14 +51269,14 @@ function BuyerDashboard() {
                                                     className: "h-5 w-5 text-red-500 mr-2"
                                                 }, void 0, false, {
                                                     fileName: "src/pages/BuyerDashboard.js",
-                                                    lineNumber: 481,
+                                                    lineNumber: 524,
                                                     columnNumber: 21
                                                 }, this),
                                                 "Escalate Dispute Ticket"
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/pages/BuyerDashboard.js",
-                                            lineNumber: 480,
+                                            lineNumber: 523,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46409,7 +51290,7 @@ function BuyerDashboard() {
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/pages/BuyerDashboard.js",
-                                            lineNumber: 484,
+                                            lineNumber: 527,
                                             columnNumber: 19
                                         }, this),
                                         disputeSuccess ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46417,7 +51298,7 @@ function BuyerDashboard() {
                                             children: "Dispute ticket recorded! Platform Admin will mediate."
                                         }, void 0, false, {
                                             fileName: "src/pages/BuyerDashboard.js",
-                                            lineNumber: 489,
+                                            lineNumber: 532,
                                             columnNumber: 21
                                         }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
                                             onSubmit: handleFileDispute,
@@ -46430,7 +51311,7 @@ function BuyerDashboard() {
                                                             children: "Dispute Category / Reason *"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 495,
+                                                            lineNumber: 538,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -46442,13 +51323,13 @@ function BuyerDashboard() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 496,
+                                                            lineNumber: 539,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/pages/BuyerDashboard.js",
-                                                    lineNumber: 494,
+                                                    lineNumber: 537,
                                                     columnNumber: 23
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46458,7 +51339,7 @@ function BuyerDashboard() {
                                                             children: "Problem Description *"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 507,
+                                                            lineNumber: 550,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("textarea", {
@@ -46470,13 +51351,13 @@ function BuyerDashboard() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 508,
+                                                            lineNumber: 551,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/pages/BuyerDashboard.js",
-                                                    lineNumber: 506,
+                                                    lineNumber: 549,
                                                     columnNumber: 23
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46490,12 +51371,12 @@ function BuyerDashboard() {
                                                                 className: "h-4 w-4 animate-spin"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 524,
+                                                                lineNumber: 567,
                                                                 columnNumber: 48
                                                             }, this) : 'Log Dispute'
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 519,
+                                                            lineNumber: 562,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -46505,30 +51386,30 @@ function BuyerDashboard() {
                                                             children: "Close"
                                                         }, void 0, false, {
                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                            lineNumber: 526,
+                                                            lineNumber: 569,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/pages/BuyerDashboard.js",
-                                                    lineNumber: 518,
+                                                    lineNumber: 561,
                                                     columnNumber: 23
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/pages/BuyerDashboard.js",
-                                            lineNumber: 493,
+                                            lineNumber: 536,
                                             columnNumber: 21
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/BuyerDashboard.js",
-                                    lineNumber: 479,
+                                    lineNumber: 522,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 478,
+                                lineNumber: 521,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46541,14 +51422,14 @@ function BuyerDashboard() {
                                                 className: "h-5 w-5 mr-1 text-emerald-700"
                                             }, void 0, false, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 543,
+                                                lineNumber: 586,
                                                 columnNumber: 17
                                             }, this),
                                             "Procurement Orders Log"
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 542,
+                                        lineNumber: 585,
                                         columnNumber: 15
                                     }, this),
                                     orders.length > 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46568,7 +51449,7 @@ function BuyerDashboard() {
                                                                         children: "Order ID:"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 557,
+                                                                        lineNumber: 600,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     " #",
@@ -46578,7 +51459,7 @@ function BuyerDashboard() {
                                                                         children: "\u2022"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 558,
+                                                                        lineNumber: 601,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46586,7 +51467,7 @@ function BuyerDashboard() {
                                                                         children: "Farmer:"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 559,
+                                                                        lineNumber: 602,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     " ",
@@ -46597,7 +51478,7 @@ function BuyerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 556,
+                                                                lineNumber: 599,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46607,7 +51488,7 @@ function BuyerDashboard() {
                                                                         children: "Placement Date:"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 562,
+                                                                        lineNumber: 605,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     " ",
@@ -46615,13 +51496,13 @@ function BuyerDashboard() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 561,
+                                                                lineNumber: 604,
                                                                 columnNumber: 27
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 555,
+                                                        lineNumber: 598,
                                                         columnNumber: 25
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46636,7 +51517,7 @@ function BuyerDashboard() {
                                                                         className: "h-14 w-16 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 569,
+                                                                        lineNumber: 612,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46646,7 +51527,7 @@ function BuyerDashboard() {
                                                                                 children: order.crop?.name || 'Deleted Harvest'
                                                                             }, void 0, false, {
                                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                                lineNumber: 575,
+                                                                                lineNumber: 618,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46654,7 +51535,7 @@ function BuyerDashboard() {
                                                                                 children: order.crop?.category
                                                                             }, void 0, false, {
                                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                                lineNumber: 576,
+                                                                                lineNumber: 619,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46669,25 +51550,25 @@ function BuyerDashboard() {
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                                        lineNumber: 577,
+                                                                                        lineNumber: 620,
                                                                                         columnNumber: 102
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                                lineNumber: 577,
+                                                                                lineNumber: 620,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 574,
+                                                                        lineNumber: 617,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 568,
+                                                                lineNumber: 611,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46698,7 +51579,7 @@ function BuyerDashboard() {
                                                                         children: "Transaction Net"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 582,
+                                                                        lineNumber: 625,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -46709,19 +51590,19 @@ function BuyerDashboard() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 583,
+                                                                        lineNumber: 626,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 581,
+                                                                lineNumber: 624,
                                                                 columnNumber: 27
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 567,
+                                                        lineNumber: 610,
                                                         columnNumber: 25
                                                     }, this),
                                                     activeStep >= 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46735,7 +51616,7 @@ function BuyerDashboard() {
                                                                         children: "Placed"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 591,
+                                                                        lineNumber: 634,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46743,7 +51624,7 @@ function BuyerDashboard() {
                                                                         children: "Approved"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 592,
+                                                                        lineNumber: 635,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46751,7 +51632,7 @@ function BuyerDashboard() {
                                                                         children: "Shipped"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 593,
+                                                                        lineNumber: 636,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -46759,13 +51640,13 @@ function BuyerDashboard() {
                                                                         children: "Delivered"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 594,
+                                                                        lineNumber: 637,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 590,
+                                                                lineNumber: 633,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46775,14 +51656,14 @@ function BuyerDashboard() {
                                                                         className: "absolute left-0 right-0 h-1 bg-gray-200 z-0"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 599,
+                                                                        lineNumber: 642,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                                         className: `absolute left-0 h-1 z-0 transition-all duration-700 ${activeStep === 0 ? 'bg-amber-400 w-0' : activeStep === 1 ? 'bg-blue-400 w-1/3' : activeStep === 2 ? 'bg-purple-500 w-2/3' : 'bg-emerald-600 w-full'}`
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 600,
+                                                                        lineNumber: 643,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     [
@@ -46794,19 +51675,19 @@ function BuyerDashboard() {
                                                                             className: `h-4 w-4 rounded-full border-2 z-10 flex items-center justify-center transition-all ${activeStep >= step ? step === 0 ? 'bg-amber-500 border-amber-600' : step === 1 ? 'bg-blue-500 border-blue-600' : step === 2 ? 'bg-purple-500 border-purple-600' : 'bg-emerald-600 border-emerald-700' : 'bg-white border-gray-300'}`
                                                                         }, step, false, {
                                                                             fileName: "src/pages/BuyerDashboard.js",
-                                                                            lineNumber: 611,
+                                                                            lineNumber: 654,
                                                                             columnNumber: 33
                                                                         }, this))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 598,
+                                                                lineNumber: 641,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 589,
+                                                        lineNumber: 632,
                                                         columnNumber: 27
                                                     }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                         className: "bg-red-50 text-red-700 text-xs font-extrabold p-3 rounded-xl flex items-center space-x-1.5",
@@ -46815,32 +51696,56 @@ function BuyerDashboard() {
                                                                 className: "h-4 w-4"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 627,
+                                                                lineNumber: 670,
                                                                 columnNumber: 29
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                                                 children: "This order has been CANCELLED and resolved in database."
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 628,
+                                                                lineNumber: 671,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 626,
+                                                        lineNumber: 669,
                                                         columnNumber: 27
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                         className: "flex justify-end items-center space-x-2 pt-2",
                                                         children: [
+                                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                                                onClick: ()=>openChatWithFarmer(order.farmer._id, order._id),
+                                                                className: "text-xs font-bold text-emerald-700 hover:text-white px-3 py-1.5 rounded-lg border border-emerald-200 hover:bg-emerald-600 transition-colors cursor-pointer flex items-center space-x-1 mr-auto",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _lucideReact.MessageCircle), {
+                                                                        className: "h-3.5 w-3.5"
+                                                                    }, void 0, false, {
+                                                                        fileName: "src/pages/BuyerDashboard.js",
+                                                                        lineNumber: 681,
+                                                                        columnNumber: 29
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                                        children: "Chat with Farmer"
+                                                                    }, void 0, false, {
+                                                                        fileName: "src/pages/BuyerDashboard.js",
+                                                                        lineNumber: 682,
+                                                                        columnNumber: 29
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "src/pages/BuyerDashboard.js",
+                                                                lineNumber: 677,
+                                                                columnNumber: 27
+                                                            }, this),
                                                             order.status === 'Pending' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                                                                 onClick: ()=>handleCancelOrder(order._id),
                                                                 className: "text-xs font-bold text-red-500 hover:text-white px-3 py-1.5 rounded-lg border border-red-200 hover:bg-red-600 transition-colors cursor-pointer",
                                                                 children: "Cancel Order"
                                                             }, void 0, false, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 635,
+                                                                lineNumber: 685,
                                                                 columnNumber: 29
                                                             }, this),
                                                             order.status === 'Delivered' && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -46851,38 +51756,38 @@ function BuyerDashboard() {
                                                                         className: "h-3.5 w-3.5"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 647,
+                                                                        lineNumber: 697,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                                                         children: "Escalate Dispute"
                                                                     }, void 0, false, {
                                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                                        lineNumber: 648,
+                                                                        lineNumber: 698,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                                lineNumber: 643,
+                                                                lineNumber: 693,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/pages/BuyerDashboard.js",
-                                                        lineNumber: 633,
+                                                        lineNumber: 676,
                                                         columnNumber: 25
                                                     }, this)
                                                 ]
                                             }, order._id, true, {
                                                 fileName: "src/pages/BuyerDashboard.js",
-                                                lineNumber: 553,
+                                                lineNumber: 596,
                                                 columnNumber: 23
                                             }, this);
                                         })
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 548,
+                                        lineNumber: 591,
                                         columnNumber: 17
                                     }, this) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                         className: "text-center py-10",
@@ -46891,45 +51796,60 @@ function BuyerDashboard() {
                                             children: "You haven't placed any harvest procurement orders yet."
                                         }, void 0, false, {
                                             fileName: "src/pages/BuyerDashboard.js",
-                                            lineNumber: 658,
+                                            lineNumber: 708,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "src/pages/BuyerDashboard.js",
-                                        lineNumber: 657,
+                                        lineNumber: 707,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/BuyerDashboard.js",
-                                lineNumber: 541,
+                                lineNumber: 584,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/BuyerDashboard.js",
-                        lineNumber: 475,
+                        lineNumber: 518,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/pages/BuyerDashboard.js",
-                lineNumber: 232,
+                lineNumber: 267,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {}, void 0, false, {
                 fileName: "src/pages/BuyerDashboard.js",
-                lineNumber: 666,
+                lineNumber: 716,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _chatWidgetDefault.default), {
+                isOpen: isChatOpen,
+                onClose: ()=>{
+                    setIsChatOpen(false);
+                    setChatPartnerId(null);
+                    setChatOrderId(null);
+                },
+                initialPartnerId: chatPartnerId,
+                initialOrderId: chatOrderId,
+                currentUser: currentUser
+            }, void 0, false, {
+                fileName: "src/pages/BuyerDashboard.js",
+                lineNumber: 718,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/pages/BuyerDashboard.js",
-        lineNumber: 229,
+        lineNumber: 264,
         columnNumber: 5
     }, this);
 }
-_s(BuyerDashboard, "i+CCMJhXmjjUpA3xOrDQtIYHG4k=");
+_s(BuyerDashboard, "AXvcvsnJW8f0wUl39r18JlBfKXM=");
 _c = BuyerDashboard;
 exports.default = BuyerDashboard;
 var _c;
@@ -46940,7 +51860,7 @@ $RefreshReg$(_c, "BuyerDashboard");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Navbar":"99RRu","../components/Footer":"lq1kZ","../components/CropCard":"gY2Kq","../utils/api":"a6eMi","lucide-react":"2I7qR","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"hLYT9":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Navbar":"99RRu","../components/Footer":"lq1kZ","../components/CropCard":"gY2Kq","../utils/api":"a6eMi","lucide-react":"2I7qR","../components/ChatWidget":"2h78i","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"hLYT9":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$9e50 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$9e50.init();
 var prevRefreshReg = globalThis.$RefreshReg$;

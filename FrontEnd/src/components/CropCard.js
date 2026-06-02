@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { MapPin, User, ShoppingCart, Edit, Trash2 } from 'lucide-react';
+import { MapPin, User, ShoppingCart, Edit, Trash2, MessageCircle } from 'lucide-react';
 
-function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
+function CropCard({ crop, onAddToCart, onEdit, onDelete, onChatWithFarmer, viewMode = 'buyer' }) {
   const [qty, setQty] = useState(1);
 
   const getImageUrl = (imagePath) => {
@@ -57,10 +57,20 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, viewMode = 'buyer' }) {
             <div className="bg-emerald-50 p-1.5 rounded-full text-emerald-700 flex items-center justify-center">
               <User className="h-4 w-4" />
             </div>
-            <div className="text-xs">
+            <div className="text-xs flex-grow">
               <p className="font-semibold text-emerald-900">{crop.farmer.name}</p>
               <p className="text-gray-400 font-medium">{crop.farmer.phone}</p>
             </div>
+            {viewMode === 'buyer' && onChatWithFarmer && (
+              <button 
+                onClick={() => onChatWithFarmer(crop.farmer._id, null)}
+                className="text-[10px] text-emerald-700 font-bold hover:bg-emerald-50 px-2 py-1.5 rounded-lg flex items-center space-x-1 border border-emerald-200 transition-colors shadow-sm ml-auto"
+                title="Message Farmer"
+              >
+                <MessageCircle className="h-3.5 w-3.5" />
+                <span>Chat</span>
+              </button>
+            )}
           </div>
         )}
 

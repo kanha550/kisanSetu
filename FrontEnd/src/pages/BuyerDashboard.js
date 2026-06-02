@@ -7,7 +7,9 @@ import {
   placeOrder,
   fetchBuyerOrders,
   updateOrderStatus,
-  submitReportDispute
+  submitReportDispute,
+  getOrCreateConversation,
+  getMe
 } from '../utils/api';
 import { 
   ShoppingBag, 
@@ -19,15 +21,24 @@ import {
   AlertCircle, 
   Truck, 
   Sparkles,
+  Sparkles,
   Flag,
-  Loader2
+  Loader2,
+  MessageCircle
 } from 'lucide-react';
+import ChatWidget from '../components/ChatWidget';
 
 function BuyerDashboard() {
   const [activeTab, setActiveTab] = useState('marketplace'); // 'marketplace' | 'cart' | 'history'
   const [crops, setCrops] = useState([]);
   const [orders, setOrders] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [currentUser, setCurrentUser] = useState(null);
+
+  // Chat UI states
+  const [isChatOpen, setIsChatOpen] = useState(false);
+  const [chatPartnerId, setChatPartnerId] = useState(null);
+  const [chatOrderId, setChatOrderId] = useState(null);
 
   // Search & Filter states
   const [search, setSearch] = useState('');
@@ -90,6 +101,30 @@ function BuyerDashboard() {
   useEffect(() => {
     loadOrders();
   }, [activeTab]);
+
+  useEffect(() => {
+    const fetchMe = async () => {
+      try {
+        const res = await getMe();
+        if (res.data?.success) setCurrentUser(res.data.user);
+      } catch (err) {
+        console.error('Failed to get current user:', err);
+      }
+    };
+    fetchMe();
+  }, []);
+
+  const openChatWithFarmer = async (farmerId, orderId) => {
+    try {
+      await getOrCreateConversation({ partnerId: farmerId, orderId });
+      setChatPartnerId(farmerId);
+      setChatOrderId(orderId);
+      setIsChatOpen(true);
+    } catch (err) {
+      console.error('Failed to open chat', err);
+      alert('Could not start chat right now.');
+    }
+  };
 
   // Sync cart to localStorage
   useEffect(() => {
@@ -262,6 +297,13 @@ function BuyerDashboard() {
             <History className="h-4 w-4" />
             <span>My Orders & Invoices</span>
           </button>
+          <button
+            onClick={() => setIsChatOpen(true)}
+            className="py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700"
+          >
+            <MessageCircle className="h-4 w-4" />
+            <span>Messages</span>
+          </button>
         </div>
 
         {/* Tab Contents */}
@@ -318,6 +360,7 @@ function BuyerDashboard() {
                     crop={crop}
                     viewMode="buyer"
                     onAddToCart={handleAddToCart}
+                    onChatWithFarmer={openChatWithFarmer}
                   />
                 ))}
               </div>
@@ -631,6 +674,13 @@ function BuyerDashboard() {
 
                         {/* Footer Dispute / Cancel Buttons */}
                         <div className="flex justify-end items-center space-x-2 pt-2">
+                          <button
+                            onClick={() => openChatWithFarmer(order.farmer._id, order._id)}
+                            className="text-xs font-bold text-emerald-700 hover:text-white px-3 py-1.5 rounded-lg border border-emerald-200 hover:bg-emerald-600 transition-colors cursor-pointer flex items-center space-x-1 mr-auto"
+                          >
+                            <MessageCircle className="h-3.5 w-3.5" />
+                            <span>Chat with Farmer</span>
+                          </button>
                           {order.status === 'Pending' && (
                             <button
                               onClick={() => handleCancelOrder(order._id)}
@@ -664,6 +714,14 @@ function BuyerDashboard() {
       </div>
 
       <Footer />
+
+      <ChatWidget 
+        isOpen={isChatOpen} 
+        onClose={() => { setIsChatOpen(false); setChatPartnerId(null); setChatOrderId(null); }}
+        initialPartnerId={chatPartnerId}
+        initialOrderId={chatOrderId}
+        currentUser={currentUser}
+      />
     </div>
   );
 }
