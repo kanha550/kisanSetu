@@ -90,24 +90,24 @@ function AdminDashboard() {
         </div>
 
         {/* Tab Links */}
-        <div className="flex border-b border-gray-250 mb-8 overflow-x-auto gap-1">
+        <div className="flex flex-wrap justify-center sm:justify-start bg-gray-100/80 p-1.5 rounded-2xl mb-8 gap-1.5 shadow-inner">
           <button
             onClick={() => setActiveTab('overview')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'overview' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'overview' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <TrendingUp className="h-4 w-4" />
             <span>Platform Overview</span>
           </button>
           <button
             onClick={() => setActiveTab('users')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'users' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'users' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <Users className="h-4 w-4" />
             <span>User Accounts Control ({users.length})</span>
           </button>
           <button
             onClick={() => setActiveTab('reports')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'reports' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'reports' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <ShieldAlert className="h-4 w-4" />
             <span>Disputes & Tickets ({reports.filter((r) => r.status === 'Pending').length} pending)</span>

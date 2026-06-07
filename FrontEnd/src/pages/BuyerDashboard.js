@@ -275,31 +275,31 @@ function BuyerDashboard() {
         </div>
 
         {/* Navigation Tabs */}
-        <div className="flex border-b border-gray-250 mb-8 overflow-x-auto gap-1">
+        <div className="flex flex-wrap justify-center sm:justify-start bg-gray-100/80 p-1.5 rounded-2xl mb-8 gap-1.5 shadow-inner">
           <button
             onClick={() => setActiveTab('marketplace')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'marketplace' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'marketplace' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <ShoppingBag className="h-4 w-4" />
             <span>Marketplace Sourcing</span>
           </button>
           <button
             onClick={() => setActiveTab('cart')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'cart' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'cart' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <ShoppingCart className="h-4 w-4" />
             <span>Cart Items ({cartCount})</span>
           </button>
           <button
             onClick={() => setActiveTab('history')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'history' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'history' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <History className="h-4 w-4" />
             <span>My Orders & Invoices</span>
           </button>
           <button
             onClick={() => setIsChatOpen(true)}
-            className="py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700"
+            className="flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap text-gray-500 hover:text-emerald-700 hover:bg-gray-50"
           >
             <MessageCircle className="h-4 w-4" />
             <span>Messages</span>
@@ -312,24 +312,24 @@ function BuyerDashboard() {
             {/* Sourcing Filters panel */}
             <div className="bg-white p-5 rounded-2xl border border-gray-150 shadow-sm flex flex-col md:flex-row gap-4 items-center">
               <div className="relative flex-grow w-full">
-                <Search className="absolute left-3.5 h-4 w-4 text-gray-400" />
+                <Search className="absolute left-3.5 top-1/2 transform -translate-y-1/2 h-4 w-4 text-gray-400" />
                 <input
                   type="text"
                   placeholder="Search crops by keyword..."
                   value={search}
                   onChange={(e) => setSearch(e.target.value)}
-                  className="w-full p-2.5 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-xs font-semibold focus:ring-2 focus:ring-emerald-500"
+                  className="w-full p-3 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-sm font-semibold focus:ring-2 focus:ring-emerald-500 shadow-sm transition-shadow"
                 />
               </div>
 
               <div className="relative flex-grow w-full">
-                <MapPin className="absolute left-3.5 h-4 w-4 text-gray-400" />
+                <MapPin className="absolute left-3.5 top-1/2 transform -translate-y-1/2 h-4 w-4 text-gray-400" />
                 <input
                   type="text"
                   placeholder="Filter by harvest location..."
                   value={locationFilter}
                   onChange={(e) => setLocationFilter(e.target.value)}
-                  className="w-full p-2.5 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-xs font-semibold focus:ring-2 focus:ring-emerald-500"
+                  className="w-full p-3 pl-10 border border-gray-200 rounded-xl bg-gray-50/50 outline-none text-sm font-semibold focus:ring-2 focus:ring-emerald-500 shadow-sm transition-shadow"
                 />
               </div>
 

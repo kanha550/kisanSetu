@@ -238,38 +238,38 @@ function FarmerDashboard() {
         </div>
 
         {/* Dashboard Nav Tabs */}
-        <div className="flex border-b border-gray-250 mb-8 overflow-x-auto gap-1">
+        <div className="flex flex-wrap justify-center sm:justify-start bg-gray-100/80 p-1.5 rounded-2xl mb-8 gap-1.5 shadow-inner">
           <button
             onClick={() => { setActiveTab('overview'); setEditingCrop(null); clearForm(); }}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'overview' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'overview' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <BarChart className="h-4 w-4" />
             <span>Overview</span>
           </button>
           <button
             onClick={() => { setActiveTab('listings'); setEditingCrop(null); clearForm(); }}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'listings' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'listings' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <Package className="h-4 w-4" />
             <span>My Inventory</span>
           </button>
           <button
             onClick={() => setActiveTab('add')}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'add' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'add' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <PlusCircle className="h-4 w-4" />
             <span>{editingCrop ? 'Edit Crop' : 'List New Crop'}</span>
           </button>
           <button
             onClick={() => { setActiveTab('orders'); setEditingCrop(null); clearForm(); }}
-            className={`py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap ${activeTab === 'orders' ? 'border-emerald-700 text-emerald-800' : 'border-transparent text-gray-400 hover:text-emerald-700'}`}
+            className={`flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap ${activeTab === 'orders' ? 'bg-white text-emerald-800 shadow' : 'text-gray-500 hover:text-emerald-700 hover:bg-gray-50'}`}
           >
             <ClipboardList className="h-4 w-4" />
             <span>Received Orders ({pendingOrders} pending)</span>
           </button>
           <button
             onClick={() => setIsChatOpen(true)}
-            className="py-3 px-6 font-bold text-sm border-b-2 transition-all flex items-center space-x-1.5 cursor-pointer whitespace-nowrap border-transparent text-gray-400 hover:text-emerald-700"
+            className="flex-grow sm:flex-grow-0 justify-center py-2.5 px-4 sm:px-6 font-bold text-sm rounded-xl transition-all flex items-center space-x-2 cursor-pointer whitespace-nowrap text-gray-500 hover:text-emerald-700 hover:bg-gray-50"
           >
             <MessageCircle className="h-4 w-4" />
             <span>Messages</span>
