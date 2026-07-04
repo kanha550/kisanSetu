@@ -1,6 +1,9 @@
 {
   "name": "src",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "description": "",
   "scripts": {
     "start": "vite",
