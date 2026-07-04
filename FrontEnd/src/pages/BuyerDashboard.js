@@ -22,7 +22,6 @@ import {
   AlertCircle, 
   Truck, 
   Sparkles,
-  Sparkles,
   Flag,
   Loader2,
   MessageCircle
