@@ -1,6 +1,7 @@
 import { io } from 'socket.io-client';
+import { BACKEND_URL } from '../config';
 
-const SOCKET_URL = 'http://localhost:550';
+const SOCKET_URL = BACKEND_URL;
 let socket;
 
 export const connectSocket = (token) => {

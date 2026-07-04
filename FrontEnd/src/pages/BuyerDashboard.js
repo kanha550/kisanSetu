@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { BACKEND_URL } from '../config';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import CropCard from '../components/CropCard';
@@ -388,7 +389,7 @@ function BuyerDashboard() {
                     <div key={item.crop._id} className="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-gray-100 pb-4 last:border-b-0 last:pb-0 gap-4">
                       <div className="flex items-center space-x-4">
                         <img
-                          src={item.crop.image?.startsWith('http') ? item.crop.image : `http://localhost:550${item.crop.image}`}
+                          src={item.crop.image?.startsWith('http') ? item.crop.image : `${BACKEND_URL}${item.crop.image}`}
                           alt={item.crop.name}
                           className="h-16 w-20 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                         />
@@ -610,7 +611,7 @@ function BuyerDashboard() {
                         <div className="flex items-center justify-between">
                           <div className="flex items-center space-x-4">
                             <img
-                              src={order.crop?.image?.startsWith('http') ? order.crop?.image : `http://localhost:550${order.crop?.image}`}
+                              src={order.crop?.image?.startsWith('http') ? order.crop?.image : `${BACKEND_URL}${order.crop?.image}`}
                               alt={order.crop?.name}
                               className="h-14 w-16 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                             />

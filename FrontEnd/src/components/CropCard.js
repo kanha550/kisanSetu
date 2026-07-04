@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { MapPin, User, ShoppingCart, Edit, Trash2, MessageCircle } from 'lucide-react';
+import { BACKEND_URL } from '../config';
 
 function CropCard({ crop, onAddToCart, onEdit, onDelete, onChatWithFarmer, viewMode = 'buyer' }) {
   const [qty, setQty] = useState(1);
@@ -7,7 +8,7 @@ function CropCard({ crop, onAddToCart, onEdit, onDelete, onChatWithFarmer, viewM
   const getImageUrl = (imagePath) => {
     if (!imagePath) return 'https://images.unsplash.com/photo-1595974482597-4b8da8879bc5';
     if (imagePath.startsWith('http')) return imagePath;
-    return `http://localhost:550${imagePath}`;
+    return `${BACKEND_URL}${imagePath}`;
   };
 
   const getStockBadgeColor = (quantity) => {

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { BACKEND_URL } from '../config';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import CropCard from '../components/CropCard';
@@ -518,7 +519,7 @@ function FarmerDashboard() {
                       ) : image ? (
                         <div className="text-center space-y-2">
                           <img
-                            src={image.startsWith('http') ? image : `http://localhost:550${image}`}
+                            src={image.startsWith('http') ? image : `${BACKEND_URL}${image}`}
                             alt="Crop preview"
                             className="h-32 object-cover rounded-xl border border-gray-200 mx-auto"
                           />

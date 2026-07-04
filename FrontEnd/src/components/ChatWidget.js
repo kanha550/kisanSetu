@@ -15,6 +15,7 @@ import {
   markMessagesRead 
 } from '../utils/api';
 import { connectSocket } from '../utils/socket';
+import { BACKEND_URL } from '../config';
 
 function ChatWidget({ isOpen, onClose, initialPartnerId = null, initialOrderId = null, currentUser }) {
   const [socket, setSocket] = useState(null);
@@ -258,7 +259,7 @@ function ChatWidget({ isOpen, onClose, initialPartnerId = null, initialOrderId =
                   >
                     <div className="relative flex-shrink-0">
                       {partner?.image ? (
-                        <img src={`http://localhost:550${partner.image}`} alt={partner.name} className="h-12 w-12 rounded-full object-cover border-2 border-white shadow-sm" />
+                        <img src={`${BACKEND_URL}${partner.image}`} alt={partner.name} className="h-12 w-12 rounded-full object-cover border-2 border-white shadow-sm" />
                       ) : (
                         <div className="h-12 w-12 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 border-2 border-white shadow-sm">
                           <UserIcon className="h-6 w-6" />
@@ -325,7 +326,7 @@ function ChatWidget({ isOpen, onClose, initialPartnerId = null, initialOrderId =
                   </button>
                   <div className="relative">
                     {getPartnerInfo(activeChat)?.image ? (
-                      <img src={`http://localhost:550${getPartnerInfo(activeChat)?.image}`} className="h-12 w-12 rounded-full object-cover shadow-sm" alt="" />
+                      <img src={`${BACKEND_URL}${getPartnerInfo(activeChat)?.image}`} className="h-12 w-12 rounded-full object-cover shadow-sm" alt="" />
                     ) : (
                       <div className="h-12 w-12 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 shadow-sm">
                         <UserIcon className="h-6 w-6" />
