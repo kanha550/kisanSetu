@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:550/api',
+  baseURL: 'https://kisansetu-backend-w2ni.onrender.com',
   headers: {
     'Content-Type': 'application/json'
   }
