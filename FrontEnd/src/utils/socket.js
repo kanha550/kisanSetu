@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client';
 
-const SOCKET_URL = 'http://localhost:550';
+const SOCKET_URL = 'https://kisansetu-backend-w2ni.onrender.com';
 let socket;
 
 export const connectSocket = (token) => {
