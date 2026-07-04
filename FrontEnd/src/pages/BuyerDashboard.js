@@ -388,7 +388,7 @@ function BuyerDashboard() {
                     <div key={item.crop._id} className="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-gray-100 pb-4 last:border-b-0 last:pb-0 gap-4">
                       <div className="flex items-center space-x-4">
                         <img
-                          src={item.crop.image?.startsWith('http') ? item.crop.image : `http://localhost:550${item.crop.image}`}
+                          src={item.crop.image?.startsWith('http') ? item.crop.image : `https://kisansetu-backend-w2ni.onrender.com${item.crop.image}`}
                           alt={item.crop.name}
                           className="h-16 w-20 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                         />
