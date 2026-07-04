@@ -610,7 +610,7 @@ function BuyerDashboard() {
                         <div className="flex items-center justify-between">
                           <div className="flex items-center space-x-4">
                             <img
-                              src={order.crop?.image?.startsWith('http') ? order.crop?.image : `http://localhost:550${order.crop?.image}`}
+                              src={order.crop?.image?.startsWith('http') ? order.crop?.image : `https://kisansetu-backend-w2ni.onrender.com${order.crop?.image}`}
                               alt={order.crop?.name}
                               className="h-14 w-16 object-cover rounded-xl border border-gray-100 flex-shrink-0"
                             />
