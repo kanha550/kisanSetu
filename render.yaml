@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: kisansetu-frontend
+    runtime: node
+    rootDir: FrontEnd
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 20.20.2
